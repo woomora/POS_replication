@@ -1,0 +1,433 @@
+countrycode,year,gdppc,imf,countryflag,country,continent,naim
+ARG,1997,10.0546298842517,213,🇦🇷,Argentina,Americas,0
+ARG,1998,10.080827194434628,213,🇦🇷,Argentina,Americas,0
+ARG,1999,10.034865848030925,213,🇦🇷,Argentina,Americas,0
+ARG,2000,10.015611797755666,213,🇦🇷,Argentina,Americas,0
+ARG,2001,9.959530247647049,213,🇦🇷,Argentina,Americas,0
+ARG,2002,9.833445909392921,213,🇦🇷,Argentina,Americas,0
+ARG,2003,9.907803839787537,213,🇦🇷,Argentina,Americas,0
+ARG,2004,9.98409944707911,213,🇦🇷,Argentina,Americas,0
+ARG,2005,10.058580536030906,213,🇦🇷,Argentina,Americas,0
+ARG,2006,10.125631352500534,213,🇦🇷,Argentina,Americas,0
+ARG,2007,10.201816264486013,213,🇦🇷,Argentina,Americas,0
+ARG,2008,10.2316642036287,213,🇦🇷,Argentina,Americas,0
+ARG,2009,10.160512340068978,213,🇦🇷,Argentina,Americas,0
+ARG,2010,10.254406029838238,213,🇦🇷,Argentina,Americas,0
+ARG,2011,10.301181624587496,213,🇦🇷,Argentina,Americas,0
+ARG,2012,10.279495322901997,213,🇦🇷,Argentina,Americas,0
+ARG,2013,10.292072746214721,213,🇦🇷,Argentina,Americas,0
+ARG,2014,10.255630931043127,213,🇦🇷,Argentina,Americas,0
+ARG,2015,10.271796208838657,213,🇦🇷,Argentina,Americas,0
+ARG,2016,10.240201677754904,213,🇦🇷,Argentina,Americas,0
+ARG,2017,10.25762547967898,213,🇦🇷,Argentina,Americas,0
+ARG,2018,10.220944796448343,213,🇦🇷,Argentina,Americas,0
+ARG,2019,10.19079932841585,213,🇦🇷,Argentina,Americas,0
+ARG,2020,10.07684338627361,213,🇦🇷,Argentina,Americas,0
+ARG,2021,10.169184808535388,213,🇦🇷,Argentina,Americas,0
+ARG,2022,10.208301007424414,213,🇦🇷,Argentina,Americas,0
+ARG,2023,NA,213,🇦🇷,Argentina,Americas,0
+BOL,1997,8.701463116538442,218,🇧🇴,Bolivia,Americas,0
+BOL,1998,8.732351108296555,218,🇧🇴,Bolivia,Americas,0
+BOL,1999,8.718420230309924,218,🇧🇴,Bolivia,Americas,0
+BOL,2000,8.725151138090844,218,🇧🇴,Bolivia,Americas,0
+BOL,2001,8.724150769460165,218,🇧🇴,Bolivia,Americas,0
+BOL,2002,8.731191827188821,218,🇧🇴,Bolivia,Americas,0
+BOL,2003,8.740481275162574,218,🇧🇴,Bolivia,Americas,0
+BOL,2004,8.763975202577164,218,🇧🇴,Bolivia,Americas,0
+BOL,2005,8.789910086628979,218,🇧🇴,Bolivia,Americas,0
+BOL,2006,8.81929380281247,218,🇧🇴,Bolivia,Americas,0
+BOL,2007,8.84642428703862,218,🇧🇴,Bolivia,Americas,0
+BOL,2008,8.888795523771659,218,🇧🇴,Bolivia,Americas,0
+BOL,2009,8.904683208016113,218,🇧🇴,Bolivia,Americas,0
+BOL,2010,8.928158842105262,218,🇧🇴,Bolivia,Americas,0
+BOL,2011,8.962112572227868,218,🇧🇴,Bolivia,Americas,0
+BOL,2012,8.995520234212286,218,🇧🇴,Bolivia,Americas,0
+BOL,2013,9.044974895882593,218,🇧🇴,Bolivia,Americas,0
+BOL,2014,9.082108693126964,218,🇧🇴,Bolivia,Americas,0
+BOL,2015,9.113806359991324,218,🇧🇴,Bolivia,Americas,0
+BOL,2016,9.140088676269782,218,🇧🇴,Bolivia,Americas,0
+BOL,2017,9.165983525256166,218,🇧🇴,Bolivia,Americas,0
+BOL,2018,9.192477415441695,218,🇧🇴,Bolivia,Americas,0
+BOL,2019,9.199827310221016,218,🇧🇴,Bolivia,Americas,0
+BOL,2020,9.094995489839706,218,🇧🇴,Bolivia,Americas,0
+BOL,2021,9.142379665273598,218,🇧🇴,Bolivia,Americas,0
+BOL,2022,9.165898889424911,218,🇧🇴,Bolivia,Americas,0
+BOL,2023,NA,218,🇧🇴,Bolivia,Americas,0
+BRA,1997,9.51333232444831,223,🇧🇷,Brazil,Americas,0
+BRA,1998,9.50202420371555,223,🇧🇷,Brazil,Americas,0
+BRA,1999,9.49249044226752,223,🇧🇷,Brazil,Americas,0
+BRA,2000,9.521766785019897,223,🇧🇷,Brazil,Americas,0
+BRA,2001,9.522363096627467,223,🇧🇷,Brazil,Americas,0
+BRA,2002,9.539812396023999,223,🇧🇷,Brazil,Americas,0
+BRA,2003,9.539299407803059,223,🇧🇷,Brazil,Americas,0
+BRA,2004,9.583907333425353,223,🇧🇷,Brazil,Americas,0
+BRA,2005,9.60425463100355,223,🇧🇷,Brazil,Americas,0
+BRA,2006,9.632336245727561,223,🇧🇷,Brazil,Americas,0
+BRA,2007,9.680943821038232,223,🇧🇷,Brazil,Americas,0
+BRA,2008,9.72075784051796,223,🇧🇷,Brazil,Americas,0
+BRA,2009,9.709967449753337,223,🇧🇷,Brazil,Americas,0
+BRA,2010,9.773156462394068,223,🇧🇷,Brazil,Americas,0
+BRA,2011,9.802845317077644,223,🇧🇷,Brazil,Americas,0
+BRA,2012,9.812871427562703,223,🇧🇷,Brazil,Americas,0
+BRA,2013,9.8337935892399,223,🇧🇷,Brazil,Americas,0
+BRA,2014,9.830242142288506,223,🇧🇷,Brazil,Americas,0
+BRA,2015,9.785680694099677,223,🇧🇷,Brazil,Americas,0
+BRA,2016,9.74426036433753,223,🇧🇷,Brazil,Americas,0
+BRA,2017,9.749479685836995,223,🇧🇷,Brazil,Americas,0
+BRA,2018,9.759221465169531,223,🇧🇷,Brazil,Americas,0
+BRA,2019,9.76369425140236,223,🇧🇷,Brazil,Americas,0
+BRA,2020,9.723726015539565,223,🇧🇷,Brazil,Americas,0
+BRA,2021,9.767124076213847,223,🇧🇷,Brazil,Americas,0
+BRA,2022,9.791120854178143,223,🇧🇷,Brazil,Americas,0
+BRA,2023,NA,223,🇧🇷,Brazil,Americas,0
+CAN,1997,10.656326888043358,156,🇨🇦,Canada,Americas,0
+CAN,1998,10.686218039701188,156,🇨🇦,Canada,Americas,0
+CAN,1999,10.728221767049254,156,🇨🇦,Canada,Americas,0
+CAN,2000,10.769017666831786,156,🇨🇦,Canada,Americas,0
+CAN,2001,10.776731506008533,156,🇨🇦,Canada,Americas,0
+CAN,2002,10.795408599336245,156,🇨🇦,Canada,Americas,0
+CAN,2003,10.804297510452871,156,🇨🇦,Canada,Americas,0
+CAN,2004,10.825422439349628,156,🇨🇦,Canada,Americas,0
+CAN,2005,10.847577733907988,156,🇨🇦,Canada,Americas,0
+CAN,2006,10.86351188987812,156,🇨🇦,Canada,Americas,0
+CAN,2007,10.874092307004574,156,🇨🇦,Canada,Americas,0
+CAN,2008,10.873168083583428,156,🇨🇦,Canada,Americas,0
+CAN,2009,10.832166311761558,156,🇨🇦,Canada,Americas,0
+CAN,2010,10.851487700138795,156,🇨🇦,Canada,Americas,0
+CAN,2011,10.872590622576775,156,🇨🇦,Canada,Americas,0
+CAN,2012,10.87913672629482,156,🇨🇦,Canada,Americas,0
+CAN,2013,10.891562600943164,156,🇨🇦,Canada,Americas,0
+CAN,2014,10.90983879425718,156,🇨🇦,Canada,Americas,0
+CAN,2015,10.908854077385474,156,🇨🇦,Canada,Americas,0
+CAN,2016,10.90786254129089,156,🇨🇦,Canada,Americas,0
+CAN,2017,10.925754576684314,156,🇨🇦,Canada,Americas,0
+CAN,2018,10.938690200613605,156,🇨🇦,Canada,Americas,0
+CAN,2019,10.943233330258902,156,🇨🇦,Canada,Americas,0
+CAN,2020,10.880799539318794,156,🇨🇦,Canada,Americas,0
+CAN,2021,10.926564679452103,156,🇨🇦,Canada,Americas,0
+CAN,2022,10.945818132212688,156,🇨🇦,Canada,Americas,0
+CAN,2023,NA,156,🇨🇦,Canada,Americas,0
+CHL,1997,9.729528549037664,228,🇨🇱,Chile,Americas,0
+CHL,1998,9.75790868737642,228,🇨🇱,Chile,Americas,0
+CHL,1999,9.743259351749916,228,🇨🇱,Chile,Americas,0
+CHL,2000,9.780288790597652,228,🇨🇱,Chile,Americas,0
+CHL,2001,9.800188829936141,228,🇨🇱,Chile,Americas,0
+CHL,2002,9.820835323715167,228,🇨🇱,Chile,Americas,0
+CHL,2003,9.856507116769727,228,🇨🇱,Chile,Americas,0
+CHL,2004,9.911150025637713,228,🇨🇱,Chile,Americas,0
+CHL,2005,9.958105346206112,228,🇨🇱,Chile,Americas,0
+CHL,2006,10.00704779519437,228,🇨🇱,Chile,Americas,0
+CHL,2007,10.047632983957625,228,🇨🇱,Chile,Americas,0
+CHL,2008,10.07481810677994,228,🇨🇱,Chile,Americas,0
+CHL,2009,10.053305352221994,228,🇨🇱,Chile,Americas,0
+CHL,2010,10.100083423844772,228,🇨🇱,Chile,Americas,0
+CHL,2011,10.150548727023484,228,🇨🇱,Chile,Americas,0
+CHL,2012,10.200535683131505,228,🇨🇱,Chile,Americas,0
+CHL,2013,10.22343547120817,228,🇨🇱,Chile,Americas,0
+CHL,2014,10.231135031574071,228,🇨🇱,Chile,Americas,0
+CHL,2015,10.242131927269707,228,🇨🇱,Chile,Americas,0
+CHL,2016,10.24761981971811,228,🇨🇱,Chile,Americas,0
+CHL,2017,10.24548487792841,228,🇨🇱,Chile,Americas,0
+CHL,2018,10.266650088065099,228,🇨🇱,Chile,Americas,0
+CHL,2019,10.256139992590013,228,🇨🇱,Chile,Americas,0
+CHL,2020,10.179111778166082,228,🇨🇱,Chile,Americas,0
+CHL,2021,10.280149896681982,228,🇨🇱,Chile,Americas,0
+CHL,2022,10.298605768655976,228,🇨🇱,Chile,Americas,0
+CHL,2023,NA,228,🇨🇱,Chile,Americas,0
+COL,1997,9.360883294232943,233,🇨🇴,Colombia,Americas,0
+COL,1998,9.349220042890442,233,🇨🇴,Colombia,Americas,0
+COL,1999,9.289528472408227,233,🇨🇴,Colombia,Americas,0
+COL,2000,9.302159194202918,233,🇨🇴,Colombia,Americas,0
+COL,2001,9.303043641490133,233,🇨🇴,Colombia,Americas,0
+COL,2002,9.312426417985533,233,🇨🇴,Colombia,Americas,0
+COL,2003,9.33604965940933,233,🇨🇴,Colombia,Americas,0
+COL,2004,9.373724737974186,233,🇨🇴,Colombia,Americas,0
+COL,2005,9.407226200885034,233,🇨🇴,Colombia,Americas,0
+COL,2006,9.459246603585434,233,🇨🇴,Colombia,Americas,0
+COL,2007,9.512055800790039,233,🇨🇴,Colombia,Americas,0
+COL,2008,9.532683992733771,233,🇨🇴,Colombia,Americas,0
+COL,2009,9.532700615389706,233,🇨🇴,Colombia,Americas,0
+COL,2010,9.565397542017767,233,🇨🇴,Colombia,Americas,0
+COL,2011,9.621633250304479,233,🇨🇴,Colombia,Americas,0
+COL,2012,9.649616919726068,233,🇨🇴,Colombia,Americas,0
+COL,2013,9.689782051282197,233,🇨🇴,Colombia,Americas,0
+COL,2014,9.724318285136105,233,🇨🇴,Colombia,Americas,0
+COL,2015,9.744028913040014,233,🇨🇴,Colombia,Americas,0
+COL,2016,9.75400174586983,233,🇨🇴,Colombia,Americas,0
+COL,2017,9.75238089425008,233,🇨🇴,Colombia,Americas,0
+COL,2018,9.758744996483358,233,🇨🇴,Colombia,Americas,0
+COL,2019,9.771808815777653,233,🇨🇴,Colombia,Americas,0
+COL,2020,9.681820522784072,233,🇨🇴,Colombia,Americas,0
+COL,2021,9.774888203598087,233,🇨🇴,Colombia,Americas,0
+COL,2022,9.838026950130685,233,🇨🇴,Colombia,Americas,0
+COL,2023,NA,233,🇨🇴,Colombia,Americas,0
+CRI,1997,9.463456971824078,238,🇨🇷,Costa Rica,Americas,0
+CRI,1998,9.510874493588217,238,🇨🇷,Costa Rica,Americas,0
+CRI,1999,9.531437758922534,238,🇨🇷,Costa Rica,Americas,0
+CRI,2000,9.549659466304123,238,🇨🇷,Costa Rica,Americas,0
+CRI,2001,9.565542488655174,238,🇨🇷,Costa Rica,Americas,0
+CRI,2002,9.582162975137999,238,🇨🇷,Costa Rica,Americas,0
+CRI,2003,9.608549528074025,238,🇨🇷,Costa Rica,Americas,0
+CRI,2004,9.636635965230463,238,🇨🇷,Costa Rica,Americas,0
+CRI,2005,9.660907015502376,238,🇨🇷,Costa Rica,Americas,0
+CRI,2006,9.717285820407351,238,🇨🇷,Costa Rica,Americas,0
+CRI,2007,9.782209472995314,238,🇨🇷,Costa Rica,Americas,0
+CRI,2008,9.814657411575773,238,🇨🇷,Costa Rica,Americas,0
+CRI,2009,9.792380542760826,238,🇨🇷,Costa Rica,Americas,0
+CRI,2010,9.831722776140477,238,🇨🇷,Costa Rica,Americas,0
+CRI,2011,9.862412260435667,238,🇨🇷,Costa Rica,Americas,0
+CRI,2012,9.898047828415176,238,🇨🇷,Costa Rica,Americas,0
+CRI,2013,9.91115665891325,238,🇨🇷,Costa Rica,Americas,0
+CRI,2014,9.935015402048316,238,🇨🇷,Costa Rica,Americas,0
+CRI,2015,9.960421697571842,238,🇨🇷,Costa Rica,Americas,0
+CRI,2016,9.991450422738199,238,🇨🇷,Costa Rica,Americas,0
+CRI,2017,10.022399190431537,238,🇨🇷,Costa Rica,Americas,0
+CRI,2018,10.038875785831106,238,🇨🇷,Costa Rica,Americas,0
+CRI,2019,10.054112028199144,238,🇨🇷,Costa Rica,Americas,0
+CRI,2020,10.002880820484673,238,🇨🇷,Costa Rica,Americas,0
+CRI,2021,10.073242822041207,238,🇨🇷,Costa Rica,Americas,0
+CRI,2022,10.112552017486207,238,🇨🇷,Costa Rica,Americas,0
+CRI,2023,NA,238,🇨🇷,Costa Rica,Americas,0
+DOM,1997,9.1735400748439,243,🇩🇴,Dominican Republic,Americas,0
+DOM,1998,9.222454277743452,243,🇩🇴,Dominican Republic,Americas,0
+DOM,1999,9.264672312835646,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2000,9.294967176903025,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2001,9.304360317653053,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2002,9.333893540680675,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2003,9.306260619356108,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2004,9.317911567688743,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2005,9.394648800153094,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2006,9.46948079267156,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2007,9.528385545241122,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2008,9.547216181478818,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2009,9.543580755238043,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2010,9.610533400462957,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2011,9.628379913479769,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2012,9.642434569409717,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2013,9.677535893991603,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2014,9.733428220501187,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2015,9.788444128665587,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2016,9.84127944798915,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2017,9.875588863109344,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2018,9.932035827849866,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2019,9.970572958634218,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2020,9.890240406602405,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2021,9.995305365475158,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2022,10.032815540581945,243,🇩🇴,Dominican Republic,Americas,0
+DOM,2023,NA,243,🇩🇴,Dominican Republic,Americas,0
+ECU,1997,9.290698541338518,248,🇪🇨,Ecuador,Americas,0
+ECU,1998,9.30532351381724,248,🇪🇨,Ecuador,Americas,0
+ECU,1999,9.239513105712133,248,🇪🇨,Ecuador,Americas,0
+ECU,2000,9.233241068417316,248,🇪🇨,Ecuador,Americas,0
+ECU,2001,9.255415201880352,248,🇪🇨,Ecuador,Americas,0
+ECU,2002,9.278195095603662,248,🇪🇨,Ecuador,Americas,0
+ECU,2003,9.287572828607894,248,🇪🇨,Ecuador,Americas,0
+ECU,2004,9.349090062148226,248,🇪🇨,Ecuador,Americas,0
+ECU,2005,9.38340641754545,248,🇪🇨,Ecuador,Americas,0
+ECU,2006,9.409288534189015,248,🇪🇨,Ecuador,Americas,0
+ECU,2007,9.413771464031662,248,🇪🇨,Ecuador,Americas,0
+ECU,2008,9.458361807746842,248,🇪🇨,Ecuador,Americas,0
+ECU,2009,9.447185945044538,248,🇪🇨,Ecuador,Americas,0
+ECU,2010,9.465228668671948,248,🇪🇨,Ecuador,Americas,0
+ECU,2011,9.524549215293469,248,🇪🇨,Ecuador,Americas,0
+ECU,2012,9.563409470983862,248,🇪🇨,Ecuador,Americas,0
+ECU,2013,9.596365856474929,248,🇪🇨,Ecuador,Americas,0
+ECU,2014,9.618718410034552,248,🇪🇨,Ecuador,Americas,0
+ECU,2015,9.60490829527453,248,🇪🇨,Ecuador,Americas,0
+ECU,2016,9.577634735273064,248,🇪🇨,Ecuador,Americas,0
+ECU,2017,9.585508926231286,248,🇪🇨,Ecuador,Americas,0
+ECU,2018,9.579410346352573,248,🇪🇨,Ecuador,Americas,0
+ECU,2019,9.560434557421601,248,🇪🇨,Ecuador,Americas,0
+ECU,2020,9.465339860033435,248,🇪🇨,Ecuador,Americas,0
+ECU,2021,9.494999416062319,248,🇪🇨,Ecuador,Americas,0
+ECU,2022,9.512694020143101,248,🇪🇨,Ecuador,Americas,0
+ECU,2023,NA,248,🇪🇨,Ecuador,Americas,0
+GTM,1997,9.033885116082136,258,🇬🇹,Guatemala,Americas,0
+GTM,1998,9.058993763549157,258,🇬🇹,Guatemala,Americas,0
+GTM,1999,9.073048074379512,258,🇬🇹,Guatemala,Americas,0
+GTM,2000,9.084161383487652,258,🇬🇹,Guatemala,Americas,0
+GTM,2001,9.08319523565484,258,🇬🇹,Guatemala,Americas,0
+GTM,2002,9.097890612925129,258,🇬🇹,Guatemala,Americas,0
+GTM,2003,9.101364650058054,258,🇬🇹,Guatemala,Americas,0
+GTM,2004,9.11100169533905,258,🇬🇹,Guatemala,Americas,0
+GTM,2005,9.122465079883511,258,🇬🇹,Guatemala,Americas,0
+GTM,2006,9.154334021121011,258,🇬🇹,Guatemala,Americas,0
+GTM,2007,9.196024268328173,258,🇬🇹,Guatemala,Americas,0
+GTM,2008,9.209154288937262,258,🇬🇹,Guatemala,Americas,0
+GTM,2009,9.195101300056235,258,🇬🇹,Guatemala,Americas,0
+GTM,2010,9.20516939486943,258,🇬🇹,Guatemala,Americas,0
+GTM,2011,9.227770017554308,258,🇬🇹,Guatemala,Americas,0
+GTM,2012,9.239308283897849,258,🇬🇹,Guatemala,Americas,0
+GTM,2013,9.258018575405975,258,🇬🇹,Guatemala,Americas,0
+GTM,2014,9.28421164135652,258,🇬🇹,Guatemala,Americas,0
+GTM,2015,9.307403568933152,258,🇬🇹,Guatemala,Americas,0
+GTM,2016,9.317248604633047,258,🇬🇹,Guatemala,Americas,0
+GTM,2017,9.33130582571724,258,🇬🇹,Guatemala,Americas,0
+GTM,2018,9.34880321366677,258,🇬🇹,Guatemala,Americas,0
+GTM,2019,9.37259214705811,258,🇬🇹,Guatemala,Americas,0
+GTM,2020,9.339311209991122,258,🇬🇹,Guatemala,Americas,0
+GTM,2021,9.401491379450917,258,🇬🇹,Guatemala,Americas,0
+GTM,2022,9.427447419893127,258,🇬🇹,Guatemala,Americas,0
+GTM,2023,NA,258,🇬🇹,Guatemala,Americas,0
+HND,1997,8.410847383281002,268,🇭🇳,Honduras,Americas,0
+HND,1998,8.419710676311192,268,🇭🇳,Honduras,Americas,0
+HND,1999,8.385916976495182,268,🇭🇳,Honduras,Americas,0
+HND,2000,8.4289804154065,268,🇭🇳,Honduras,Americas,0
+HND,2001,8.42900081447481,268,🇭🇳,Honduras,Americas,0
+HND,2002,8.439581448324438,268,🇭🇳,Honduras,Americas,0
+HND,2003,8.45845622799817,268,🇭🇳,Honduras,Americas,0
+HND,2004,8.494021332274192,268,🇭🇳,Honduras,Americas,0
+HND,2005,8.528521473565357,268,🇭🇳,Honduras,Americas,0
+HND,2006,8.56853536097547,268,🇭🇳,Honduras,Americas,0
+HND,2007,8.605698229693944,268,🇭🇳,Honduras,Americas,0
+HND,2008,8.625014401752347,268,🇭🇳,Honduras,Americas,0
+HND,2009,8.578963950965637,268,🇭🇳,Honduras,Americas,0
+HND,2010,8.594836348163035,268,🇭🇳,Honduras,Americas,0
+HND,2011,8.612377234225907,268,🇭🇳,Honduras,Americas,0
+HND,2012,8.633326135659546,268,🇭🇳,Honduras,Americas,0
+HND,2013,8.641899604327085,268,🇭🇳,Honduras,Americas,0
+HND,2014,8.65353594553552,268,🇭🇳,Honduras,Americas,0
+HND,2015,8.673124158573419,268,🇭🇳,Honduras,Americas,0
+HND,2016,8.693581858969663,268,🇭🇳,Honduras,Americas,0
+HND,2017,8.723476341130462,268,🇭🇳,Honduras,Americas,0
+HND,2018,8.744108218502655,268,🇭🇳,Honduras,Americas,0
+HND,2019,8.753486079655463,268,🇭🇳,Honduras,Americas,0
+HND,2020,8.643334212177463,268,🇭🇳,Honduras,Americas,0
+HND,2021,8.746068880935747,268,🇭🇳,Honduras,Americas,0
+HND,2022,8.770348694986119,268,🇭🇳,Honduras,Americas,0
+HND,2023,NA,268,🇭🇳,Honduras,Americas,0
+MEX,1997,9.860198738761238,273,🇲🇽,Mexico,Americas,0
+MEX,1998,9.903354218174847,273,🇲🇽,Mexico,Americas,0
+MEX,1999,9.914126358127458,273,🇲🇽,Mexico,Americas,0
+MEX,2000,9.947349870717122,273,🇲🇽,Mexico,Americas,0
+MEX,2001,9.927411813161246,273,🇲🇽,Mexico,Americas,0
+MEX,2002,9.90983857779399,273,🇲🇽,Mexico,Americas,0
+MEX,2003,9.906750295808214,273,🇲🇽,Mexico,Americas,0
+MEX,2004,9.927087273476218,273,🇲🇽,Mexico,Americas,0
+MEX,2005,9.933704434003255,273,🇲🇽,Mexico,Americas,0
+MEX,2006,9.967030471968629,273,🇲🇽,Mexico,Americas,0
+MEX,2007,9.974433811808169,273,🇲🇽,Mexico,Americas,0
+MEX,2008,9.971147557072458,273,🇲🇽,Mexico,Americas,0
+MEX,2009,9.893758809923527,273,🇲🇽,Mexico,Americas,0
+MEX,2010,9.929010143077296,273,🇲🇽,Mexico,Americas,0
+MEX,2011,9.948594398686714,273,🇲🇽,Mexico,Americas,0
+MEX,2012,9.969543652202356,273,🇲🇽,Mexico,Americas,0
+MEX,2013,9.96485696098304,273,🇲🇽,Mexico,Americas,0
+MEX,2014,9.977171622845153,273,🇲🇽,Mexico,Americas,0
+MEX,2015,9.99216608846077,273,🇲🇽,Mexico,Americas,0
+MEX,2016,9.998403423210812,273,🇲🇽,Mexico,Americas,0
+MEX,2017,10.006143488250627,273,🇲🇽,Mexico,Americas,0
+MEX,2018,10.016155686851151,273,🇲🇽,Mexico,Americas,1
+MEX,2019,10.004767672615715,273,🇲🇽,Mexico,Americas,1
+MEX,2020,9.907005960382381,273,🇲🇽,Mexico,Americas,1
+MEX,2021,9.95814957851773,273,🇲🇽,Mexico,Americas,1
+MEX,2022,9.99010519091764,273,🇲🇽,Mexico,Americas,1
+MEX,2023,NA,273,🇲🇽,Mexico,Americas,1
+PER,1997,8.942112377860855,293,🇵🇪,Peru,Americas,0
+PER,1998,8.920494129246627,293,🇵🇪,Peru,Americas,0
+PER,1999,8.918661995026529,293,🇵🇪,Peru,Americas,0
+PER,2000,8.93004469551348,293,🇵🇪,Peru,Americas,0
+PER,2001,8.92277141204996,293,🇵🇪,Peru,Americas,0
+PER,2002,8.96411074636608,293,🇵🇪,Peru,Americas,0
+PER,2003,8.994405609501355,293,🇵🇪,Peru,Americas,0
+PER,2004,9.033050312173208,293,🇵🇪,Peru,Americas,0
+PER,2005,9.08496301753108,293,🇵🇪,Peru,Americas,0
+PER,2006,9.149280078631753,293,🇵🇪,Peru,Americas,0
+PER,2007,9.223331930095394,293,🇵🇪,Peru,Americas,0
+PER,2008,9.303500257942844,293,🇵🇪,Peru,Americas,0
+PER,2009,9.30737164465322,293,🇵🇪,Peru,Americas,0
+PER,2010,9.379842710487482,293,🇵🇪,Peru,Americas,0
+PER,2011,9.432739764080557,293,🇵🇪,Peru,Americas,0
+PER,2012,9.48314540271163,293,🇵🇪,Peru,Americas,0
+PER,2013,9.530347142190518,293,🇵🇪,Peru,Americas,0
+PER,2014,9.543452897930587,293,🇵🇪,Peru,Americas,0
+PER,2015,9.563735378042578,293,🇵🇪,Peru,Americas,0
+PER,2016,9.58889487754358,293,🇵🇪,Peru,Americas,0
+PER,2017,9.5987017718143,293,🇵🇪,Peru,Americas,0
+PER,2018,9.618869526492631,293,🇵🇪,Peru,Americas,0
+PER,2019,9.621931254305698,293,🇵🇪,Peru,Americas,0
+PER,2020,9.492347052706796,293,🇵🇪,Peru,Americas,0
+PER,2021,9.605996231647902,293,🇵🇪,Peru,Americas,0
+PER,2022,9.622619984298463,293,🇵🇪,Peru,Americas,0
+PER,2023,NA,293,🇵🇪,Peru,Americas,0
+PRY,1997,9.303679673239538,288,🇵🇾,Paraguay,Americas,0
+PRY,1998,9.28276940406783,288,🇵🇾,Paraguay,Americas,0
+PRY,1999,9.248393133809413,288,🇵🇾,Paraguay,Americas,0
+PRY,2000,9.205710309402049,288,🇵🇾,Paraguay,Americas,0
+PRY,2001,9.180359255312394,288,🇵🇾,Paraguay,Americas,0
+PRY,2002,9.165862106714044,288,🇵🇾,Paraguay,Americas,0
+PRY,2003,9.19561623582776,288,🇵🇾,Paraguay,Americas,0
+PRY,2004,9.22367614002593,288,🇵🇾,Paraguay,Americas,0
+PRY,2005,9.233668769667315,288,🇵🇾,Paraguay,Americas,0
+PRY,2006,9.270122648806778,288,🇵🇾,Paraguay,Americas,0
+PRY,2007,9.31294784965055,288,🇵🇾,Paraguay,Americas,0
+PRY,2008,9.366096643286287,288,🇵🇾,Paraguay,Americas,0
+PRY,2009,9.353360617715847,288,🇵🇾,Paraguay,Americas,0
+PRY,2010,9.447064186092287,288,🇵🇾,Paraguay,Americas,0
+PRY,2011,9.476061298980357,288,🇵🇾,Paraguay,Americas,0
+PRY,2012,9.455463298271242,288,🇵🇾,Paraguay,Americas,0
+PRY,2013,9.521330749582562,288,🇵🇾,Paraguay,Americas,0
+PRY,2014,9.55892030548159,288,🇵🇾,Paraguay,Americas,0
+PRY,2015,9.573842982885168,288,🇵🇾,Paraguay,Americas,0
+PRY,2016,9.60138771707593,288,🇵🇾,Paraguay,Americas,0
+PRY,2017,9.634298332477805,288,🇵🇾,Paraguay,Americas,0
+PRY,2018,9.65209848195011,288,🇵🇾,Paraguay,Americas,0
+PRY,2019,9.634706086789462,288,🇵🇾,Paraguay,Americas,0
+PRY,2020,9.612987149990527,288,🇵🇾,Paraguay,Americas,0
+PRY,2021,9.639592625919976,288,🇵🇾,Paraguay,Americas,0
+PRY,2022,9.628934286345647,288,🇵🇾,Paraguay,Americas,0
+PRY,2023,NA,288,🇵🇾,Paraguay,Americas,0
+SLV,1997,8.906925063554452,253,🇸🇻,El Salvador,Americas,0
+SLV,1998,8.925863768793265,253,🇸🇻,El Salvador,Americas,0
+SLV,1999,8.940687632996534,253,🇸🇻,El Salvador,Americas,0
+SLV,2000,8.946074730669014,253,🇸🇻,El Salvador,Americas,0
+SLV,2001,8.949874825785086,253,🇸🇻,El Salvador,Americas,0
+SLV,2002,8.96161804772292,253,🇸🇻,El Salvador,Americas,0
+SLV,2003,8.974563271293016,253,🇸🇻,El Salvador,Americas,0
+SLV,2004,8.981957935146564,253,🇸🇻,El Salvador,Americas,0
+SLV,2005,9.00805504884451,253,🇸🇻,El Salvador,Americas,0
+SLV,2006,9.051071021930992,253,🇸🇻,El Salvador,Americas,0
+SLV,2007,9.06777311270406,253,🇸🇻,El Salvador,Americas,0
+SLV,2008,9.085130690803004,253,🇸🇻,El Salvador,Americas,0
+SLV,2009,9.060019729061244,253,🇸🇻,El Salvador,Americas,0
+SLV,2010,9.07758928279108,253,🇸🇻,El Salvador,Americas,0
+SLV,2011,9.110824448965474,253,🇸🇻,El Salvador,Americas,0
+SLV,2012,9.135399251407378,253,🇸🇻,El Salvador,Americas,0
+SLV,2013,9.153049129818003,253,🇸🇻,El Salvador,Americas,0
+SLV,2014,9.16634152409578,253,🇸🇻,El Salvador,Americas,0
+SLV,2015,9.186595190401087,253,🇸🇻,El Salvador,Americas,0
+SLV,2016,9.208553192375803,253,🇸🇻,El Salvador,Americas,0
+SLV,2017,9.228573525647322,253,🇸🇻,El Salvador,Americas,0
+SLV,2018,9.250948941735986,253,🇸🇻,El Salvador,Americas,0
+SLV,2019,9.273693083533676,253,🇸🇻,El Salvador,Americas,0
+SLV,2020,9.190326717351878,253,🇸🇻,El Salvador,Americas,0
+SLV,2021,9.292864418531945,253,🇸🇻,El Salvador,Americas,0
+SLV,2022,9.315015104549838,253,🇸🇻,El Salvador,Americas,0
+SLV,2023,NA,253,🇸🇻,El Salvador,Americas,0
+USA,1997,10.825254692406066,111,🇺🇸,United States,Americas,0
+USA,1998,10.85743637298972,111,🇺🇸,United States,Americas,0
+USA,1999,10.892784067006291,111,🇺🇸,United States,Americas,0
+USA,2000,10.921618733177768,111,🇺🇸,United States,Americas,0
+USA,2001,10.921219456189426,111,🇺🇸,United States,Americas,0
+USA,2002,10.928758705004684,111,🇺🇸,United States,Americas,0
+USA,2003,10.947742177776684,111,🇺🇸,United States,Americas,0
+USA,2004,10.976289281807633,111,🇺🇸,United States,Americas,0
+USA,2005,11.001311441200443,111,🇺🇸,United States,Americas,0
+USA,2006,11.01911684326974,111,🇺🇸,United States,Americas,0
+USA,2007,11.029511928044583,111,🇺🇸,United States,Americas,0
+USA,2008,11.021274413708259,111,🇺🇸,United States,Americas,0
+USA,2009,10.986165071672726,111,🇺🇸,United States,Americas,0
+USA,2010,11.004597070656125,111,🇺🇸,United States,Americas,0
+USA,2011,11.012709271181684,111,🇺🇸,United States,Americas,0
+USA,2012,11.02792395893462,111,🇺🇸,United States,Americas,0
+USA,2013,11.039246539373654,111,🇺🇸,United States,Americas,0
+USA,2014,11.054532911653583,111,🇺🇸,United States,Americas,0
+USA,2015,11.073874688832564,111,🇺🇸,United States,Americas,0
+USA,2016,11.083165152136521,111,🇺🇸,United States,Americas,0
+USA,2017,11.099010307886363,111,🇺🇸,United States,Americas,0
+USA,2018,11.12277437118639,111,🇺🇸,United States,Americas,0
+USA,2019,11.14090568485191,111,🇺🇸,United States,Americas,0
+USA,2020,11.103193926359808,111,🇺🇸,United States,Americas,0
+USA,2021,11.159380936935943,111,🇺🇸,United States,Americas,0
+USA,2022,11.174776686319113,111,🇺🇸,United States,Americas,0
+USA,2023,NA,111,🇺🇸,United States,Americas,0

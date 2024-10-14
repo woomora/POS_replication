@@ -1,0 +1,883 @@
+Concepto,Fecha,Valor
+Estados Unidos Mexicanos,2003 |  T1,85.1345663773587
+a  Región Norte,2003 |  T1,86.00015746292084
+b  Región Centro-Norte,2003 |  T1,82.53359096044206
+c  Región Centro,2003 |  T1,97.59130502885785
+d  Región Centro-Sur,2003 |  T1,91.72609814899891
+e  Región Sur-Sureste,2003 |  T1,68.60538175219601
+Estados Unidos Mexicanos,2003 |  T2,87.51173522254318
+a  Región Norte,2003 |  T2,89.65879988781498
+b  Región Centro-Norte,2003 |  T2,81.88776525136056
+c  Región Centro,2003 |  T2,100.0752939416022
+d  Región Centro-Sur,2003 |  T2,95.55805756210576
+e  Región Sur-Sureste,2003 |  T2,71.06179691356277
+Estados Unidos Mexicanos,2003 |  T3,82.36687105158475
+a  Región Norte,2003 |  T3,88.17770235242882
+b  Región Centro-Norte,2003 |  T3,78.98992428879946
+c  Región Centro,2003 |  T3,87.46534928704325
+d  Región Centro-Sur,2003 |  T3,91.4547300247202
+e  Región Sur-Sureste,2003 |  T3,68.10304077194938
+Estados Unidos Mexicanos,2003 |  T4,82.32429723828277
+a  Región Norte,2003 |  T4,90.42656375016747
+b  Región Centro-Norte,2003 |  T4,79.23123334422134
+c  Región Centro,2003 |  T4,86.8342433922104
+d  Región Centro-Sur,2003 |  T4,94.13583482120043
+e  Región Sur-Sureste,2003 |  T4,64.5790844379913
+Estados Unidos Mexicanos,2003 |  6 Meses,86.32315079995094
+a  Región Norte,2003 |  6 Meses,87.8294786753679
+b  Región Centro-Norte,2003 |  6 Meses,82.21067810590131
+c  Región Centro,2003 |  6 Meses,98.83329948523004
+d  Región Centro-Sur,2003 |  6 Meses,93.64207785555234
+e  Región Sur-Sureste,2003 |  6 Meses,69.8335893328794
+Estados Unidos Mexicanos,2003 |  9 Meses,85.00439088382886
+a  Región Norte,2003 |  9 Meses,87.94555323438821
+b  Región Centro-Norte,2003 |  9 Meses,81.13709350020069
+c  Región Centro,2003 |  9 Meses,95.04398275250112
+d  Región Centro-Sur,2003 |  9 Meses,92.91296191194162
+e  Región Sur-Sureste,2003 |  9 Meses,69.25673981256939
+Estados Unidos Mexicanos,2003 |  Anual,84.33436747244235
+a  Región Norte,2003 |  Anual,88.56580586333303
+b  Región Centro-Norte,2003 |  Anual,80.66062846120586
+c  Región Centro,2003 |  Anual,92.9915479124284
+d  Región Centro-Sur,2003 |  Anual,93.21868013925636
+e  Región Sur-Sureste,2003 |  Anual,68.08732596892484
+Estados Unidos Mexicanos,2004 |  T1,86.68966829594719
+a  Región Norte,2004 |  T1,88.59603455546696
+b  Región Centro-Norte,2004 |  T1,83.65613804769177
+c  Región Centro,2004 |  T1,98.32686996159534
+d  Región Centro-Sur,2004 |  T1,93.62899928988809
+e  Región Sur-Sureste,2004 |  T1,70.11160128814653
+Estados Unidos Mexicanos,2004 |  T2,89.30267000118063
+a  Región Norte,2004 |  T2,92.37783455099664
+b  Región Centro-Norte,2004 |  T2,78.77831375701192
+c  Región Centro,2004 |  T2,103.22148029083664
+d  Región Centro-Sur,2004 |  T2,99.71128325691583
+e  Región Sur-Sureste,2004 |  T2,72.88997927543531
+Estados Unidos Mexicanos,2004 |  T3,85.61286236864754
+a  Región Norte,2004 |  T3,93.89909127072924
+b  Región Centro-Norte,2004 |  T3,79.8610201867439
+c  Región Centro,2004 |  T3,89.60903601446954
+d  Región Centro-Sur,2004 |  T3,96.06222945244888
+e  Región Sur-Sureste,2004 |  T3,71.04175709401258
+Estados Unidos Mexicanos,2004 |  T4,86.30463529552365
+a  Región Norte,2004 |  T4,96.80662581121224
+b  Región Centro-Norte,2004 |  T4,82.24180208704362
+c  Región Centro,2004 |  T4,91.4821706232088
+d  Región Centro-Sur,2004 |  T4,96.64311602452636
+e  Región Sur-Sureste,2004 |  T4,66.7088378578926
+Estados Unidos Mexicanos,2004 |  6 Meses,87.99616914856391
+a  Región Norte,2004 |  6 Meses,90.4869345532318
+b  Región Centro-Norte,2004 |  6 Meses,81.21722590235183
+c  Región Centro,2004 |  6 Meses,100.77417512621598
+d  Región Centro-Sur,2004 |  6 Meses,96.67014127340197
+e  Región Sur-Sureste,2004 |  6 Meses,71.50079028179091
+Estados Unidos Mexicanos,2004 |  9 Meses,87.20173355525846
+a  Región Norte,2004 |  9 Meses,91.62432012573096
+b  Región Centro-Norte,2004 |  9 Meses,80.76515733048252
+c  Región Centro,2004 |  9 Meses,97.05246208896716
+d  Región Centro-Sur,2004 |  9 Meses,96.46750399975092
+e  Región Sur-Sureste,2004 |  9 Meses,71.34777921919813
+Estados Unidos Mexicanos,2004 |  Anual,86.97745899032478
+a  Región Norte,2004 |  Anual,92.91989654710127
+b  Región Centro-Norte,2004 |  Anual,81.13431851962281
+c  Región Centro,2004 |  Anual,95.6598892225276
+d  Región Centro-Sur,2004 |  Anual,96.5114070059448
+e  Región Sur-Sureste,2004 |  Anual,70.18804387887175
+Estados Unidos Mexicanos,2005 |  T1,88.88078552588406
+a  Región Norte,2005 |  T1,93.42819574820136
+b  Región Centro-Norte,2005 |  T1,88.35851464015722
+c  Región Centro,2005 |  T1,96.26377455245073
+d  Región Centro-Sur,2005 |  T1,94.0678557415481
+e  Región Sur-Sureste,2005 |  T1,73.21135079109978
+Estados Unidos Mexicanos,2005 |  T2,89.92882650889274
+a  Región Norte,2005 |  T2,94.43428346111536
+b  Región Centro-Norte,2005 |  T2,79.2203947594182
+c  Región Centro,2005 |  T2,107.63051672956072
+d  Región Centro-Sur,2005 |  T2,91.55718741956645
+e  Región Sur-Sureste,2005 |  T2,72.39476097679245
+Estados Unidos Mexicanos,2005 |  T3,87.50550643711273
+a  Región Norte,2005 |  T3,100.50457188318587
+b  Región Centro-Norte,2005 |  T3,81.24871124046112
+c  Región Centro,2005 |  T3,91.95535047686108
+d  Región Centro-Sur,2005 |  T3,95.0723898923974
+e  Región Sur-Sureste,2005 |  T3,69.175914968883
+Estados Unidos Mexicanos,2005 |  T4,85.1745487003167
+a  Región Norte,2005 |  T4,104.87697864094876
+b  Región Centro-Norte,2005 |  T4,88.31735543778872
+c  Región Centro,2005 |  T4,86.69398284052893
+d  Región Centro-Sur,2005 |  T4,93.46145547056722
+e  Región Sur-Sureste,2005 |  T4,55.135056130813766
+Estados Unidos Mexicanos,2005 |  6 Meses,89.40480601738841
+a  Región Norte,2005 |  6 Meses,93.93123960465836
+b  Región Centro-Norte,2005 |  6 Meses,83.7894546997877
+c  Región Centro,2005 |  6 Meses,101.94714564100572
+d  Región Centro-Sur,2005 |  6 Meses,92.81252158055726
+e  Región Sur-Sureste,2005 |  6 Meses,72.80305588394612
+Estados Unidos Mexicanos,2005 |  9 Meses,88.77170615729652
+a  Región Norte,2005 |  9 Meses,96.12235036416756
+b  Región Centro-Norte,2005 |  9 Meses,82.94254021334552
+c  Región Centro,2005 |  9 Meses,98.6165472529575
+d  Región Centro-Sur,2005 |  9 Meses,93.5658110178373
+e  Región Sur-Sureste,2005 |  9 Meses,71.59400891225842
+Estados Unidos Mexicanos,2005 |  Anual,87.87241679305156
+a  Región Norte,2005 |  Anual,98.31100743336285
+b  Región Centro-Norte,2005 |  Anual,84.28624401945632
+c  Región Centro,2005 |  Anual,95.63590614985036
+d  Región Centro-Sur,2005 |  Anual,93.53972213101976
+e  Región Sur-Sureste,2005 |  Anual,67.47927071689725
+Estados Unidos Mexicanos,2006 |  T1,89.74563881839485
+a  Región Norte,2006 |  T1,100.58445883018037
+b  Región Centro-Norte,2006 |  T1,91.50989709339292
+c  Región Centro,2006 |  T1,96.8430013593078
+d  Región Centro-Sur,2006 |  T1,94.16075637609458
+e  Región Sur-Sureste,2006 |  T1,66.14803806342809
+Estados Unidos Mexicanos,2006 |  T2,91.30929023422492
+a  Región Norte,2006 |  T2,104.24639777098923
+b  Región Centro-Norte,2006 |  T2,85.86341630065682
+c  Región Centro,2006 |  T2,96.51715889785308
+d  Región Centro-Sur,2006 |  T2,97.95848816720746
+e  Región Sur-Sureste,2006 |  T2,72.03240277911502
+Estados Unidos Mexicanos,2006 |  T3,87.4379593196138
+a  Región Norte,2006 |  T3,104.2969787681164
+b  Región Centro-Norte,2006 |  T3,83.80818435359491
+c  Región Centro,2006 |  T3,90.27470993153928
+d  Región Centro-Sur,2006 |  T3,92.31600498538246
+e  Región Sur-Sureste,2006 |  T3,66.08275637635185
+Estados Unidos Mexicanos,2006 |  T4,88.83471054273795
+a  Región Norte,2006 |  T4,110.2459093284132
+b  Región Centro-Norte,2006 |  T4,87.06633885863101
+c  Región Centro,2006 |  T4,88.70966332633495
+d  Región Centro-Sur,2006 |  T4,94.31545096881756
+e  Región Sur-Sureste,2006 |  T4,64.10597344682992
+Estados Unidos Mexicanos,2006 |  6 Meses,90.52746452630991
+a  Región Norte,2006 |  6 Meses,102.4154283005848
+b  Región Centro-Norte,2006 |  6 Meses,88.68665669702487
+c  Región Centro,2006 |  6 Meses,96.68008012858044
+d  Región Centro-Sur,2006 |  6 Meses,96.05962227165104
+e  Región Sur-Sureste,2006 |  6 Meses,69.09022042127155
+Estados Unidos Mexicanos,2006 |  9 Meses,89.49762945741121
+a  Región Norte,2006 |  9 Meses,103.042611789762
+b  Región Centro-Norte,2006 |  9 Meses,87.06049924921489
+c  Región Centro,2006 |  9 Meses,94.54495672956672
+d  Región Centro-Sur,2006 |  9 Meses,94.81174984289484
+e  Región Sur-Sureste,2006 |  9 Meses,68.08773240629833
+Estados Unidos Mexicanos,2006 |  Anual,89.3318997287429
+a  Región Norte,2006 |  Anual,104.8434361744248
+b  Región Centro-Norte,2006 |  Anual,87.06195915156893
+c  Región Centro,2006 |  Anual,93.0861333787588
+d  Región Centro-Sur,2006 |  Anual,94.68767512437556
+e  Región Sur-Sureste,2006 |  Anual,67.09229266643123
+Estados Unidos Mexicanos,2007 |  T1,92.95160999202314
+a  Región Norte,2007 |  T1,104.2828487583552
+b  Región Centro-Norte,2007 |  T1,89.22523827029468
+c  Región Centro,2007 |  T1,98.57890440484984
+d  Región Centro-Sur,2007 |  T1,90.05414417222795
+e  Región Sur-Sureste,2007 |  T1,78.60752492559865
+Estados Unidos Mexicanos,2007 |  T2,93.74611067065574
+a  Región Norte,2007 |  T2,106.8467145453932
+b  Región Centro-Norte,2007 |  T2,84.37660799275056
+c  Región Centro,2007 |  T2,100.2053833969061
+d  Región Centro-Sur,2007 |  T2,95.70654761270472
+e  Región Sur-Sureste,2007 |  T2,78.38896244165035
+Estados Unidos Mexicanos,2007 |  T3,88.31590658010545
+a  Región Norte,2007 |  T3,106.67198963433778
+b  Región Centro-Norte,2007 |  T3,80.73378001043825
+c  Región Centro,2007 |  T3,92.41059457485132
+d  Región Centro-Sur,2007 |  T3,89.45756443440442
+e  Región Sur-Sureste,2007 |  T3,68.94036154398884
+Estados Unidos Mexicanos,2007 |  T4,89.22289357577723
+a  Región Norte,2007 |  T4,110.24221266960473
+b  Región Centro-Norte,2007 |  T4,86.36466803609724
+c  Región Centro,2007 |  T4,88.43435441968732
+d  Región Centro-Sur,2007 |  T4,92.78320815390632
+e  Región Sur-Sureste,2007 |  T4,67.53383372237384
+Estados Unidos Mexicanos,2007 |  6 Meses,93.34886033133942
+a  Región Norte,2007 |  6 Meses,105.5647816518742
+b  Región Centro-Norte,2007 |  6 Meses,86.80092313152262
+c  Región Centro,2007 |  6 Meses,99.39214390087795
+d  Región Centro-Sur,2007 |  6 Meses,92.88034589246634
+e  Región Sur-Sureste,2007 |  6 Meses,78.49824368362451
+Estados Unidos Mexicanos,2007 |  9 Meses,91.67120908092812
+a  Región Norte,2007 |  9 Meses,105.93385097936203
+b  Región Centro-Norte,2007 |  9 Meses,84.77854209116116
+c  Región Centro,2007 |  9 Meses,97.0649607922024
+d  Región Centro-Sur,2007 |  9 Meses,91.73941873977904
+e  Región Sur-Sureste,2007 |  9 Meses,75.31228297041261
+Estados Unidos Mexicanos,2007 |  Anual,91.0591302046404
+a  Región Norte,2007 |  Anual,107.01094140192272
+b  Región Centro-Norte,2007 |  Anual,85.17507357739518
+c  Región Centro,2007 |  Anual,94.90730919907364
+d  Región Centro-Sur,2007 |  Anual,92.00036609331086
+e  Región Sur-Sureste,2007 |  Anual,73.36767065840291
+Estados Unidos Mexicanos,2008 |  T1,93.45794059904011
+a  Región Norte,2008 |  T1,101.1447816987026
+b  Región Centro-Norte,2008 |  T1,93.43937466859346
+c  Región Centro,2008 |  T1,98.54148570148836
+d  Región Centro-Sur,2008 |  T1,93.770640775939
+e  Región Sur-Sureste,2008 |  T1,79.1337972892114
+Estados Unidos Mexicanos,2008 |  T2,93.3687239172152
+a  Región Norte,2008 |  T2,103.55825333280934
+b  Región Centro-Norte,2008 |  T2,85.19232794593393
+c  Región Centro,2008 |  T2,105.50362742038708
+d  Región Centro-Sur,2008 |  T2,89.83267560317412
+e  Región Sur-Sureste,2008 |  T2,76.68329482271639
+Estados Unidos Mexicanos,2008 |  T3,88.59940342814319
+a  Región Norte,2008 |  T3,103.13155989279149
+b  Región Centro-Norte,2008 |  T3,83.96416155802554
+c  Región Centro,2008 |  T3,91.98968269245458
+d  Región Centro-Sur,2008 |  T3,90.9144225762953
+e  Región Sur-Sureste,2008 |  T3,71.28375341505007
+Estados Unidos Mexicanos,2008 |  T4,85.83793211867672
+a  Región Norte,2008 |  T4,101.70904726718892
+b  Región Centro-Norte,2008 |  T4,85.78372598810166
+c  Región Centro,2008 |  T4,84.04627954028268
+d  Región Centro-Sur,2008 |  T4,90.55435501285416
+e  Región Sur-Sureste,2008 |  T4,68.11527628158039
+Estados Unidos Mexicanos,2008 |  6 Meses,93.41333225812768
+a  Región Norte,2008 |  6 Meses,102.35151751575596
+b  Región Centro-Norte,2008 |  6 Meses,89.3158513072637
+c  Región Centro,2008 |  6 Meses,102.02255656093772
+d  Región Centro-Sur,2008 |  6 Meses,91.80165818955656
+e  Región Sur-Sureste,2008 |  6 Meses,77.9085460559639
+Estados Unidos Mexicanos,2008 |  9 Meses,91.80868931479952
+a  Región Norte,2008 |  9 Meses,102.61153164143448
+b  Región Centro-Norte,2008 |  9 Meses,87.5319547241843
+c  Región Centro,2008 |  9 Meses,98.67826527144337
+d  Región Centro-Sur,2008 |  9 Meses,91.50591298513612
+e  Región Sur-Sureste,2008 |  9 Meses,75.70028184232596
+Estados Unidos Mexicanos,2008 |  Anual,90.3160000157688
+a  Región Norte,2008 |  Anual,102.3859105478731
+b  Región Centro-Norte,2008 |  Anual,87.09489754016363
+c  Región Centro,2008 |  Anual,95.0202688386532
+d  Región Centro-Sur,2008 |  Anual,91.26802349206564
+e  Región Sur-Sureste,2008 |  Anual,73.80403045213957
+Estados Unidos Mexicanos,2009 |  T1,85.91566244226823
+a  Región Norte,2009 |  T1,96.34959162122692
+b  Región Centro-Norte,2009 |  T1,87.40749226825501
+c  Región Centro,2009 |  T1,83.79416571420673
+d  Región Centro-Sur,2009 |  T1,86.11180395343449
+e  Región Sur-Sureste,2009 |  T1,75.66507232449855
+Estados Unidos Mexicanos,2009 |  T2,79.54782144340655
+a  Región Norte,2009 |  T2,94.63333193322096
+b  Región Centro-Norte,2009 |  T2,76.34949447247901
+c  Región Centro,2009 |  T2,80.46246361996754
+d  Región Centro-Sur,2009 |  T2,82.2446178183879
+e  Región Sur-Sureste,2009 |  T2,63.12018070038927
+Estados Unidos Mexicanos,2009 |  T3,81.61946035731097
+a  Región Norte,2009 |  T3,92.2243286426734
+b  Región Centro-Norte,2009 |  T3,79.93370297650706
+c  Región Centro,2009 |  T3,85.65226876499695
+d  Región Centro-Sur,2009 |  T3,82.9703885292805
+e  Región Sur-Sureste,2009 |  T3,66.06235887556265
+Estados Unidos Mexicanos,2009 |  T4,81.35529249564435
+a  Región Norte,2009 |  T4,91.66439298534848
+b  Región Centro-Norte,2009 |  T4,81.75997305229905
+c  Región Centro,2009 |  T4,82.96291542856457
+d  Región Centro-Sur,2009 |  T4,86.56233055957827
+e  Región Sur-Sureste,2009 |  T4,65.22600278767021
+Estados Unidos Mexicanos,2009 |  6 Meses,82.73174194283739
+a  Región Norte,2009 |  6 Meses,95.49146177722392
+b  Región Centro-Norte,2009 |  6 Meses,81.87849337036701
+c  Región Centro,2009 |  6 Meses,82.12831466708714
+d  Región Centro-Sur,2009 |  6 Meses,84.17821088591118
+e  Región Sur-Sureste,2009 |  6 Meses,69.39262651244391
+Estados Unidos Mexicanos,2009 |  9 Meses,82.36098141432858
+a  Región Norte,2009 |  9 Meses,94.40241739904042
+b  Región Centro-Norte,2009 |  9 Meses,81.23022990574704
+c  Región Centro,2009 |  9 Meses,83.30296603305707
+d  Región Centro-Sur,2009 |  9 Meses,83.77560343370097
+e  Región Sur-Sureste,2009 |  9 Meses,68.28253730015015
+Estados Unidos Mexicanos,2009 |  Anual,82.10955918465751
+a  Región Norte,2009 |  Anual,93.71791129561744
+b  Región Centro-Norte,2009 |  Anual,81.36266569238504
+c  Región Centro,2009 |  Anual,83.21795338193395
+d  Región Centro-Sur,2009 |  Anual,84.47228521517029
+e  Región Sur-Sureste,2009 |  Anual,67.51840367203017
+Estados Unidos Mexicanos,2010 |  T1,83.63124939586177
+a  Región Norte,2010 |  T1,87.41161365357804
+b  Región Centro-Norte,2010 |  T1,85.13406108299915
+c  Región Centro,2010 |  T1,84.23108695578101
+d  Región Centro-Sur,2010 |  T1,85.16584155647642
+e  Región Sur-Sureste,2010 |  T1,76.84290183335844
+Estados Unidos Mexicanos,2010 |  T2,84.4285144020975
+a  Región Norte,2010 |  T2,89.69942351390827
+b  Región Centro-Norte,2010 |  T2,81.05688085773782
+c  Región Centro,2010 |  T2,88.2878570912355
+d  Región Centro-Sur,2010 |  T2,88.33004972001524
+e  Región Sur-Sureste,2010 |  T2,74.87520649589405
+Estados Unidos Mexicanos,2010 |  T3,82.17220497485276
+a  Región Norte,2010 |  T3,90.36283610551608
+b  Región Centro-Norte,2010 |  T3,80.74958425858121
+c  Región Centro,2010 |  T3,86.56192537159255
+d  Región Centro-Sur,2010 |  T3,85.57085805956692
+e  Región Sur-Sureste,2010 |  T3,67.56778306580907
+Estados Unidos Mexicanos,2010 |  T4,82.1391460230799
+a  Región Norte,2010 |  T4,93.08277977528648
+b  Región Centro-Norte,2010 |  T4,83.71654902195067
+c  Región Centro,2010 |  T4,83.0067229489481
+d  Región Centro-Sur,2010 |  T4,87.87354632610912
+e  Región Sur-Sureste,2010 |  T4,64.96590345412521
+Estados Unidos Mexicanos,2010 |  6 Meses,84.02988189897962
+a  Región Norte,2010 |  6 Meses,88.55551858374315
+b  Región Centro-Norte,2010 |  6 Meses,83.0954709703685
+c  Región Centro,2010 |  6 Meses,86.25947202350824
+d  Región Centro-Sur,2010 |  6 Meses,86.74794563824581
+e  Región Sur-Sureste,2010 |  6 Meses,75.85905416462624
+Estados Unidos Mexicanos,2010 |  9 Meses,83.41065625760402
+a  Región Norte,2010 |  9 Meses,89.15795775766746
+b  Región Centro-Norte,2010 |  9 Meses,82.31350873310606
+c  Región Centro,2010 |  9 Meses,86.36028980620301
+d  Región Centro-Sur,2010 |  9 Meses,86.3555831120195
+e  Región Sur-Sureste,2010 |  9 Meses,73.09529713168719
+Estados Unidos Mexicanos,2010 |  Anual,83.09277869897298
+a  Región Norte,2010 |  Anual,90.13916326207224
+b  Región Centro-Norte,2010 |  Anual,82.6642688053172
+c  Región Centro,2010 |  Anual,85.52189809188928
+d  Región Centro-Sur,2010 |  Anual,86.73507391554192
+e  Región Sur-Sureste,2010 |  Anual,71.06294871229669
+Estados Unidos Mexicanos,2011 |  T1,83.47098997170804
+a  Región Norte,2011 |  T1,87.95205296227901
+b  Región Centro-Norte,2011 |  T1,82.98429082758572
+c  Región Centro,2011 |  T1,88.93459407624566
+d  Región Centro-Sur,2011 |  T1,80.11193169856637
+e  Región Sur-Sureste,2011 |  T1,74.50426984002158
+Estados Unidos Mexicanos,2011 |  T2,85.18850146923535
+a  Región Norte,2011 |  T2,88.1646990513522
+b  Región Centro-Norte,2011 |  T2,79.25976172589345
+c  Región Centro,2011 |  T2,93.91599711499649
+d  Región Centro-Sur,2011 |  T2,86.35112185511099
+e  Región Sur-Sureste,2011 |  T2,76.0380810784369
+Estados Unidos Mexicanos,2011 |  T3,83.93627980401686
+a  Región Norte,2011 |  T3,91.95321965625187
+b  Región Centro-Norte,2011 |  T3,81.1030386530367
+c  Región Centro,2011 |  T3,88.8538678943464
+d  Región Centro-Sur,2011 |  T3,84.21886599949721
+e  Región Sur-Sureste,2011 |  T3,71.65538016581681
+Estados Unidos Mexicanos,2011 |  T4,84.52743851183023
+a  Región Norte,2011 |  T4,94.35878059939184
+b  Región Centro-Norte,2011 |  T4,87.6293896335784
+c  Región Centro,2011 |  T4,84.8627538565176
+d  Región Centro-Sur,2011 |  T4,88.09609184090705
+e  Región Sur-Sureste,2011 |  T4,69.11709188932934
+Estados Unidos Mexicanos,2011 |  6 Meses,84.32974572047168
+a  Región Norte,2011 |  6 Meses,88.0583760068156
+b  Región Centro-Norte,2011 |  6 Meses,81.12202627673959
+c  Región Centro,2011 |  6 Meses,91.42529559562108
+d  Región Centro-Sur,2011 |  6 Meses,83.23152677683868
+e  Región Sur-Sureste,2011 |  6 Meses,75.27117545922924
+Estados Unidos Mexicanos,2011 |  9 Meses,84.19859041498677
+a  Región Norte,2011 |  9 Meses,89.35665722329438
+b  Región Centro-Norte,2011 |  9 Meses,81.11569706883863
+c  Región Centro,2011 |  9 Meses,90.56815302852952
+d  Región Centro-Sur,2011 |  9 Meses,83.56063985105818
+e  Región Sur-Sureste,2011 |  9 Meses,74.0659103614251
+Estados Unidos Mexicanos,2011 |  Anual,84.28080243919761
+a  Región Norte,2011 |  Anual,90.60718806731872
+b  Región Centro-Norte,2011 |  Anual,82.74412021002357
+c  Región Centro,2011 |  Anual,89.14180323552652
+d  Región Centro-Sur,2011 |  Anual,84.6945028485204
+e  Región Sur-Sureste,2011 |  Anual,72.82870574340117
+Estados Unidos Mexicanos,2012 |  T1,86.63381235824298
+a  Región Norte,2012 |  T1,91.19338458924136
+b  Región Centro-Norte,2012 |  T1,84.65453458864259
+c  Región Centro,2012 |  T1,90.70907439401074
+d  Región Centro-Sur,2012 |  T1,83.56316633092528
+e  Región Sur-Sureste,2012 |  T1,80.17519363487982
+Estados Unidos Mexicanos,2012 |  T2,89.2314872998938
+a  Región Norte,2012 |  T2,95.35102020254008
+b  Región Centro-Norte,2012 |  T2,83.62399335267688
+c  Región Centro,2012 |  T2,96.06173712659518
+d  Región Centro-Sur,2012 |  T2,89.37660882210542
+e  Región Sur-Sureste,2012 |  T2,79.08750356622065
+Estados Unidos Mexicanos,2012 |  T3,88.26235069791026
+a  Región Norte,2012 |  T3,96.2351760270604
+b  Región Centro-Norte,2012 |  T3,83.42883428284921
+c  Región Centro,2012 |  T3,93.70412989153552
+d  Región Centro-Sur,2012 |  T3,90.04452821711871
+e  Región Sur-Sureste,2012 |  T3,76.21117594099354
+Estados Unidos Mexicanos,2012 |  T4,88.92126026072663
+a  Región Norte,2012 |  T4,99.4782357800386
+b  Región Centro-Norte,2012 |  T4,86.55419376170947
+c  Región Centro,2012 |  T4,87.82797294609693
+d  Región Centro-Sur,2012 |  T4,97.41795423526445
+e  Región Sur-Sureste,2012 |  T4,76.03534445351409
+Estados Unidos Mexicanos,2012 |  6 Meses,87.93264982906838
+a  Región Norte,2012 |  6 Meses,93.2722023958907
+b  Región Centro-Norte,2012 |  6 Meses,84.13926397065974
+c  Región Centro,2012 |  6 Meses,93.38540576030296
+d  Región Centro-Sur,2012 |  6 Meses,86.46988757651538
+e  Región Sur-Sureste,2012 |  6 Meses,79.63134860055024
+Estados Unidos Mexicanos,2012 |  9 Meses,88.04255011868236
+a  Región Norte,2012 |  9 Meses,94.25986027294726
+b  Región Centro-Norte,2012 |  9 Meses,83.9024540747229
+c  Región Centro,2012 |  9 Meses,93.49164713738053
+d  Región Centro-Sur,2012 |  9 Meses,87.66143445671646
+e  Región Sur-Sureste,2012 |  9 Meses,78.49129104736467
+Estados Unidos Mexicanos,2012 |  Anual,88.26222765419341
+a  Región Norte,2012 |  Anual,95.5644541497201
+b  Región Centro-Norte,2012 |  Anual,84.56538899646952
+c  Región Centro,2012 |  Anual,92.0757285895596
+d  Región Centro-Sur,2012 |  Anual,90.10056440135348
+e  Región Sur-Sureste,2012 |  Anual,77.87730439890203
+Estados Unidos Mexicanos,2013 |  T1,88.58731980614652
+a  Región Norte,2013 |  T1,94.08329332791688
+b  Región Centro-Norte,2013 |  T1,90.07616923896778
+c  Región Centro,2013 |  T1,84.43964706964313
+d  Región Centro-Sur,2013 |  T1,93.83848645394173
+e  Región Sur-Sureste,2013 |  T1,83.38823976593166
+Estados Unidos Mexicanos,2013 |  T2,88.64623649713876
+a  Región Norte,2013 |  T2,99.053195211903
+b  Región Centro-Norte,2013 |  T2,84.9796734589293
+c  Región Centro,2013 |  T2,89.64796611968464
+d  Región Centro-Sur,2013 |  T2,91.78645636611942
+e  Región Sur-Sureste,2013 |  T2,77.36248974799665
+Estados Unidos Mexicanos,2013 |  T3,88.37015333906955
+a  Región Norte,2013 |  T3,98.07132859319594
+b  Región Centro-Norte,2013 |  T3,85.7987182985182
+c  Región Centro,2013 |  T3,89.17712713416519
+d  Región Centro-Sur,2013 |  T3,93.04805748748672
+e  Región Sur-Sureste,2013 |  T3,76.41765819574984
+Estados Unidos Mexicanos,2013 |  T4,90.62939086683522
+a  Región Norte,2013 |  T4,100.78911085586874
+b  Región Centro-Norte,2013 |  T4,88.60743168931991
+c  Región Centro,2013 |  T4,92.36301898635963
+d  Región Centro-Sur,2013 |  T4,94.88879400307113
+e  Región Sur-Sureste,2013 |  T4,76.91229346234782
+Estados Unidos Mexicanos,2013 |  6 Meses,88.61677815164265
+a  Región Norte,2013 |  6 Meses,96.56824426990993
+b  Región Centro-Norte,2013 |  6 Meses,87.52792134894854
+c  Región Centro,2013 |  6 Meses,87.04380659466389
+d  Región Centro-Sur,2013 |  6 Meses,92.81247141003055
+e  Región Sur-Sureste,2013 |  6 Meses,80.37536475696415
+Estados Unidos Mexicanos,2013 |  9 Meses,88.53456988078494
+a  Región Norte,2013 |  9 Meses,97.06927237767194
+b  Región Centro-Norte,2013 |  9 Meses,86.95152033213841
+c  Región Centro,2013 |  9 Meses,87.75491344116433
+d  Región Centro-Sur,2013 |  9 Meses,92.89100010251596
+e  Región Sur-Sureste,2013 |  9 Meses,79.05612923655939
+Estados Unidos Mexicanos,2013 |  Anual,89.05827512729752
+a  Región Norte,2013 |  Anual,97.99923199722114
+b  Región Centro-Norte,2013 |  Anual,87.3654981714338
+c  Región Centro,2013 |  Anual,88.90693982746316
+d  Región Centro-Sur,2013 |  Anual,93.39044857765474
+e  Región Sur-Sureste,2013 |  Anual,78.52017029300647
+Estados Unidos Mexicanos,2014 |  T1,89.09744393694646
+a  Región Norte,2014 |  T1,94.4891066384901
+b  Región Centro-Norte,2014 |  T1,85.72727701181651
+c  Región Centro,2014 |  T1,88.48552828282816
+d  Región Centro-Sur,2014 |  T1,91.16487752849112
+e  Región Sur-Sureste,2014 |  T1,85.45578022263251
+Estados Unidos Mexicanos,2014 |  T2,89.17795730808893
+a  Región Norte,2014 |  T2,96.13438828230488
+b  Región Centro-Norte,2014 |  T2,84.48147269889242
+c  Región Centro,2014 |  T2,91.82841519655356
+d  Región Centro-Sur,2014 |  T2,92.97176631567643
+e  Región Sur-Sureste,2014 |  T2,80.25013496339245
+Estados Unidos Mexicanos,2014 |  T3,88.70657829173341
+a  Región Norte,2014 |  T3,96.08564455469562
+b  Región Centro-Norte,2014 |  T3,84.08808498355704
+c  Región Centro,2014 |  T3,92.03945152512011
+d  Región Centro-Sur,2014 |  T3,92.35883833146733
+e  Región Sur-Sureste,2014 |  T3,78.55444437656874
+Estados Unidos Mexicanos,2014 |  T4,91.27460623879138
+a  Región Norte,2014 |  T4,96.71674547513196
+b  Región Centro-Norte,2014 |  T4,88.67765952813039
+c  Región Centro,2014 |  T4,95.10052586080816
+d  Región Centro-Sur,2014 |  T4,95.42246001568718
+e  Región Sur-Sureste,2014 |  T4,80.83800813550661
+Estados Unidos Mexicanos,2014 |  6 Meses,89.13770062251768
+a  Región Norte,2014 |  6 Meses,95.31174746039748
+b  Región Centro-Norte,2014 |  6 Meses,85.10437485535446
+c  Región Centro,2014 |  6 Meses,90.15697173969085
+d  Región Centro-Sur,2014 |  6 Meses,92.06832192208378
+e  Región Sur-Sureste,2014 |  6 Meses,82.85295759301249
+Estados Unidos Mexicanos,2014 |  9 Meses,88.99399317892292
+a  Región Norte,2014 |  9 Meses,95.56971315849688
+b  Región Centro-Norte,2014 |  9 Meses,84.76561156475533
+c  Región Centro,2014 |  9 Meses,90.7844650015006
+d  Región Centro-Sur,2014 |  9 Meses,92.16516072521163
+e  Región Sur-Sureste,2014 |  9 Meses,81.4201198541979
+Estados Unidos Mexicanos,2014 |  Anual,89.56414644389005
+a  Región Norte,2014 |  Anual,95.85647123765564
+b  Región Centro-Norte,2014 |  Anual,85.74362355559909
+c  Región Centro,2014 |  Anual,91.8634802163275
+d  Región Centro-Sur,2014 |  Anual,92.9794855478305
+e  Región Sur-Sureste,2014 |  Anual,81.27459192452508
+Estados Unidos Mexicanos,2015 |  T1,91.89274998860438
+a  Región Norte,2015 |  T1,94.8636216198191
+b  Región Centro-Norte,2015 |  T1,95.28438853097563
+c  Región Centro,2015 |  T1,86.46418961338372
+d  Región Centro-Sur,2015 |  T1,93.21092284758272
+e  Región Sur-Sureste,2015 |  T1,91.48064824322586
+Estados Unidos Mexicanos,2015 |  T2,95.5151922569109
+a  Región Norte,2015 |  T2,98.33284987563292
+b  Región Centro-Norte,2015 |  T2,93.8886454125505
+c  Región Centro,2015 |  T2,95.56772102906812
+d  Región Centro-Sur,2015 |  T2,100.81008072743344
+e  Región Sur-Sureste,2015 |  T2,90.8763971916565
+Estados Unidos Mexicanos,2015 |  T3,94.67368588268305
+a  Región Norte,2015 |  T3,98.56117092943568
+b  Región Centro-Norte,2015 |  T3,95.4529607245444
+c  Región Centro,2015 |  T3,92.21942080473676
+d  Región Centro-Sur,2015 |  T3,100.75156894042256
+e  Región Sur-Sureste,2015 |  T3,89.42713066018794
+Estados Unidos Mexicanos,2015 |  T4,97.4453699839368
+a  Región Norte,2015 |  T4,98.2166541699991
+b  Región Centro-Norte,2015 |  T4,100.39015536636632
+c  Región Centro,2015 |  T4,97.2666612320566
+d  Región Centro-Sur,2015 |  T4,105.23765890459592
+e  Región Sur-Sureste,2015 |  T4,90.42457515695764
+Estados Unidos Mexicanos,2015 |  6 Meses,93.70397112275762
+a  Región Norte,2015 |  6 Meses,96.598235747726
+b  Región Centro-Norte,2015 |  6 Meses,94.58651697176307
+c  Región Centro,2015 |  6 Meses,91.01595532122592
+d  Región Centro-Sur,2015 |  6 Meses,97.01050178750808
+e  Región Sur-Sureste,2015 |  6 Meses,91.17852271744115
+Estados Unidos Mexicanos,2015 |  9 Meses,94.0272093760661
+a  Región Norte,2015 |  9 Meses,97.25254747496255
+b  Región Centro-Norte,2015 |  9 Meses,94.8753315560235
+c  Región Centro,2015 |  9 Meses,91.4171104823962
+d  Región Centro-Sur,2015 |  9 Meses,98.25752417181292
+e  Región Sur-Sureste,2015 |  9 Meses,90.59472536502344
+Estados Unidos Mexicanos,2015 |  Anual,94.8817495280338
+a  Región Norte,2015 |  Anual,97.4935741487217
+b  Región Centro-Norte,2015 |  Anual,96.2540375086092
+c  Región Centro,2015 |  Anual,92.87949816981128
+d  Región Centro-Sur,2015 |  Anual,100.00255785500865
+e  Región Sur-Sureste,2015 |  Anual,90.552187813007
+Estados Unidos Mexicanos,2016 |  T1,94.06952181539914
+a  Región Norte,2016 |  T1,93.71400184366506
+b  Región Centro-Norte,2016 |  T1,99.43937881983192
+c  Región Centro,2016 |  T1,83.93357339058925
+d  Región Centro-Sur,2016 |  T1,102.44755948224292
+e  Región Sur-Sureste,2016 |  T1,97.3997905063453
+Estados Unidos Mexicanos,2016 |  T2,94.82547139234376
+a  Región Norte,2016 |  T2,97.04920831096894
+b  Región Centro-Norte,2016 |  T2,93.8492727169044
+c  Región Centro,2016 |  T2,94.89922680129835
+d  Región Centro-Sur,2016 |  T2,96.97736800144084
+e  Región Sur-Sureste,2016 |  T2,91.94895938816978
+Estados Unidos Mexicanos,2016 |  T3,97.19374804668443
+a  Región Norte,2016 |  T3,98.66274584973225
+b  Región Centro-Norte,2016 |  T3,95.9879410779448
+c  Región Centro,2016 |  T3,98.39164066994329
+d  Región Centro-Sur,2016 |  T3,101.73941001440716
+e  Región Sur-Sureste,2016 |  T3,92.78903355421537
+Estados Unidos Mexicanos,2016 |  T4,100.94189620744712
+a  Región Norte,2016 |  T4,102.9004617951611
+b  Región Centro-Norte,2016 |  T4,102.11238195669672
+c  Región Centro,2016 |  T4,103.07959449294376
+d  Región Centro-Sur,2016 |  T4,103.27253027695934
+e  Región Sur-Sureste,2016 |  T4,94.23718971186082
+Estados Unidos Mexicanos,2016 |  6 Meses,94.44749660387149
+a  Región Norte,2016 |  6 Meses,95.381605077317
+b  Región Centro-Norte,2016 |  6 Meses,96.64432576836816
+c  Región Centro,2016 |  6 Meses,89.41640009594381
+d  Región Centro-Sur,2016 |  6 Meses,99.71246374184189
+e  Región Sur-Sureste,2016 |  6 Meses,94.67437494725752
+Estados Unidos Mexicanos,2016 |  9 Meses,95.3629137514758
+a  Región Norte,2016 |  9 Meses,96.47531866812209
+b  Región Centro-Norte,2016 |  9 Meses,96.42553087156038
+c  Región Centro,2016 |  9 Meses,92.40814695394364
+d  Región Centro-Sur,2016 |  9 Meses,100.38811249936364
+e  Región Sur-Sureste,2016 |  9 Meses,94.04592781624346
+Estados Unidos Mexicanos,2016 |  Anual,96.7576593654686
+a  Región Norte,2016 |  Anual,98.08160444988184
+b  Región Centro-Norte,2016 |  Anual,97.84724364284448
+c  Región Centro,2016 |  Anual,95.07600883869364
+d  Región Centro-Sur,2016 |  Anual,101.10921694376258
+e  Región Sur-Sureste,2016 |  Anual,94.0937432901478
+Estados Unidos Mexicanos,2017 |  T1,97.29179473418328
+a  Región Norte,2017 |  T1,98.8775508486867
+b  Región Centro-Norte,2017 |  T1,101.24781443070144
+c  Región Centro,2017 |  T1,92.31980445272136
+d  Región Centro-Sur,2017 |  T1,91.97789349073577
+e  Región Sur-Sureste,2017 |  T1,100.90538254051448
+Estados Unidos Mexicanos,2017 |  T2,101.00132092975376
+a  Región Norte,2017 |  T2,102.8424021929643
+b  Región Centro-Norte,2017 |  T2,98.42466607863332
+c  Región Centro,2017 |  T2,103.06461015462357
+d  Región Centro-Sur,2017 |  T2,96.89970035227272
+e  Región Sur-Sureste,2017 |  T2,100.80591026209105
+Estados Unidos Mexicanos,2017 |  T3,96.98698004647376
+a  Región Norte,2017 |  T3,98.92831398241049
+b  Región Centro-Norte,2017 |  T3,95.46121838001372
+c  Región Centro,2017 |  T3,97.68162373547575
+d  Región Centro-Sur,2017 |  T3,95.39344722801246
+e  Región Sur-Sureste,2017 |  T3,96.10374334537912
+Estados Unidos Mexicanos,2017 |  T4,97.7631172867185
+a  Región Norte,2017 |  T4,100.79440114509988
+b  Región Centro-Norte,2017 |  T4,99.95425506776654
+c  Región Centro,2017 |  T4,98.07725511310822
+d  Región Centro-Sur,2017 |  T4,96.0359033441276
+e  Región Sur-Sureste,2017 |  T4,93.28804334589694
+Estados Unidos Mexicanos,2017 |  6 Meses,99.14655783196852
+a  Región Norte,2017 |  6 Meses,100.8599765208255
+b  Región Centro-Norte,2017 |  6 Meses,99.83624025466736
+c  Región Centro,2017 |  6 Meses,97.69220730367245
+d  Región Centro-Sur,2017 |  6 Meses,94.43879692150423
+e  Región Sur-Sureste,2017 |  6 Meses,100.85564640130274
+Estados Unidos Mexicanos,2017 |  9 Meses,98.42669857013694
+a  Región Norte,2017 |  9 Meses,100.21608900802048
+b  Región Centro-Norte,2017 |  9 Meses,98.3778996297828
+c  Región Centro,2017 |  9 Meses,97.6886794476069
+d  Región Centro-Sur,2017 |  9 Meses,94.75701369034032
+e  Región Sur-Sureste,2017 |  9 Meses,99.27167871599488
+Estados Unidos Mexicanos,2017 |  Anual,98.26080324928232
+a  Región Norte,2017 |  Anual,100.36066704229034
+b  Región Centro-Norte,2017 |  Anual,98.77198848927874
+c  Región Centro,2017 |  Anual,97.78582336398222
+d  Región Centro-Sur,2017 |  Anual,95.07673610378714
+e  Región Sur-Sureste,2017 |  Anual,97.77576987347038
+Estados Unidos Mexicanos,2018 |  T1,101.35330149303748
+a  Región Norte,2018 |  T1,99.44689191846032
+b  Región Centro-Norte,2018 |  T1,104.58191753406058
+c  Región Centro,2018 |  T1,95.769549518876
+d  Región Centro-Sur,2018 |  T1,98.41810102305917
+e  Región Sur-Sureste,2018 |  T1,108.79882112771544
+Estados Unidos Mexicanos,2018 |  T2,101.41885877958052
+a  Región Norte,2018 |  T2,101.9620801079957
+b  Región Centro-Norte,2018 |  T2,97.66161752282068
+c  Región Centro,2018 |  T2,104.37305747916496
+d  Región Centro-Sur,2018 |  T2,98.68159313294268
+e  Región Sur-Sureste,2018 |  T2,101.83571379021548
+Estados Unidos Mexicanos,2018 |  T3,98.44209488170628
+a  Región Norte,2018 |  T3,97.90522247113842
+b  Región Centro-Norte,2018 |  T3,97.454600848724
+c  Región Centro,2018 |  T3,100.32991797398
+d  Región Centro-Sur,2018 |  T3,101.22688204237696
+e  Región Sur-Sureste,2018 |  T3,96.1950012773716
+Estados Unidos Mexicanos,2018 |  T4,98.78574484567574
+a  Región Norte,2018 |  T4,100.68580550240556
+b  Región Centro-Norte,2018 |  T4,100.30186409439472
+c  Región Centro,2018 |  T4,99.52747502797908
+d  Región Centro-Sur,2018 |  T4,101.67342380162124
+e  Región Sur-Sureste,2018 |  T4,93.17046380469746
+Estados Unidos Mexicanos,2018 |  6 Meses,101.386080136309
+a  Región Norte,2018 |  6 Meses,100.704486013228
+b  Región Centro-Norte,2018 |  6 Meses,101.1217675284406
+c  Región Centro,2018 |  6 Meses,100.07130349902047
+d  Región Centro-Sur,2018 |  6 Meses,98.54984707800092
+e  Región Sur-Sureste,2018 |  6 Meses,105.31726745896546
+Estados Unidos Mexicanos,2018 |  9 Meses,100.4047517181081
+a  Región Norte,2018 |  9 Meses,99.7713981658648
+b  Región Centro-Norte,2018 |  9 Meses,99.89937863520176
+c  Región Centro,2018 |  9 Meses,100.15750832400698
+d  Región Centro-Sur,2018 |  9 Meses,99.44219206612628
+e  Región Sur-Sureste,2018 |  9 Meses,102.27651206510085
+Estados Unidos Mexicanos,2018 |  Anual,100.0
+a  Región Norte,2018 |  Anual,100.0
+b  Región Centro-Norte,2018 |  Anual,100.0
+c  Región Centro,2018 |  Anual,100.0
+d  Región Centro-Sur,2018 |  Anual,100.0
+e  Región Sur-Sureste,2018 |  Anual,100.0
+Estados Unidos Mexicanos,2019 |  T1,98.0862218271141
+a  Región Norte,2019 |  T1,98.00957320802526
+b  Región Centro-Norte,2019 |  T1,102.96380965778089
+c  Región Centro,2019 |  T1,93.89249102312644
+d  Región Centro-Sur,2019 |  T1,97.41193285203371
+e  Región Sur-Sureste,2019 |  T1,99.4805083578129
+Estados Unidos Mexicanos,2019 |  T2,101.71837008126464
+a  Región Norte,2019 |  T2,103.55171041637912
+b  Región Centro-Norte,2019 |  T2,101.1050452524572
+c  Región Centro,2019 |  T2,102.06765727902808
+d  Región Centro-Sur,2019 |  T2,102.96992545231556
+e  Región Sur-Sureste,2019 |  T2,99.14286847972518
+Estados Unidos Mexicanos,2019 |  T3,99.8858777843341
+a  Región Norte,2019 |  T3,100.47009012089714
+b  Región Centro-Norte,2019 |  T3,98.20010313921416
+c  Región Centro,2019 |  T3,101.97139357335784
+d  Región Centro-Sur,2019 |  T3,101.3126600539981
+e  Región Sur-Sureste,2019 |  T3,97.44648187664244
+Estados Unidos Mexicanos,2019 |  T4,103.71324981599028
+a  Región Norte,2019 |  T4,104.3716530611307
+b  Región Centro-Norte,2019 |  T4,104.55607639972015
+c  Región Centro,2019 |  T4,104.5047427791365
+d  Región Centro-Sur,2019 |  T4,103.23933825594244
+e  Región Sur-Sureste,2019 |  T4,101.68388519692944
+Estados Unidos Mexicanos,2019 |  6 Meses,99.90229595418936
+a  Región Norte,2019 |  6 Meses,100.7806418122022
+b  Región Centro-Norte,2019 |  6 Meses,102.03442745511906
+c  Región Centro,2019 |  6 Meses,97.98007415107726
+d  Región Centro-Sur,2019 |  6 Meses,100.19092915217465
+e  Región Sur-Sureste,2019 |  6 Meses,99.31168841876902
+Estados Unidos Mexicanos,2019 |  9 Meses,99.8968232309043
+a  Región Norte,2019 |  9 Meses,100.67712458176716
+b  Región Centro-Norte,2019 |  9 Meses,100.75631934981742
+c  Región Centro,2019 |  9 Meses,99.3105139585041
+d  Región Centro-Sur,2019 |  9 Meses,100.56483945278248
+e  Región Sur-Sureste,2019 |  9 Meses,98.68995290472684
+Estados Unidos Mexicanos,2019 |  Anual,100.85092987717576
+a  Región Norte,2019 |  Anual,101.60075670160802
+b  Región Centro-Norte,2019 |  Anual,101.7062586122931
+c  Región Centro,2019 |  Anual,100.60907116366222
+d  Región Centro-Sur,2019 |  Anual,101.23346415357244
+e  Región Sur-Sureste,2019 |  Anual,99.43843597777747
+Estados Unidos Mexicanos,2020 |  T1,93.60453933681572
+a  Región Norte,2020 |  T1,90.89886174670258
+b  Región Centro-Norte,2020 |  T1,92.17097276872956
+c  Región Centro,2020 |  T1,91.89032228790968
+d  Región Centro-Sur,2020 |  T1,87.50311001992928
+e  Región Sur-Sureste,2020 |  T1,102.82391970700344
+Estados Unidos Mexicanos,2020 |  T2,30.984692248196733
+a  Región Norte,2020 |  T2,36.139104509646025
+b  Región Centro-Norte,2020 |  T2,30.56080326649317
+c  Región Centro,2020 |  T2,30.18293419936493
+d  Región Centro-Sur,2020 |  T2,39.90249276441891
+e  Región Sur-Sureste,2020 |  T2,21.928392606147117
+Estados Unidos Mexicanos,2020 |  T3,47.171802448769256
+a  Región Norte,2020 |  T3,53.81084497253269
+b  Región Centro-Norte,2020 |  T3,46.98724866372739
+c  Región Centro,2020 |  T3,45.46855859542639
+d  Región Centro-Sur,2020 |  T3,57.40172342123147
+e  Región Sur-Sureste,2020 |  T3,36.64508919124302
+Estados Unidos Mexicanos,2020 |  T4,61.44616244604162
+a  Región Norte,2020 |  T4,69.85303130322514
+b  Región Centro-Norte,2020 |  T4,60.76826041455994
+c  Región Centro,2020 |  T4,55.77225437815754
+d  Región Centro-Sur,2020 |  T4,74.50056592347073
+e  Región Sur-Sureste,2020 |  T4,52.41011602250531
+Estados Unidos Mexicanos,2020 |  6 Meses,62.29461579250623
+a  Región Norte,2020 |  6 Meses,63.5189831281743
+b  Región Centro-Norte,2020 |  6 Meses,61.36588801761138
+c  Región Centro,2020 |  6 Meses,61.0366282436373
+d  Región Centro-Sur,2020 |  6 Meses,63.70280139217409
+e  Región Sur-Sureste,2020 |  6 Meses,62.37615615657527
+Estados Unidos Mexicanos,2020 |  9 Meses,57.253678011260575
+a  Región Norte,2020 |  9 Meses,60.28293707629376
+b  Región Centro-Norte,2020 |  9 Meses,56.57300823298339
+c  Región Centro,2020 |  9 Meses,55.84727169423367
+d  Región Centro-Sur,2020 |  9 Meses,61.60244206852655
+e  Región Sur-Sureste,2020 |  9 Meses,53.79913383479785
+Estados Unidos Mexicanos,2020 |  Anual,58.301799119955845
+a  Región Norte,2020 |  Anual,62.675460633026624
+b  Región Centro-Norte,2020 |  Anual,57.62182127837752
+c  Región Centro,2020 |  Anual,55.82851736521464
+d  Región Centro-Sur,2020 |  Anual,64.8269730322626
+e  Región Sur-Sureste,2020 |  Anual,53.45187938172471
+Estados Unidos Mexicanos,2021 |  T1 P,62.62084018506192
+a  Región Norte,2021 |  T1 P,70.13570831150173
+b  Región Centro-Norte,2021 |  T1 P,60.84251464869293
+c  Región Centro,2021 |  T1 P,60.665868896465
+d  Región Centro-Sur,2021 |  T1 P,67.98190374481045
+e  Región Sur-Sureste,2021 |  T1 P,55.21900112272623
+Estados Unidos Mexicanos,2021 |  T2 P,72.94434558835822
+a  Región Norte,2021 |  T2 P,84.8546306785568
+b  Región Centro-Norte,2021 |  T2 P,73.03254259019589
+c  Región Centro,2021 |  T2 P,61.76581654376604
+d  Región Centro-Sur,2021 |  T2 P,78.22678579187875
+e  Región Sur-Sureste,2021 |  T2 P,69.81305189934879
+Estados Unidos Mexicanos,2021 |  T3 P,81.68651370691195
+a  Región Norte,2021 |  T3 P,93.12926507543548
+b  Región Centro-Norte,2021 |  T3 P,78.82616509653442
+c  Región Centro,2021 |  T3 P,71.25170691508029
+d  Región Centro-Sur,2021 |  T3 P,80.12511681355299
+e  Región Sur-Sureste,2021 |  T3 P,84.10807572641357
+Estados Unidos Mexicanos,2021 |  T4 P,87.77542323029543
+a  Región Norte,2021 |  T4 P,96.4644549688195
+b  Región Centro-Norte,2021 |  T4 P,96.4486211434726
+c  Región Centro,2021 |  T4 P,75.23924405450597
+d  Región Centro-Sur,2021 |  T4 P,87.04356533161852
+e  Región Sur-Sureste,2021 |  T4 P,86.14743409394352
+Estados Unidos Mexicanos,2021 |  6 Meses P,67.78259288671008
+a  Región Norte,2021 |  6 Meses P,77.49516949502927
+b  Región Centro-Norte,2021 |  6 Meses P,66.93752861944441
+c  Región Centro,2021 |  6 Meses P,61.21584272011552
+d  Región Centro-Sur,2021 |  6 Meses P,73.1043447683446
+e  Región Sur-Sureste,2021 |  6 Meses P,62.51602651103752
+Estados Unidos Mexicanos,2021 |  9 Meses P,72.4172331601107
+a  Región Norte,2021 |  9 Meses P,82.706534688498
+b  Región Centro-Norte,2021 |  9 Meses P,70.90040744514108
+c  Región Centro,2021 |  9 Meses P,64.56113078510379
+d  Región Centro-Sur,2021 |  9 Meses P,75.4446021167474
+e  Región Sur-Sureste,2021 |  9 Meses P,69.71337624949619
+Estados Unidos Mexicanos,2021 |  Anual P,76.2567806776569
+a  Región Norte,2021 |  Anual P,86.14601475857839
+b  Región Centro-Norte,2021 |  Anual P,77.28746086972396
+c  Región Centro,2021 |  Anual P,67.23065910245431
+d  Región Centro-Sur,2021 |  Anual P,78.34434292046521
+e  Región Sur-Sureste,2021 |  Anual P,73.82189071060803
+Estados Unidos Mexicanos,2022 |  T1 R,90.12586901659743
+a  Región Norte,2022 |  T1 R,94.6622470060202
+b  Región Centro-Norte,2022 |  T1 R,89.6569959317459
+c  Región Centro,2022 |  T1 R,88.09292113087338
+d  Región Centro-Sur,2022 |  T1 R,88.80798291806335
+e  Región Sur-Sureste,2022 |  T1 R,88.53999042365125
+Estados Unidos Mexicanos,2022 |  T2 R,91.7042338346729
+a  Región Norte,2022 |  T2 R,102.97070886490536
+b  Región Centro-Norte,2022 |  T2 R,89.79913574516218
+c  Región Centro,2022 |  T2 R,81.27319274342814
+d  Región Centro-Sur,2022 |  T2 R,98.29168312968662
+e  Región Sur-Sureste,2022 |  T2 R,89.30011415113304
+Estados Unidos Mexicanos,2022 |  T3 R,96.89615600665464
+a  Región Norte,2022 |  T3 R,107.06405537911212
+b  Región Centro-Norte,2022 |  T3 R,88.89499031994072
+c  Región Centro,2022 |  T3 R,91.67727867728388
+d  Región Centro-Sur,2022 |  T3 R,90.86581211009648
+e  Región Sur-Sureste,2022 |  T3 R,101.13620833280991
+Estados Unidos Mexicanos,2022 |  T4 R,100.67164976442643
+a  Región Norte,2022 |  T4 R,114.1184317056287
+b  Región Centro-Norte,2022 |  T4 R,110.87296936919712
+c  Región Centro,2022 |  T4 R,90.1008153194522
+d  Región Centro-Sur,2022 |  T4 R,89.41886304525552
+e  Región Sur-Sureste,2022 |  T4 R,95.9289120923432
+Estados Unidos Mexicanos,2022 |  6 Meses R,90.91505142563518
+a  Región Norte,2022 |  6 Meses R,98.81647793546276
+b  Región Centro-Norte,2022 |  6 Meses R,89.72806583845403
+c  Región Centro,2022 |  6 Meses R,84.68305693715075
+d  Región Centro-Sur,2022 |  6 Meses R,93.54983302387498
+e  Región Sur-Sureste,2022 |  6 Meses R,88.92005228739215
+Estados Unidos Mexicanos,2022 |  9 Meses R,92.90875295264166
+a  Región Norte,2022 |  9 Meses R,101.5656704166792
+b  Región Centro-Norte,2022 |  9 Meses R,89.4503739989496
+c  Región Centro,2022 |  9 Meses R,87.01446418386179
+d  Región Centro-Sur,2022 |  9 Meses R,92.65515938594882
+e  Región Sur-Sureste,2022 |  9 Meses R,92.9921043025314
+Estados Unidos Mexicanos,2022 |  Anual R,94.84947715558786
+a  Región Norte,2022 |  Anual R,104.7038607389166
+b  Región Centro-Norte,2022 |  Anual R,94.80602284151148
+c  Región Centro,2022 |  Anual R,87.78605196775939
+d  Región Centro-Sur,2022 |  Anual R,91.8460853007755
+e  Región Sur-Sureste,2022 |  Anual R,93.72630624998436
+Estados Unidos Mexicanos,2023 |  T1 R,94.28031727108292
+a  Región Norte,2023 |  T1 R,92.40597524857296
+b  Región Centro-Norte,2023 |  T1 R,88.3257204237959
+c  Región Centro,2023 |  T1 R,108.13561353740415
+d  Región Centro-Sur,2023 |  T1 R,94.60932025966056
+e  Región Sur-Sureste,2023 |  T1 R,85.0530776547956
+Estados Unidos Mexicanos,2023 |  T2 R,94.86776567128642
+a  Región Norte,2023 |  T2 R,98.8338535916278
+b  Región Centro-Norte,2023 |  T2 R,86.98734720217148
+c  Región Centro,2023 |  T2 R,102.29187516079824
+d  Región Centro-Sur,2023 |  T2 R,101.21987489954452
+e  Región Sur-Sureste,2023 |  T2 R,84.92560510833071
+Estados Unidos Mexicanos,2023 |  T3 R,98.57601772191902
+a  Región Norte,2023 |  T3 R,107.96542280540648
+b  Región Centro-Norte,2023 |  T3 R,82.00546573489565
+c  Región Centro,2023 |  T3 R,100.08311206550896
+d  Región Centro-Sur,2023 |  T3 R,106.07672340906652
+e  Región Sur-Sureste,2023 |  T3 R,95.6278796003854
+Estados Unidos Mexicanos,2023 |  T4 P,102.34556410580818
+a  Región Norte,2023 |  T4 P,119.71894344769294
+b  Región Centro-Norte,2023 |  T4 P,101.7823040489252
+c  Región Centro,2023 |  T4 P,101.05819555952796
+d  Región Centro-Sur,2023 |  T4 P,99.89675570082736
+e  Región Sur-Sureste,2023 |  T4 P,86.55908360291657
+Estados Unidos Mexicanos,2023 |  6 Meses,94.57404147118469
+a  Región Norte,2023 |  6 Meses,95.6199144201004
+b  Región Centro-Norte,2023 |  6 Meses,87.65653381298368
+c  Región Centro,2023 |  6 Meses,105.2137443491012
+d  Región Centro-Sur,2023 |  6 Meses,97.91459757960254
+e  Región Sur-Sureste,2023 |  6 Meses,84.98934138156315
+Estados Unidos Mexicanos,2023 |  9 Meses,95.90803355476278
+a  Región Norte,2023 |  9 Meses,99.73508388186907
+b  Región Centro-Norte,2023 |  9 Meses,85.772844453621
+c  Región Centro,2023 |  9 Meses,103.5035335879038
+d  Región Centro-Sur,2023 |  9 Meses,100.63530618942389
+e  Región Sur-Sureste,2023 |  9 Meses,88.53552078783723
+Estados Unidos Mexicanos,2023 |  Anual,97.51741619252414
+a  Región Norte,2023 |  Anual,104.73104877332506
+b  Región Centro-Norte,2023 |  Anual,89.77520935244708
+c  Región Centro,2023 |  Anual,102.89219908080985
+d  Región Centro-Sur,2023 |  Anual,100.45066856727472
+e  Región Sur-Sureste,2023 |  Anual,88.04141149160708

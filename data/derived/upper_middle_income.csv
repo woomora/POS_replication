@@ -1,0 +1,55 @@
+country,countrycode,region,income_group,lending_category,imf,countryflag,continent
+Albania,ALB,Europe & Central Asia,Upper middle income,IBRD,914,🇦🇱,Europe
+Argentina,ARG,Latin America & Caribbean,Upper middle income,IBRD,213,🇦🇷,Americas
+Armenia,ARM,Europe & Central Asia,Upper middle income,IBRD,911,🇦🇲,Asia
+American Samoa,ASM,East Asia & Pacific,Upper middle income,NA,859,🇦🇸,Oceania
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,IBRD,912,🇦🇿,Asia
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,IBRD,918,🇧🇬,Europe
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,IBRD,NA,NA,NA
+Belarus,BLR,Europe & Central Asia,Upper middle income,IBRD,913,🇧🇾,Europe
+Belize,BLZ,Latin America & Caribbean,Upper middle income,IBRD,339,🇧🇿,Americas
+Brazil,BRA,Latin America & Caribbean,Upper middle income,IBRD,223,🇧🇷,Americas
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,IBRD,616,🇧🇼,Africa
+China,CHN,East Asia & Pacific,Upper middle income,IBRD,924,🇨🇳,Asia
+Colombia,COL,Latin America & Caribbean,Upper middle income,IBRD,233,🇨🇴,Americas
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,IBRD,238,🇨🇷,Americas
+Cuba,CUB,Latin America & Caribbean,Upper middle income,NA,928,🇨🇺,Americas
+Dominica,DMA,Latin America & Caribbean,Upper middle income,Blend,321,🇩🇲,Americas
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,IBRD,243,🇩🇴,Americas
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,IBRD,248,🇪🇨,Americas
+Fiji,FJI,East Asia & Pacific,Upper middle income,Blend,819,🇫🇯,Oceania
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,IBRD,646,🇬🇦,Africa
+Georgia,GEO,Europe & Central Asia,Upper middle income,IBRD,915,🇬🇪,Asia
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,IBRD,642,🇬🇶,Africa
+Grenada,GRD,Latin America & Caribbean,Upper middle income,Blend,328,🇬🇩,Americas
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,IBRD,258,🇬🇹,Americas
+Guyana,GUY,Latin America & Caribbean,Upper middle income,IDA,336,🇬🇾,Americas
+Iraq,IRQ,Middle East & North Africa,Upper middle income,IBRD,433,🇮🇶,Asia
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,IBRD,343,🇯🇲,Americas
+Jordan,JOR,Middle East & North Africa,Upper middle income,IBRD,439,🇯🇴,Asia
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,IBRD,916,🇰🇿,Asia
+Libya,LBY,Middle East & North Africa,Upper middle income,IBRD,672,🇱🇾,Africa
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,Blend,362,🇱🇨,Americas
+Moldova,MDA,Europe & Central Asia,Upper middle income,IBRD,921,🇲🇩,Europe
+Maldives,MDV,South Asia,Upper middle income,IDA,556,🇲🇻,Asia
+Mexico,MEX,Latin America & Caribbean,Upper middle income,IBRD,273,🇲🇽,Americas
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,IDA,867,🇲🇭,Oceania
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,IBRD,962,🇲🇰,Europe
+Montenegro,MNE,Europe & Central Asia,Upper middle income,IBRD,943,🇲🇪,Europe
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,IBRD,684,🇲🇺,Africa
+Malaysia,MYS,East Asia & Pacific,Upper middle income,IBRD,548,🇲🇾,Asia
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,IBRD,728,🇳🇦,Africa
+Peru,PER,Latin America & Caribbean,Upper middle income,IBRD,293,🇵🇪,Americas
+Palau,PLW,East Asia & Pacific,Upper middle income,IBRD,565,🇵🇼,Oceania
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,IBRD,288,🇵🇾,Americas
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,IBRD,NA,NA,NA
+Serbia,SRB,Europe & Central Asia,Upper middle income,IBRD,942,🇷🇸,Europe
+Suriname,SUR,Latin America & Caribbean,Upper middle income,IBRD,366,🇸🇷,Americas
+Thailand,THA,East Asia & Pacific,Upper middle income,IBRD,578,🇹🇭,Asia
+Turkmenistan,TKM,Europe & Central Asia,Upper middle income,IBRD,925,🇹🇲,Asia
+Tonga,TON,East Asia & Pacific,Upper middle income,IDA,866,🇹🇴,Oceania
+Türkiye,TUR,Europe & Central Asia,Upper middle income,IBRD,NA,NA,NA
+Tuvalu,TUV,East Asia & Pacific,Upper middle income,IDA,NA,🇹🇻,Oceania
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,Blend,NA,NA,NA
+Kosovo,XKX,Europe & Central Asia,Upper middle income,IDA,NA,NA,NA
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,IBRD,199,🇿🇦,Africa

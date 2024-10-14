@@ -1,0 +1,43 @@
+country,countrycode,region,income_group,lending_category,imf,countryflag,continent
+Aruba,ABW,Latin America & Caribbean,High income,NA,314,🇦🇼,Americas
+Argentina,ARG,Latin America & Caribbean,Upper middle income,IBRD,213,🇦🇷,Americas
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,IBRD,NA,NA,NA
+"Bahamas, The",BHS,Latin America & Caribbean,High income,NA,NA,NA,NA
+Belize,BLZ,Latin America & Caribbean,Upper middle income,IBRD,339,🇧🇿,Americas
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,IBRD,218,🇧🇴,Americas
+Brazil,BRA,Latin America & Caribbean,Upper middle income,IBRD,223,🇧🇷,Americas
+Barbados,BRB,Latin America & Caribbean,High income,NA,316,🇧🇧,Americas
+Chile,CHL,Latin America & Caribbean,High income,IBRD,228,🇨🇱,Americas
+Colombia,COL,Latin America & Caribbean,Upper middle income,IBRD,233,🇨🇴,Americas
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,IBRD,238,🇨🇷,Americas
+Cuba,CUB,Latin America & Caribbean,Upper middle income,NA,928,🇨🇺,Americas
+Curaçao,CUW,Latin America & Caribbean,High income,NA,354,🇨🇼,Americas
+Cayman Islands,CYM,Latin America & Caribbean,High income,NA,377,🇰🇾,Americas
+Dominica,DMA,Latin America & Caribbean,Upper middle income,Blend,321,🇩🇲,Americas
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,IBRD,243,🇩🇴,Americas
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,IBRD,248,🇪🇨,Americas
+Grenada,GRD,Latin America & Caribbean,Upper middle income,Blend,328,🇬🇩,Americas
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,IBRD,258,🇬🇹,Americas
+Guyana,GUY,Latin America & Caribbean,Upper middle income,IDA,336,🇬🇾,Americas
+Honduras,HND,Latin America & Caribbean,Lower middle income,IDA,268,🇭🇳,Americas
+Haiti,HTI,Latin America & Caribbean,Lower middle income,IDA,263,🇭🇹,Americas
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,IBRD,343,🇯🇲,Americas
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,IBRD,NA,NA,NA
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,Blend,362,🇱🇨,Americas
+St. Martin (French part),MAF,Latin America & Caribbean,High income,NA,NA,NA,NA
+Mexico,MEX,Latin America & Caribbean,Upper middle income,IBRD,273,🇲🇽,Americas
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,IDA,278,🇳🇮,Americas
+Panama,PAN,Latin America & Caribbean,High income,IBRD,283,🇵🇦,Americas
+Peru,PER,Latin America & Caribbean,Upper middle income,IBRD,293,🇵🇪,Americas
+Puerto Rico,PRI,Latin America & Caribbean,High income,NA,NA,🇵🇷,Americas
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,IBRD,288,🇵🇾,Americas
+El Salvador,SLV,Latin America & Caribbean,Lower middle income,IBRD,253,🇸🇻,Americas
+Suriname,SUR,Latin America & Caribbean,Upper middle income,IBRD,366,🇸🇷,Americas
+Sint Maarten (Dutch part),SXM,Latin America & Caribbean,High income,NA,NA,NA,NA
+Turks and Caicos Islands,TCA,Latin America & Caribbean,High income,NA,NA,NA,NA
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,IBRD,NA,NA,NA
+Uruguay,URY,Latin America & Caribbean,High income,IBRD,298,🇺🇾,Americas
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,Blend,NA,NA,NA
+"Venezuela, RB",VEN,Latin America & Caribbean,NA,IBRD,NA,NA,NA
+British Virgin Islands,VGB,Latin America & Caribbean,High income,NA,NA,🇻🇬,Americas
+Virgin Islands (U.S.),VIR,Latin America & Caribbean,High income,NA,NA,NA,NA

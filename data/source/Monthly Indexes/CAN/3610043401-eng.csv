@@ -1,0 +1,63 @@
+﻿"Gross domestic product (GDP) at basic prices, by industry, monthly (x 1,000,000) 1 2"
+"Frequency: Monthly"
+"Table: 36-10-0434-01 (formerly CANSIM 379-0031)"
+"Release date: 2022-03-01"
+"Geography: Canada"
+""
+""
+
+"Seasonal adjustment","Seasonally adjusted at annual rates",,,,
+"Prices","Chained (2012) dollars 3",,,,
+"Geography","Canada",,,,
+"North American Industry Classification System (NAICS)","August 2021","September 2021","October 2021","November 2021","December 2021"
+,"Dollars",,,,
+"All industries  [T001] 4","1,982,479","1,987,953","2,003,871","2,016,153","2,016,976"
+"Goods-producing industries  [T002] 4","564,058","562,954","571,885","575,589","575,134"
+"Service-producing industries  [T003] 4","1,414,961","1,421,313","1,428,615","1,437,194","1,438,415"
+"Business sector industries  [T004]","1,624,786","1,628,084","1,644,824","1,656,203","1,656,589"
+"Non-business sector industries  [T007]","357,485","359,602","359,040","360,090","360,592"
+"Industrial production  [T010] 4","389,038","388,600","394,246","395,212","394,146"
+"Non-durable manufacturing industries  [T011] 4","90,396","89,196","90,264","91,262","92,156"
+"Durable manufacturing industries  [T012] 4","96,587","94,823","96,800","99,193","99,169"
+"Information and communication technology sector  [T013] 4","105,395","106,378","107,564","108,422","109,659"
+"Energy sector  [T016] 4","175,321","177,235","178,721","175,373","173,832"
+"Industrial production (1950 definition)  [T017] 4","382,173","381,678","387,340","388,255","387,100"
+"Public Sector  [T018] 4","388,346","390,947","390,550","391,881","392,680"
+"Content and media sector  [T019] 4","13,247","13,110","13,200","13,290","13,431"
+"All industries (except cannabis sector)  [T020] 4","1,973,322","1,978,576","1,994,085","2,006,078","2,006,767"
+"Cannabis sector  [T021] 4","10,551","10,869","11,422","11,865","12,129"
+"All industries (except unlicensed cannabis sector)  [T024] 4","1,978,277","1,983,795","1,999,740","2,012,025","2,012,868"
+"Agriculture, forestry, fishing and hunting  [11]","35,777","35,632","36,561","38,340","40,111"
+"Mining, quarrying, and oil and gas extraction  [21]","157,468","161,436","164,086","160,965","157,352"
+"Utilities  [22]","41,686","41,508","41,648","41,203","41,763"
+"Construction  [23]","146,170","145,724","148,070","149,109","148,188"
+"Manufacturing  [31-33]","187,087","184,129","187,163","190,537","191,421"
+"Wholesale trade  [41]","102,807","103,352","104,090","106,308","107,312"
+"Retail trade  [44-45]","104,803","104,392","105,377","105,859","102,970"
+"Transportation and warehousing  [48-49]","73,393","73,799","74,955","75,380","75,825"
+"Information and cultural industries  [51]","69,426","69,612","70,056","70,657","71,123"
+"Finance and insurance  [52]","150,231","150,826","151,348","152,166","152,514"
+"Real estate and rental and leasing  [53]","264,835","265,329","267,430","267,869","268,396"
+"Professional, scientific and technical services  [54]","127,731","129,418","130,489","131,158","131,958"
+"Management of companies and enterprises  [55]","2,641","2,557","2,473","2,406","2,343"
+"Administrative and support, waste management and remediation services  [56]","47,523","47,545","47,703","47,964","48,524"
+"Educational services  [61]","105,844","106,382","106,681","107,004","107,165"
+"Health care and social assistance  [62]","145,688","145,978","146,273","146,791","147,108"
+"Arts, entertainment and recreation  [71]","10,256","10,838","11,632","12,281","11,821"
+"Accommodation and food services  [72]","38,357","37,705","37,491","38,133","37,552"
+"Other services (except public administration)  [81]","36,188","36,537","36,727","36,890","37,064"
+"Public administration  [91]","136,698","138,468","137,492","137,980","138,297"
+
+
+
+
+Footnotes:
+1,"Aggregates are not always equal to the sum of their components."
+2,"At the lowest level of detail, it may not be possible to produce a homogeneous series from 1997 to the present. Only industries and certain aggregates that provide good continuity back to 1997 have data from 1997 to 2006."
+3,"Effective November 30, 2018 the data is presented on a 2012 reference year basis."
+4,"The alphanumeric code appearing in square brackets beside the industry title represents the identification code of an aggregation of NAICS industries, whose definition is included in the full classification provided in the definitions, data sources and methods for the statistical program 1301 - Gross domestic product by Industry - National (Monthly)."
+
+
+
+"How to cite: Statistics Canada. Table 36-10-0434-01  Gross domestic product (GDP) at basic prices, by industry, monthly (x 1,000,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610043401

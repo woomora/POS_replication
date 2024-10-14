@@ -1,0 +1,2768 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"> 
+	<head> 
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+		<meta name="ProgId" content="Excel.Sheet"> 
+		<meta name="Generator" content="Microsoft Excel 10"> 
+		<link rel="File-List" href="Libro1_archivos/filelist.xml"> 
+			<link rel="Edit-Time-Data" href="Libro1_archivos/editdata.mso"> 
+				<link rel="OLE-Object-Data" href="Libro1_archivos/oledata.mso"> 
+					<!--[If gte mso 9]><xml> 
+ <o:DocumentProperties> 
+  <o:Author></o:Author> 
+  <o:LastAuthor></o:LastAuthor> 
+  <o:Created>2022-3-14T00:00:00Z</o:Created> 
+  <o:LastSaved>2022-3-14T00:00:00Z</o:LastSaved> 
+  <o:Company>BCCR</o:Company> 
+  <o:Version>10.4219</o:Version> 
+ </o:DocumentProperties> 
+ <o:OfficeDocumentSettings> 
+  <o:DownloadComponents/> 
+ </o:OfficeDocumentSettings> 
+</xml><![endif]--> 
+					<style> 
+						<!--table 
+	{mso-displayed-decimal-separator:"\,"; 
+	mso-displayed-thousand-separator:"\.";} 
+@page 
+	{margin:.98in .79in .98in .79in; 
+	mso-header-margin:0in; 
+	mso-footer-margin:0in;} 
+            tr 
+	{mso-height-source:auto;} 
+            col 
+	{mso-width-source:auto;} 
+            br 
+	{mso-data-placement:same-cell;} 
+            .style0 
+	{mso-number-format:General; 
+	text-align:general; 
+	vertical-align:bottom; 
+	white-space:nowrap; 
+	mso-rotate:0; 
+	mso-background-source:auto; 
+	mso-pattern:auto; 
+	color:windowtext; 
+	font-size:10.0pt; 
+	font-weight:400; 
+	font-style:normal; 
+	text-decoration:none; 
+	font-family:Arial; 
+	mso-generic-font-family:auto; 
+	mso-font-charset:0; 
+	border:none; 
+	mso-protection:locked visible; 
+	mso-style-name:Normal; 
+	mso-style-id:0;} 
+            td 
+	{mso-style-parent:style0; 
+	padding-top:1px; 
+	padding-right:1px; 
+	padding-left:1px; 
+	mso-ignore:padding; 
+	color:windowtext; 
+	font-size:10.0pt; 
+	font-weight:400; 
+	font-style:normal; 
+	text-decoration:none; 
+	font-family:Arial; 
+	mso-generic-font-family:auto; 
+	mso-font-charset:0; 
+	mso-number-format:General; 
+	text-align:general; 
+	vertical-align:bottom; 
+	border:none; 
+	mso-background-source:auto; 
+	mso-pattern:auto; 
+	mso-protection:locked visible; 
+	white-space:nowrap; 
+	mso-rotate:0;} 
+	.numero 
+	{mso-style-parent:style0; 
+	mso-number-format:"\#\,\#\#0\.0";} 
+	.texto 
+	{mso-style-parent:style0; 
+	mso-number-format:"\@";} 
+--></style> 
+		<!--[If gte mso 9]><xml> 
+ <x:ExcelWorkbook> 
+  <x:ExcelWorksheets> 
+   <x:ExcelWorksheet> 
+    <x:Name>Hoja1</x:Name> 
+    <x:WorksheetOptions> 
+     <x:Selected/> 
+     <x:ProtectContents>False</x:ProtectContents> 
+     <x:ProtectObjects>False</x:ProtectObjects> 
+     <x:ProtectScenarios>False</x:ProtectScenarios> 
+    </x:WorksheetOptions> 
+    <x:QueryTable> 
+     <x:RefreshOnFileOpen/> 
+     <x:Name>DataExported</x:Name> 
+     <x:AutoFormatFont/> 
+     <x:AutoFormatPattern/> 
+     <x:QuerySource> 
+      <x:QueryType>Web</x:QueryType> 
+      <x:EnableRedirections/> 
+      <x:RefreshedInXl9/> 
+      <x:EntirePage/> 
+      <x:URLString 
+       HRef='https://gee.bccr.fi.cr/indicadoreseconomicos/Cuadros/frmVerCatCuadro.aspx?CodCuadro=5933&Idioma=1&FecInicial=1991/01/31&FecFinal=2021/12/31&Filtro=0&Exportar=True&Excel=True'/> 
+      <x:VersionLastEdit>1</x:VersionLastEdit> 
+      <x:VersionLastRefresh>1</x:VersionLastRefresh> 
+     </x:QuerySource> 
+    </x:QueryTable> 
+   </x:ExcelWorksheet> 
+   <x:ExcelWorksheet> 
+    <x:Name>Hoja2</x:Name> 
+    <x:WorksheetOptions> 
+     <x:ProtectContents>False</x:ProtectContents> 
+     <x:ProtectObjects>False</x:ProtectObjects> 
+     <x:ProtectScenarios>False</x:ProtectScenarios> 
+    </x:WorksheetOptions> 
+   </x:ExcelWorksheet> 
+   <x:ExcelWorksheet> 
+    <x:Name>Hoja3</x:Name> 
+    <x:WorksheetOptions> 
+     <x:ProtectContents>False</x:ProtectContents> 
+     <x:ProtectObjects>False</x:ProtectObjects> 
+     <x:ProtectScenarios>False</x:ProtectScenarios> 
+    </x:WorksheetOptions> 
+   </x:ExcelWorksheet> 
+  </x:ExcelWorksheets> 
+  <x:ProtectStructure>False</x:ProtectStructure> 
+  <x:ProtectWindows>False</x:ProtectWindows> 
+ </x:ExcelWorkbook> 
+ <x:ExcelName> 
+  <x:Name>DataExported</x:Name> 
+  <x:SheetIndex>1</x:SheetIndex> 
+  <x:Formula>=Hoja1!$A$1:$E$378</x:Formula> 
+ </x:ExcelName> 
+</xml><![endif]--> 
+	</head> 
+	<body link="blue" vlink="purple"> 
+<form id="Form1" method="post" runat="server">
+    <table id="Table9" cellPadding="0" cellSpacing="0" border="0">
+        <TR><TD colSpan="10" class=texto><a name="DataExported">Indice Mensual de Actividad Econ&oacute;mica</a></TD></TR>
+        <TR><TD colSpan="10" class=texto>Serie desestacionalizada</TD></TR>
+        <TR><TD colSpan="10" class=texto>2017=100</TD></TR>
+        <TR><TD>&nbsp;</TD></TR>
+        <tr>
+            <td rowspan="1" colspan=1>&nbsp;</td>
+            <td class=texto rowspan="1" colspan="1">
+                Nivel
+            </td>
+            <td class=texto rowspan="1" colspan="1">
+                Variaci&oacute;n mensual
+            </td>
+            <td class=texto rowspan="1" colspan="1">
+                Variaci&oacute;n media
+            </td>
+            <td class=texto rowspan="1" colspan="1">
+                Variaci&oacute;n interanual
+            </td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/1991</td>
+            <td class=numero align=right>31,74831107</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/1991</td>
+            <td class=numero align=right>31,14467907</td>
+            <td class=numero align=right>-1,90130429</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/1991</td>
+            <td class=numero align=right>30,60692642</td>
+            <td class=numero align=right>-1,72662768</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/1991</td>
+            <td class=numero align=right>31,60278257</td>
+            <td class=numero align=right>3,25369538</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/1991</td>
+            <td class=numero align=right>31,41991596</td>
+            <td class=numero align=right>-0,57864085</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/1991</td>
+            <td class=numero align=right>31,49705222</td>
+            <td class=numero align=right>0,24550117</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/1991</td>
+            <td class=numero align=right>31,39286929</td>
+            <td class=numero align=right>-0,33077041</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/1991</td>
+            <td class=numero align=right>31,33778958</td>
+            <td class=numero align=right>-0,17545293</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/1991</td>
+            <td class=numero align=right>32,70468423</td>
+            <td class=numero align=right>4,36180939</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/1991</td>
+            <td class=numero align=right>32,71513274</td>
+            <td class=numero align=right>0,03194805</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/1991</td>
+            <td class=numero align=right>33,47629782</td>
+            <td class=numero align=right>2,32664524</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/1991</td>
+            <td class=numero align=right>33,58846258</td>
+            <td class=numero align=right>0,33505724</td>
+            <td class=numero align=right></td>
+            <td class=numero align=right></td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/1992</td>
+            <td class=numero align=right>33,72101488</td>
+            <td class=numero align=right>0,39463640</td>
+            <td class=numero align=right>6,21357088</td>
+            <td class=numero align=right>6,21357088</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/1992</td>
+            <td class=numero align=right>34,16698937</td>
+            <td class=numero align=right>1,32254172</td>
+            <td class=numero align=right>7,94208401</td>
+            <td class=numero align=right>9,70409839</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/1992</td>
+            <td class=numero align=right>34,16045110</td>
+            <td class=numero align=right>-0,01913622</td>
+            <td class=numero align=right>9,14283040</td>
+            <td class=numero align=right>11,61019774</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/1992</td>
+            <td class=numero align=right>33,97083920</td>
+            <td class=numero align=right>-0,55506264</td>
+            <td class=numero align=right>8,72610703</td>
+            <td class=numero align=right>7,49319027</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/1992</td>
+            <td class=numero align=right>34,25855492</td>
+            <td class=numero align=right>0,84694911</td>
+            <td class=numero align=right>8,78801723</td>
+            <td class=numero align=right>9,03452117</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/1992</td>
+            <td class=numero align=right>35,29166972</td>
+            <td class=numero align=right>3,01564033</td>
+            <td class=numero align=right>9,33405113</td>
+            <td class=numero align=right>12,04753217</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/1992</td>
+            <td class=numero align=right>35,89358075</td>
+            <td class=numero align=right>1,70553288</td>
+            <td class=numero align=right>10,04981925</td>
+            <td class=numero align=right>14,33673175</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/1992</td>
+            <td class=numero align=right>36,28139576</td>
+            <td class=numero align=right>1,08045785</td>
+            <td class=numero align=right>10,76535769</td>
+            <td class=numero align=right>15,77522297</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/1992</td>
+            <td class=numero align=right>35,77666353</td>
+            <td class=numero align=right>-1,39115990</td>
+            <td class=numero align=right>10,60702676</td>
+            <td class=numero align=right>9,39308656</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/1992</td>
+            <td class=numero align=right>36,33684290</td>
+            <td class=numero align=right>1,56576750</td>
+            <td class=numero align=right>10,65497793</td>
+            <td class=numero align=right>11,07044312</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/1992</td>
+            <td class=numero align=right>35,78685668</td>
+            <td class=numero align=right>-1,51357734</td>
+            <td class=numero align=right>10,29566259</td>
+            <td class=numero align=right>6,90207404</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/1992</td>
+            <td class=numero align=right>35,19280721</td>
+            <td class=numero align=right>-1,65996549</td>
+            <td class=numero align=right>9,81193574</td>
+            <td class=numero align=right>4,77647533</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/1993</td>
+            <td class=numero align=right>35,83580648</td>
+            <td class=numero align=right>1,82707582</td>
+            <td class=numero align=right>6,27143520</td>
+            <td class=numero align=right>6,27143521</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/1993</td>
+            <td class=numero align=right>37,31190401</td>
+            <td class=numero align=right>4,11905765</td>
+            <td class=numero align=right>7,74762242</td>
+            <td class=numero align=right>9,20454128</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/1993</td>
+            <td class=numero align=right>38,02477873</td>
+            <td class=numero align=right>1,91058253</td>
+            <td class=numero align=right>8,94088386</td>
+            <td class=numero align=right>11,31228513</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/1993</td>
+            <td class=numero align=right>37,49956447</td>
+            <td class=numero align=right>-1,38124212</td>
+            <td class=numero align=right>9,30217965</td>
+            <td class=numero align=right>10,38751280</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/1993</td>
+            <td class=numero align=right>38,03138236</td>
+            <td class=numero align=right>1,41819751</td>
+            <td class=numero align=right>9,64634369</td>
+            <td class=numero align=right>11,01280381</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/1993</td>
+            <td class=numero align=right>37,64341558</td>
+            <td class=numero align=right>-1,02012274</td>
+            <td class=numero align=right>9,13429798</td>
+            <td class=numero align=right>6,66374212</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/1993</td>
+            <td class=numero align=right>38,66153483</td>
+            <td class=numero align=right>2,70464100</td>
+            <td class=numero align=right>8,92280706</td>
+            <td class=numero align=right>7,71155739</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/1993</td>
+            <td class=numero align=right>38,73599626</td>
+            <td class=numero align=right>0,19259823</td>
+            <td class=numero align=right>8,64099465</td>
+            <td class=numero align=right>6,76545223</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/1993</td>
+            <td class=numero align=right>37,96645143</td>
+            <td class=numero align=right>-1,98664009</td>
+            <td class=numero align=right>8,35339949</td>
+            <td class=numero align=right>6,12071581</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/1993</td>
+            <td class=numero align=right>38,55346978</td>
+            <td class=numero align=right>1,54615016</td>
+            <td class=numero align=right>8,11938033</td>
+            <td class=numero align=right>6,10021868</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/1993</td>
+            <td class=numero align=right>38,68178376</td>
+            <td class=numero align=right>0,33282083</td>
+            <td class=numero align=right>8,11659437</td>
+            <td class=numero align=right>8,08935835</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/1993</td>
+            <td class=numero align=right>38,95429409</td>
+            <td class=numero align=right>0,70449267</td>
+            <td class=numero align=right>8,33164866</td>
+            <td class=numero align=right>10,68822631</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/1994</td>
+            <td class=numero align=right>38,61448193</td>
+            <td class=numero align=right>-0,87233556</td>
+            <td class=numero align=right>7,75390796</td>
+            <td class=numero align=right>7,75390796</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/1994</td>
+            <td class=numero align=right>38,56931191</td>
+            <td class=numero align=right>-0,11697689</td>
+            <td class=numero align=right>5,51771658</td>
+            <td class=numero align=right>3,36999125</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/1994</td>
+            <td class=numero align=right>40,06692445</td>
+            <td class=numero align=right>3,88291226</td>
+            <td class=numero align=right>5,46738595</td>
+            <td class=numero align=right>5,37056569</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/1994</td>
+            <td class=numero align=right>39,93253968</td>
+            <td class=numero align=right>-0,33540076</td>
+            <td class=numero align=right>5,72481785</td>
+            <td class=numero align=right>6,48800925</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/1994</td>
+            <td class=numero align=right>39,92047263</td>
+            <td class=numero align=right>-0,03021859</td>
+            <td class=numero align=right>5,57048909</td>
+            <td class=numero align=right>4,96718802</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/1994</td>
+            <td class=numero align=right>40,24999458</td>
+            <td class=numero align=right>0,82544601</td>
+            <td class=numero align=right>5,79766261</td>
+            <td class=numero align=right>6,92439557</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/1994</td>
+            <td class=numero align=right>39,82485517</td>
+            <td class=numero align=right>-1,05624712</td>
+            <td class=numero align=right>5,38773461</td>
+            <td class=numero align=right>3,00898644</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/1994</td>
+            <td class=numero align=right>40,71646238</td>
+            <td class=numero align=right>2,23882097</td>
+            <td class=numero align=right>5,35243104</td>
+            <td class=numero align=right>5,11272798</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/1994</td>
+            <td class=numero align=right>40,63916667</td>
+            <td class=numero align=right>-0,18983896</td>
+            <td class=numero align=right>5,54099938</td>
+            <td class=numero align=right>7,03967619</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/1994</td>
+            <td class=numero align=right>40,75687553</td>
+            <td class=numero align=right>0,28964388</td>
+            <td class=numero align=right>5,55875370</td>
+            <td class=numero align=right>5,71519441</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/1994</td>
+            <td class=numero align=right>40,10207682</td>
+            <td class=numero align=right>-1,60659693</td>
+            <td class=numero align=right>5,38368741</td>
+            <td class=numero align=right>3,67173621</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/1994</td>
+            <td class=numero align=right>39,66565947</td>
+            <td class=numero align=right>-1,08826621</td>
+            <td class=numero align=right>5,07971485</td>
+            <td class=numero align=right>1,82615395</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/1995</td>
+            <td class=numero align=right>43,32994261</td>
+            <td class=numero align=right>9,23792315</td>
+            <td class=numero align=right>12,21163782</td>
+            <td class=numero align=right>12,21163782</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/1995</td>
+            <td class=numero align=right>42,66580376</td>
+            <td class=numero align=right>-1,53274805</td>
+            <td class=numero align=right>11,41684296</td>
+            <td class=numero align=right>10,62111727</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/1995</td>
+            <td class=numero align=right>41,37288651</td>
+            <td class=numero align=right>-3,03033609</td>
+            <td class=numero align=right>8,62929860</td>
+            <td class=numero align=right>3,25945172</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/1995</td>
+            <td class=numero align=right>41,19277578</td>
+            <td class=numero align=right>-0,43533518</td>
+            <td class=numero align=right>7,23878029</td>
+            <td class=numero align=right>3,15591272</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/1995</td>
+            <td class=numero align=right>41,90704984</td>
+            <td class=numero align=right>1,73397895</td>
+            <td class=numero align=right>6,78055553</td>
+            <td class=numero align=right>4,97633690</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/1995</td>
+            <td class=numero align=right>42,17316574</td>
+            <td class=numero align=right>0,63501464</td>
+            <td class=numero align=right>6,44097709</td>
+            <td class=numero align=right>4,77806564</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/1995</td>
+            <td class=numero align=right>41,59160154</td>
+            <td class=numero align=right>-1,37899109</td>
+            <td class=numero align=right>6,15294494</td>
+            <td class=numero align=right>4,43629076</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/1995</td>
+            <td class=numero align=right>41,71474354</td>
+            <td class=numero align=right>0,29607420</td>
+            <td class=numero align=right>5,67889529</td>
+            <td class=numero align=right>2,45178756</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/1995</td>
+            <td class=numero align=right>42,20151954</td>
+            <td class=numero align=right>1,16691596</td>
+            <td class=numero align=right>5,47096454</td>
+            <td class=numero align=right>3,84445105</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/1995</td>
+            <td class=numero align=right>41,42391156</td>
+            <td class=numero align=right>-1,84260659</td>
+            <td class=numero align=right>5,07958135</td>
+            <td class=numero align=right>1,63662209</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/1995</td>
+            <td class=numero align=right>42,24622607</td>
+            <td class=numero align=right>1,98512038</td>
+            <td class=numero align=right>5,10396308</td>
+            <td class=numero align=right>5,34672870</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/1995</td>
+            <td class=numero align=right>43,87842963</td>
+            <td class=numero align=right>3,86354880</td>
+            <td class=numero align=right>5,56074405</td>
+            <td class=numero align=right>10,62069865</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/1996</td>
+            <td class=numero align=right>43,59105436</td>
+            <td class=numero align=right>-0,65493518</td>
+            <td class=numero align=right>0,60261272</td>
+            <td class=numero align=right>0,60261273</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/1996</td>
+            <td class=numero align=right>40,91384552</td>
+            <td class=numero align=right>-6,14164736</td>
+            <td class=numero align=right>-1,73362818</td>
+            <td class=numero align=right>-4,10623517</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/1996</td>
+            <td class=numero align=right>41,36514204</td>
+            <td class=numero align=right>1,10304107</td>
+            <td class=numero align=right>-1,17657773</td>
+            <td class=numero align=right>-0,01871871</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/1996</td>
+            <td class=numero align=right>41,13627946</td>
+            <td class=numero align=right>-0,55327401</td>
+            <td class=numero align=right>-0,92256425</td>
+            <td class=numero align=right>-0,13715104</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/1996</td>
+            <td class=numero align=right>41,51989621</td>
+            <td class=numero align=right>0,93255091</td>
+            <td class=numero align=right>-0,92281805</td>
+            <td class=numero align=right>-0,92383890</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/1996</td>
+            <td class=numero align=right>41,53311854</td>
+            <td class=numero align=right>0,03184577</td>
+            <td class=numero align=right>-1,02211507</td>
+            <td class=numero align=right>-1,51766458</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/1996</td>
+            <td class=numero align=right>42,24406251</td>
+            <td class=numero align=right>1,71175196</td>
+            <td class=numero align=right>-0,65588349</td>
+            <td class=numero align=right>1,56873250</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/1996</td>
+            <td class=numero align=right>41,93934647</td>
+            <td class=numero align=right>-0,72132277</td>
+            <td class=numero align=right>-0,50758581</td>
+            <td class=numero align=right>0,53842577</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/1996</td>
+            <td class=numero align=right>42,61500245</td>
+            <td class=numero align=right>1,61103126</td>
+            <td class=numero align=right>-0,34159541</td>
+            <td class=numero align=right>0,97978204</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/1996</td>
+            <td class=numero align=right>43,15896354</td>
+            <td class=numero align=right>1,27645444</td>
+            <td class=numero align=right>0,10565748</td>
+            <td class=numero align=right>4,18852763</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/1996</td>
+            <td class=numero align=right>43,03620275</td>
+            <td class=numero align=right>-0,28443869</td>
+            <td class=numero align=right>0,26704958</td>
+            <td class=numero align=right>1,86993432</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/1996</td>
+            <td class=numero align=right>42,74492486</td>
+            <td class=numero align=right>-0,67682061</td>
+            <td class=numero align=right>0,01973165</td>
+            <td class=numero align=right>-2,58328472</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/1997</td>
+            <td class=numero align=right>43,56343595</td>
+            <td class=numero align=right>1,91487315</td>
+            <td class=numero align=right>-0,06335797</td>
+            <td class=numero align=right>-0,06335798</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/1997</td>
+            <td class=numero align=right>44,05660129</td>
+            <td class=numero align=right>1,13206254</td>
+            <td class=numero align=right>3,68633934</td>
+            <td class=numero align=right>7,68139912</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/1997</td>
+            <td class=numero align=right>43,38127160</td>
+            <td class=numero align=right>-1,53286833</td>
+            <td class=numero align=right>4,07663877</td>
+            <td class=numero align=right>4,87398196</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/1997</td>
+            <td class=numero align=right>44,59758761</td>
+            <td class=numero align=right>2,80378137</td>
+            <td class=numero align=right>5,14505979</td>
+            <td class=numero align=right>8,41424697</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/1997</td>
+            <td class=numero align=right>44,41417321</td>
+            <td class=numero align=right>-0,41126529</td>
+            <td class=numero align=right>5,50858890</td>
+            <td class=numero align=right>6,97081945</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/1997</td>
+            <td class=numero align=right>44,46743532</td>
+            <td class=numero align=right>0,11992143</td>
+            <td class=numero align=right>5,76709875</td>
+            <td class=numero align=right>7,06500471</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/1997</td>
+            <td class=numero align=right>44,71566840</td>
+            <td class=numero align=right>0,55823566</td>
+            <td class=numero align=right>5,77919204</td>
+            <td class=numero align=right>5,85077699</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/1997</td>
+            <td class=numero align=right>44,87283622</td>
+            <td class=numero align=right>0,35148266</td>
+            <td class=numero align=right>5,93169629</td>
+            <td class=numero align=right>6,99460053</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/1997</td>
+            <td class=numero align=right>45,41878194</td>
+            <td class=numero align=right>1,21665080</td>
+            <td class=numero align=right>6,00493001</td>
+            <td class=numero align=right>6,57932495</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/1997</td>
+            <td class=numero align=right>45,64466950</td>
+            <td class=numero align=right>0,49734394</td>
+            <td class=numero align=right>5,97970254</td>
+            <td class=numero align=right>5,75941996</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/1997</td>
+            <td class=numero align=right>46,24196538</td>
+            <td class=numero align=right>1,30857751</td>
+            <td class=numero align=right>6,11625836</td>
+            <td class=numero align=right>7,44899044</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/1997</td>
+            <td class=numero align=right>47,67698613</td>
+            <td class=numero align=right>3,10328668</td>
+            <td class=numero align=right>6,57447923</td>
+            <td class=numero align=right>11,53835522</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/1998</td>
+            <td class=numero align=right>51,50089096</td>
+            <td class=numero align=right>8,02044160</td>
+            <td class=numero align=right>18,22045217</td>
+            <td class=numero align=right>18,22045217</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/1998</td>
+            <td class=numero align=right>46,95690687</td>
+            <td class=numero align=right>-8,82311744</td>
+            <td class=numero align=right>12,36904358</td>
+            <td class=numero align=right>6,58313509</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/1998</td>
+            <td class=numero align=right>46,77036768</td>
+            <td class=numero align=right>-0,39725613</td>
+            <td class=numero align=right>10,86008743</td>
+            <td class=numero align=right>7,81234841</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/1998</td>
+            <td class=numero align=right>47,84920861</td>
+            <td class=numero align=right>2,30667618</td>
+            <td class=numero align=right>9,95363754</td>
+            <td class=numero align=right>7,29102441</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/1998</td>
+            <td class=numero align=right>47,04608504</td>
+            <td class=numero align=right>-1,67844692</td>
+            <td class=numero align=right>9,14054312</td>
+            <td class=numero align=right>5,92583772</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/1998</td>
+            <td class=numero align=right>47,08765658</td>
+            <td class=numero align=right>0,08836344</td>
+            <td class=numero align=right>8,59443715</td>
+            <td class=numero align=right>5,89244970</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/1998</td>
+            <td class=numero align=right>47,07285251</td>
+            <td class=numero align=right>-0,03143939</td>
+            <td class=numero align=right>8,11387625</td>
+            <td class=numero align=right>5,27149475</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/1998</td>
+            <td class=numero align=right>47,94224429</td>
+            <td class=numero align=right>1,84690694</td>
+            <td class=numero align=right>7,95246186</td>
+            <td class=numero align=right>6,84023638</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/1998</td>
+            <td class=numero align=right>48,09992490</td>
+            <td class=numero align=right>0,32889701</td>
+            <td class=numero align=right>7,71947143</td>
+            <td class=numero align=right>5,90315910</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/1998</td>
+            <td class=numero align=right>48,78001895</td>
+            <td class=numero align=right>1,41391915</td>
+            <td class=numero align=right>7,63226642</td>
+            <td class=numero align=right>6,86903747</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/1998</td>
+            <td class=numero align=right>50,01199199</td>
+            <td class=numero align=right>2,52556901</td>
+            <td class=numero align=right>7,68125485</td>
+            <td class=numero align=right>8,15282521</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/1998</td>
+            <td class=numero align=right>49,54704356</td>
+            <td class=numero align=right>-0,92967389</td>
+            <td class=numero align=right>7,34879428</td>
+            <td class=numero align=right>3,92234825</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/1999</td>
+            <td class=numero align=right>49,41724000</td>
+            <td class=numero align=right>-0,26198043</td>
+            <td class=numero align=right>-4,04585421</td>
+            <td class=numero align=right>-4,04585420</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/1999</td>
+            <td class=numero align=right>49,35490106</td>
+            <td class=numero align=right>-0,12614816</td>
+            <td class=numero align=right>0,31926697</td>
+            <td class=numero align=right>5,10679759</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/1999</td>
+            <td class=numero align=right>50,02133964</td>
+            <td class=numero align=right>1,35029869</td>
+            <td class=numero align=right>2,45497502</td>
+            <td class=numero align=right>6,95092239</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/1999</td>
+            <td class=numero align=right>49,90981630</td>
+            <td class=numero align=right>-0,22295153</td>
+            <td class=numero align=right>2,91381779</td>
+            <td class=numero align=right>4,30646138</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/1999</td>
+            <td class=numero align=right>50,50898132</td>
+            <td class=numero align=right>1,20049534</td>
+            <td class=numero align=right>3,78506089</td>
+            <td class=numero align=right>7,36064707</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/1999</td>
+            <td class=numero align=right>50,89919214</td>
+            <td class=numero align=right>0,77255730</td>
+            <td class=numero align=right>4,49159312</td>
+            <td class=numero align=right>8,09455351</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/1999</td>
+            <td class=numero align=right>50,67593442</td>
+            <td class=numero align=right>-0,43862724</td>
+            <td class=numero align=right>4,93695127</td>
+            <td class=numero align=right>7,65426720</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/1999</td>
+            <td class=numero align=right>51,09724000</td>
+            <td class=numero align=right>0,83137210</td>
+            <td class=numero align=right>5,14314081</td>
+            <td class=numero align=right>6,58082607</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/1999</td>
+            <td class=numero align=right>50,98948690</td>
+            <td class=numero align=right>-0,21087851</td>
+            <td class=numero align=right>5,23974548</td>
+            <td class=numero align=right>6,00741479</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/1999</td>
+            <td class=numero align=right>51,48924803</td>
+            <td class=numero align=right>0,98012583</td>
+            <td class=numero align=right>5,27173844</td>
+            <td class=numero align=right>5,55397300</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/1999</td>
+            <td class=numero align=right>52,16929209</td>
+            <td class=numero align=right>1,32074964</td>
+            <td class=numero align=right>5,18117241</td>
+            <td class=numero align=right>4,31356564</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/1999</td>
+            <td class=numero align=right>52,10128435</td>
+            <td class=numero align=right>-0,13035971</td>
+            <td class=numero align=right>5,17894712</td>
+            <td class=numero align=right>5,15518305</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2000</td>
+            <td class=numero align=right>52,41185068</td>
+            <td class=numero align=right>0,59608191</td>
+            <td class=numero align=right>6,05985012</td>
+            <td class=numero align=right>6,05985013</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2000</td>
+            <td class=numero align=right>51,88800098</td>
+            <td class=numero align=right>-0,99948713</td>
+            <td class=numero align=right>5,59642683</td>
+            <td class=numero align=right>5,13241819</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2000</td>
+            <td class=numero align=right>52,51222015</td>
+            <td class=numero align=right>1,20301256</td>
+            <td class=numero align=right>5,38907422</td>
+            <td class=numero align=right>4,97963575</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2000</td>
+            <td class=numero align=right>51,96570862</td>
+            <td class=numero align=right>-1,04073210</td>
+            <td class=numero align=right>5,07011388</td>
+            <td class=numero align=right>4,11921436</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2000</td>
+            <td class=numero align=right>52,03132226</td>
+            <td class=numero align=right>0,12626334</td>
+            <td class=numero align=right>4,65339206</td>
+            <td class=numero align=right>3,01400048</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2000</td>
+            <td class=numero align=right>52,26560771</td>
+            <td class=numero align=right>0,45027772</td>
+            <td class=numero align=right>4,31947500</td>
+            <td class=numero align=right>2,68455257</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2000</td>
+            <td class=numero align=right>52,48299081</td>
+            <td class=numero align=right>0,41591997</td>
+            <td class=numero align=right>4,21061193</td>
+            <td class=numero align=right>3,56590640</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2000</td>
+            <td class=numero align=right>52,67190724</td>
+            <td class=numero align=right>0,35995744</td>
+            <td class=numero align=right>4,06707839</td>
+            <td class=numero align=right>3,08170704</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2000</td>
+            <td class=numero align=right>52,02787954</td>
+            <td class=numero align=right>-1,22271574</td>
+            <td class=numero align=right>3,83845201</td>
+            <td class=numero align=right>2,03648380</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2000</td>
+            <td class=numero align=right>51,74301257</td>
+            <td class=numero align=right>-0,54752754</td>
+            <td class=numero align=right>3,49690748</td>
+            <td class=numero align=right>0,49284957</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2000</td>
+            <td class=numero align=right>52,26784557</td>
+            <td class=numero align=right>1,01430700</td>
+            <td class=numero align=right>3,18681636</td>
+            <td class=numero align=right>0,18891090</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2000</td>
+            <td class=numero align=right>53,54117401</td>
+            <td class=numero align=right>2,43616018</td>
+            <td class=numero align=right>3,15059055</td>
+            <td class=numero align=right>2,76363563</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2001</td>
+            <td class=numero align=right>54,07346086</td>
+            <td class=numero align=right>0,99416358</td>
+            <td class=numero align=right>3,17029481</td>
+            <td class=numero align=right>3,17029481</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2001</td>
+            <td class=numero align=right>53,24473888</td>
+            <td class=numero align=right>-1,53258543</td>
+            <td class=numero align=right>2,89391407</td>
+            <td class=numero align=right>2,61474305</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2001</td>
+            <td class=numero align=right>53,43485070</td>
+            <td class=numero align=right>0,35705278</td>
+            <td class=numero align=right>2,51318574</td>
+            <td class=numero align=right>1,75698256</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2001</td>
+            <td class=numero align=right>52,68695229</td>
+            <td class=numero align=right>-1,39964536</td>
+            <td class=numero align=right>2,23310272</td>
+            <td class=numero align=right>1,38792232</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2001</td>
+            <td class=numero align=right>53,41989899</td>
+            <td class=numero align=right>1,39113513</td>
+            <td class=numero align=right>2,32001068</td>
+            <td class=numero align=right>2,66873235</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2001</td>
+            <td class=numero align=right>54,19730426</td>
+            <td class=numero align=right>1,45527282</td>
+            <td class=numero align=right>2,54970948</td>
+            <td class=numero align=right>3,69592287</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2001</td>
+            <td class=numero align=right>53,84491495</td>
+            <td class=numero align=right>-0,65019712</td>
+            <td class=numero align=right>2,55620924</td>
+            <td class=numero align=right>2,59498195</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2001</td>
+            <td class=numero align=right>54,98783703</td>
+            <td class=numero align=right>2,12261841</td>
+            <td class=numero align=right>2,78802583</td>
+            <td class=numero align=right>4,39689753</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2001</td>
+            <td class=numero align=right>55,03099717</td>
+            <td class=numero align=right>0,07849034</td>
+            <td class=numero align=right>3,11817834</td>
+            <td class=numero align=right>5,77213151</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2001</td>
+            <td class=numero align=right>54,77777175</td>
+            <td class=numero align=right>-0,46015052</td>
+            <td class=numero align=right>3,39046156</td>
+            <td class=numero align=right>5,86506086</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2001</td>
+            <td class=numero align=right>54,48643050</td>
+            <td class=numero align=right>-0,53186035</td>
+            <td class=numero align=right>3,46820635</td>
+            <td class=numero align=right>4,24464583</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2001</td>
+            <td class=numero align=right>54,46906754</td>
+            <td class=numero align=right>-0,03186658</td>
+            <td class=numero align=right>3,32022757</td>
+            <td class=numero align=right>1,73304666</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2002</td>
+            <td class=numero align=right>53,71578450</td>
+            <td class=numero align=right>-1,38295564</td>
+            <td class=numero align=right>-0,66146378</td>
+            <td class=numero align=right>-0,66146378</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2002</td>
+            <td class=numero align=right>55,01637608</td>
+            <td class=numero align=right>2,42124655</td>
+            <td class=numero align=right>1,31754059</td>
+            <td class=numero align=right>3,32734696</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2002</td>
+            <td class=numero align=right>55,60684947</td>
+            <td class=numero align=right>1,07326842</td>
+            <td class=numero align=right>2,23072569</td>
+            <td class=numero align=right>4,06476062</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2002</td>
+            <td class=numero align=right>56,15852599</td>
+            <td class=numero align=right>0,99210174</td>
+            <td class=numero align=right>3,30656541</td>
+            <td class=numero align=right>6,58905773</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2002</td>
+            <td class=numero align=right>56,87587618</td>
+            <td class=numero align=right>1,27736649</td>
+            <td class=numero align=right>3,93971160</td>
+            <td class=numero align=right>6,46945662</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2002</td>
+            <td class=numero align=right>55,93633674</td>
+            <td class=numero align=right>-1,65191203</td>
+            <td class=numero align=right>3,81631147</td>
+            <td class=numero align=right>3,20870660</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2002</td>
+            <td class=numero align=right>56,78226227</td>
+            <td class=numero align=right>1,51230055</td>
+            <td class=numero align=right>4,05169495</td>
+            <td class=numero align=right>5,45519911</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2002</td>
+            <td class=numero align=right>56,70005841</td>
+            <td class=numero align=right>-0,14477032</td>
+            <td class=numero align=right>3,93172982</td>
+            <td class=numero align=right>3,11381839</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2002</td>
+            <td class=numero align=right>56,45399714</td>
+            <td class=numero align=right>-0,43397005</td>
+            <td class=numero align=right>3,77898943</td>
+            <td class=numero align=right>2,58581535</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2002</td>
+            <td class=numero align=right>56,07408274</td>
+            <td class=numero align=right>-0,67296280</td>
+            <td class=numero align=right>3,63562515</td>
+            <td class=numero align=right>2,36649091</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2002</td>
+            <td class=numero align=right>57,08889333</td>
+            <td class=numero align=right>1,80976762</td>
+            <td class=numero align=right>3,74022898</td>
+            <td class=numero align=right>4,77635038</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2002</td>
+            <td class=numero align=right>56,44587841</td>
+            <td class=numero align=right>-1,12633979</td>
+            <td class=numero align=right>3,73090861</td>
+            <td class=numero align=right>3,62923575</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2003</td>
+            <td class=numero align=right>57,68546220</td>
+            <td class=numero align=right>2,19605722</td>
+            <td class=numero align=right>7,39015121</td>
+            <td class=numero align=right>7,39015121</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2003</td>
+            <td class=numero align=right>58,22070393</td>
+            <td class=numero align=right>0,92786243</td>
+            <td class=numero align=right>6,59786903</td>
+            <td class=numero align=right>5,82431646</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2003</td>
+            <td class=numero align=right>57,52303146</td>
+            <td class=numero align=right>-1,19832366</td>
+            <td class=numero align=right>5,53136321</td>
+            <td class=numero align=right>3,44594597</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2003</td>
+            <td class=numero align=right>58,22074942</td>
+            <td class=numero align=right>1,21293670</td>
+            <td class=numero align=right>5,05783928</td>
+            <td class=numero align=right>3,67214665</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2003</td>
+            <td class=numero align=right>58,41685192</td>
+            <td class=numero align=right>0,33682579</td>
+            <td class=numero align=right>4,57628099</td>
+            <td class=numero align=right>2,70936616</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2003</td>
+            <td class=numero align=right>58,40134895</td>
+            <td class=numero align=right>-0,02653852</td>
+            <td class=numero align=right>4,54784146</td>
+            <td class=numero align=right>4,40681738</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2003</td>
+            <td class=numero align=right>59,08151447</td>
+            <td class=numero align=right>1,16464008</td>
+            <td class=numero align=right>4,47526497</td>
+            <td class=numero align=right>4,04924374</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2003</td>
+            <td class=numero align=right>58,62430990</td>
+            <td class=numero align=right>-0,77385384</td>
+            <td class=numero align=right>4,33801402</td>
+            <td class=numero align=right>3,39373811</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2003</td>
+            <td class=numero align=right>59,32579710</td>
+            <td class=numero align=right>1,19658074</td>
+            <td class=numero align=right>4,42203210</td>
+            <td class=numero align=right>5,08697365</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2003</td>
+            <td class=numero align=right>59,98034264</td>
+            <td class=numero align=right>1,10330678</td>
+            <td class=numero align=right>4,67709996</td>
+            <td class=numero align=right>6,96624841</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2003</td>
+            <td class=numero align=right>59,64835787</td>
+            <td class=numero align=right>-0,55348929</td>
+            <td class=numero align=right>4,65915083</td>
+            <td class=numero align=right>4,48329682</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2003</td>
+            <td class=numero align=right>59,98791347</td>
+            <td class=numero align=right>0,56926228</td>
+            <td class=numero align=right>4,79471296</td>
+            <td class=numero align=right>6,27509955</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2004</td>
+            <td class=numero align=right>59,77841796</td>
+            <td class=numero align=right>-0,34922953</td>
+            <td class=numero align=right>3,62822050</td>
+            <td class=numero align=right>3,62822049</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2004</td>
+            <td class=numero align=right>60,04530156</td>
+            <td class=numero align=right>0,44645477</td>
+            <td class=numero align=right>3,37993527</td>
+            <td class=numero align=right>3,13393262</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2004</td>
+            <td class=numero align=right>61,25004944</td>
+            <td class=numero align=right>2,00639825</td>
+            <td class=numero align=right>4,40789179</td>
+            <td class=numero align=right>6,47917519</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2004</td>
+            <td class=numero align=right>61,76788898</td>
+            <td class=numero align=right>0,84545163</td>
+            <td class=numero align=right>4,83130304</td>
+            <td class=numero align=right>6,09256939</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2004</td>
+            <td class=numero align=right>60,94079508</td>
+            <td class=numero align=right>-1,33903540</td>
+            <td class=numero align=right>4,72844673</td>
+            <td class=numero align=right>4,32057373</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2004</td>
+            <td class=numero align=right>61,57598672</td>
+            <td class=numero align=right>1,04230941</td>
+            <td class=numero align=right>4,84701169</td>
+            <td class=numero align=right>5,43589802</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2004</td>
+            <td class=numero align=right>62,31711707</td>
+            <td class=numero align=right>1,20360288</td>
+            <td class=numero align=right>4,93826797</td>
+            <td class=numero align=right>5,47650586</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2004</td>
+            <td class=numero align=right>60,99581642</td>
+            <td class=numero align=right>-2,12028526</td>
+            <td class=numero align=right>4,82596676</td>
+            <td class=numero align=right>4,04526130</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2004</td>
+            <td class=numero align=right>61,71421428</td>
+            <td class=numero align=right>1,17778219</td>
+            <td class=numero align=right>4,73564778</td>
+            <td class=numero align=right>4,02593357</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2004</td>
+            <td class=numero align=right>62,10417002</td>
+            <td class=numero align=right>0,63187346</td>
+            <td class=numero align=right>4,61324731</td>
+            <td class=numero align=right>3,54087237</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2004</td>
+            <td class=numero align=right>62,18461295</td>
+            <td class=numero align=right>0,12952903</td>
+            <td class=numero align=right>4,57984758</td>
+            <td class=numero align=right>4,25201157</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2004</td>
+            <td class=numero align=right>63,00888630</td>
+            <td class=numero align=right>1,32552622</td>
+            <td class=numero align=right>4,61865221</td>
+            <td class=numero align=right>5,03596917</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2005</td>
+            <td class=numero align=right>63,23971991</td>
+            <td class=numero align=right>0,36635088</td>
+            <td class=numero align=right>5,79022006</td>
+            <td class=numero align=right>5,79022006</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2005</td>
+            <td class=numero align=right>62,98308772</td>
+            <td class=numero align=right>-0,40580855</td>
+            <td class=numero align=right>5,34041853</td>
+            <td class=numero align=right>4,89261621</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2005</td>
+            <td class=numero align=right>62,59152492</td>
+            <td class=numero align=right>-0,62169515</td>
+            <td class=numero align=right>4,27481222</td>
+            <td class=numero align=right>2,19016228</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2005</td>
+            <td class=numero align=right>63,58710969</td>
+            <td class=numero align=right>1,59060635</td>
+            <td class=numero align=right>3,93663278</td>
+            <td class=numero align=right>2,94525317</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2005</td>
+            <td class=numero align=right>63,08093507</td>
+            <td class=numero align=right>-0,79603338</td>
+            <td class=numero align=right>3,85141544</td>
+            <td class=numero align=right>3,51183470</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2005</td>
+            <td class=numero align=right>64,41431983</td>
+            <td class=numero align=right>2,11376822</td>
+            <td class=numero align=right>3,97917656</td>
+            <td class=numero align=right>4,60948052</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2005</td>
+            <td class=numero align=right>64,49577325</td>
+            <td class=numero align=right>0,12645235</td>
+            <td class=numero align=right>3,90878397</td>
+            <td class=numero align=right>3,49607986</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2005</td>
+            <td class=numero align=right>64,68992026</td>
+            <td class=numero align=right>0,30102284</td>
+            <td class=numero align=right>4,17683919</td>
+            <td class=numero align=right>6,05632330</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2005</td>
+            <td class=numero align=right>65,00710755</td>
+            <td class=numero align=right>0,49031949</td>
+            <td class=numero align=right>4,30678260</td>
+            <td class=numero align=right>5,33571286</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2005</td>
+            <td class=numero align=right>65,17682695</td>
+            <td class=numero align=right>0,26107822</td>
+            <td class=numero align=right>4,37175762</td>
+            <td class=numero align=right>4,94758553</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2005</td>
+            <td class=numero align=right>65,75640433</td>
+            <td class=numero align=right>0,88923841</td>
+            <td class=numero align=right>4,49822319</td>
+            <td class=numero align=right>5,74385079</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2005</td>
+            <td class=numero align=right>66,38221330</td>
+            <td class=numero align=right>0,95170801</td>
+            <td class=numero align=right>4,57129611</td>
+            <td class=numero align=right>5,35373214</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2006</td>
+            <td class=numero align=right>65,41445783</td>
+            <td class=numero align=right>-1,45785358</td>
+            <td class=numero align=right>3,43887975</td>
+            <td class=numero align=right>3,43887975</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2006</td>
+            <td class=numero align=right>66,49265818</td>
+            <td class=numero align=right>1,64826001</td>
+            <td class=numero align=right>4,50339244</td>
+            <td class=numero align=right>5,57224262</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2006</td>
+            <td class=numero align=right>67,37689412</td>
+            <td class=numero align=right>1,32982492</td>
+            <td class=numero align=right>5,54495913</td>
+            <td class=numero align=right>7,64539481</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2006</td>
+            <td class=numero align=right>66,87665818</td>
+            <td class=numero align=right>-0,74244434</td>
+            <td class=numero align=right>5,45132624</td>
+            <td class=numero align=right>5,17329457</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2006</td>
+            <td class=numero align=right>68,68332859</td>
+            <td class=numero align=right>2,70149625</td>
+            <td class=numero align=right>6,13714774</td>
+            <td class=numero align=right>8,88127849</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2006</td>
+            <td class=numero align=right>68,06361294</td>
+            <td class=numero align=right>-0,90227958</td>
+            <td class=numero align=right>6,05714997</td>
+            <td class=numero align=right>5,66534448</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2006</td>
+            <td class=numero align=right>68,70608032</td>
+            <td class=numero align=right>0,94392195</td>
+            <td class=numero align=right>6,12549077</td>
+            <td class=numero align=right>6,52803565</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2006</td>
+            <td class=numero align=right>69,29922104</td>
+            <td class=numero align=right>0,86330164</td>
+            <td class=numero align=right>6,25252830</td>
+            <td class=numero align=right>7,12522254</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2006</td>
+            <td class=numero align=right>70,50733843</td>
+            <td class=numero align=right>1,74333473</td>
+            <td class=numero align=right>6,50260134</td>
+            <td class=numero align=right>8,46096848</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2006</td>
+            <td class=numero align=right>72,24194518</td>
+            <td class=numero align=right>2,46017902</td>
+            <td class=numero align=right>6,94481594</td>
+            <td class=numero align=right>10,83992358</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2006</td>
+            <td class=numero align=right>71,02796330</td>
+            <td class=numero align=right>-1,68043908</td>
+            <td class=numero align=right>7,04479821</td>
+            <td class=numero align=right>8,01679931</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2006</td>
+            <td class=numero align=right>70,52205551</td>
+            <td class=numero align=right>-0,71226566</td>
+            <td class=numero align=right>6,97523024</td>
+            <td class=numero align=right>6,23637267</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2007</td>
+            <td class=numero align=right>72,11031397</td>
+            <td class=numero align=right>2,25214431</td>
+            <td class=numero align=right>10,23604928</td>
+            <td class=numero align=right>10,23604928</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2007</td>
+            <td class=numero align=right>72,21871975</td>
+            <td class=numero align=right>0,15033325</td>
+            <td class=numero align=right>9,41717027</td>
+            <td class=numero align=right>8,61156965</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2007</td>
+            <td class=numero align=right>72,05865236</td>
+            <td class=numero align=right>-0,22164252</td>
+            <td class=numero align=right>8,58256312</td>
+            <td class=numero align=right>6,94861095</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2007</td>
+            <td class=numero align=right>73,32898260</td>
+            <td class=numero align=right>1,76291146</td>
+            <td class=numero align=right>8,85029352</td>
+            <td class=numero align=right>9,64809635</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2007</td>
+            <td class=numero align=right>73,90147674</td>
+            <td class=numero align=right>0,78072015</td>
+            <td class=numero align=right>8,59329980</td>
+            <td class=numero align=right>7,59740137</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2007</td>
+            <td class=numero align=right>74,46994766</td>
+            <td class=numero align=right>0,76922809</td>
+            <td class=numero align=right>8,73165023</td>
+            <td class=numero align=right>9,41227543</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2007</td>
+            <td class=numero align=right>74,02160296</td>
+            <td class=numero align=right>-0,60204782</td>
+            <td class=numero align=right>8,58669007</td>
+            <td class=numero align=right>7,73661169</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2007</td>
+            <td class=numero align=right>74,89871623</td>
+            <td class=numero align=right>1,18494228</td>
+            <td class=numero align=right>8,52179716</td>
+            <td class=numero align=right>8,08017046</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2007</td>
+            <td class=numero align=right>74,65639152</td>
+            <td class=numero align=right>-0,32353653</td>
+            <td class=numero align=right>8,21767912</td>
+            <td class=numero align=right>5,88456916</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2007</td>
+            <td class=numero align=right>75,18115009</td>
+            <td class=numero align=right>0,70289838</td>
+            <td class=numero align=right>7,77924529</td>
+            <td class=numero align=right>4,06855727</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2007</td>
+            <td class=numero align=right>75,47231558</td>
+            <td class=numero align=right>0,38728523</td>
+            <td class=numero align=right>7,63599614</td>
+            <td class=numero align=right>6,25718671</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2007</td>
+            <td class=numero align=right>74,96999647</td>
+            <td class=numero align=right>-0,66556738</td>
+            <td class=numero align=right>7,52243499</td>
+            <td class=numero align=right>6,30716295</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2008</td>
+            <td class=numero align=right>76,41370806</td>
+            <td class=numero align=right>1,92571917</td>
+            <td class=numero align=right>5,96779275</td>
+            <td class=numero align=right>5,96779275</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2008</td>
+            <td class=numero align=right>76,80100303</td>
+            <td class=numero align=right>0,50683965</td>
+            <td class=numero align=right>6,15654185</td>
+            <td class=numero align=right>6,34500763</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2008</td>
+            <td class=numero align=right>76,76478165</td>
+            <td class=numero align=right>-0,04716264</td>
+            <td class=numero align=right>6,28122926</td>
+            <td class=numero align=right>6,53097045</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2008</td>
+            <td class=numero align=right>76,81536030</td>
+            <td class=numero align=right>0,06588783</td>
+            <td class=numero align=right>5,89478832</td>
+            <td class=numero align=right>4,75443348</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2008</td>
+            <td class=numero align=right>77,11697929</td>
+            <td class=numero align=right>0,39265453</td>
+            <td class=numero align=right>5,58104351</td>
+            <td class=numero align=right>4,35106671</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2008</td>
+            <td class=numero align=right>76,73493102</td>
+            <td class=numero align=right>-0,49541395</td>
+            <td class=numero align=right>5,14934567</td>
+            <td class=numero align=right>3,04147301</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2008</td>
+            <td class=numero align=right>76,99589477</td>
+            <td class=numero align=right>0,34008469</td>
+            <td class=numero align=right>4,98583844</td>
+            <td class=numero align=right>4,01814023</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2008</td>
+            <td class=numero align=right>76,75017656</td>
+            <td class=numero align=right>-0,31913157</td>
+            <td class=numero align=right>4,66508176</td>
+            <td class=numero align=right>2,47195202</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2008</td>
+            <td class=numero align=right>75,95751718</td>
+            <td class=numero align=right>-1,03277858</td>
+            <td class=numero align=right>4,33535952</td>
+            <td class=numero align=right>1,74281884</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2008</td>
+            <td class=numero align=right>76,40530372</td>
+            <td class=numero align=right>0,58952235</td>
+            <td class=numero align=right>4,05915260</td>
+            <td class=numero align=right>1,62827202</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2008</td>
+            <td class=numero align=right>76,21517160</td>
+            <td class=numero align=right>-0,24884676</td>
+            <td class=numero align=right>3,77346649</td>
+            <td class=numero align=right>0,98427617</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2008</td>
+            <td class=numero align=right>72,80035332</td>
+            <td class=numero align=right>-4,48049674</td>
+            <td class=numero align=right>3,21010833</td>
+            <td class=numero align=right>-2,89401528</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2009</td>
+            <td class=numero align=right>72,61899044</td>
+            <td class=numero align=right>-0,24912363</td>
+            <td class=numero align=right>-4,96601685</td>
+            <td class=numero align=right>-4,96601685</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2009</td>
+            <td class=numero align=right>72,29235030</td>
+            <td class=numero align=right>-0,44979989</td>
+            <td class=numero align=right>-5,41943413</td>
+            <td class=numero align=right>-5,87056490</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2009</td>
+            <td class=numero align=right>73,10598930</td>
+            <td class=numero align=right>1,12548423</td>
+            <td class=numero align=right>-5,20140407</td>
+            <td class=numero align=right>-4,76623820</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2009</td>
+            <td class=numero align=right>73,68229139</td>
+            <td class=numero align=right>0,78831036</td>
+            <td class=numero align=right>-4,92030145</td>
+            <td class=numero align=right>-4,07870105</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2009</td>
+            <td class=numero align=right>73,34895024</td>
+            <td class=numero align=right>-0,45240334</td>
+            <td class=numero align=right>-4,91343560</td>
+            <td class=numero align=right>-4,88612117</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2009</td>
+            <td class=numero align=right>73,84975806</td>
+            <td class=numero align=right>0,68277435</td>
+            <td class=numero align=right>-4,72128219</td>
+            <td class=numero align=right>-3,75992123</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2009</td>
+            <td class=numero align=right>73,91503073</td>
+            <td class=numero align=right>0,08838576</td>
+            <td class=numero align=right>-4,61817850</td>
+            <td class=numero align=right>-4,00133546</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2009</td>
+            <td class=numero align=right>74,56462895</td>
+            <td class=numero align=right>0,87884455</td>
+            <td class=numero align=right>-4,39699875</td>
+            <td class=numero align=right>-2,84761249</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2009</td>
+            <td class=numero align=right>74,78879395</td>
+            <td class=numero align=right>0,30063182</td>
+            <td class=numero align=right>-4,08250223</td>
+            <td class=numero align=right>-1,53865381</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2009</td>
+            <td class=numero align=right>74,71662628</td>
+            <td class=numero align=right>-0,09649530</td>
+            <td class=numero align=right>-3,89592769</td>
+            <td class=numero align=right>-2,21015736</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2009</td>
+            <td class=numero align=right>74,94600219</td>
+            <td class=numero align=right>0,30699447</td>
+            <td class=numero align=right>-3,69424591</td>
+            <td class=numero align=right>-1,66524510</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2009</td>
+            <td class=numero align=right>75,26279648</td>
+            <td class=numero align=right>0,42269672</td>
+            <td class=numero align=right>-3,13167446</td>
+            <td class=numero align=right>3,38246045</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2010</td>
+            <td class=numero align=right>75,46037909</td>
+            <td class=numero align=right>0,26252361</td>
+            <td class=numero align=right>3,91273500</td>
+            <td class=numero align=right>3,91273499</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2010</td>
+            <td class=numero align=right>75,33203441</td>
+            <td class=numero align=right>-0,17008221</td>
+            <td class=numero align=right>4,05839373</td>
+            <td class=numero align=right>4,20471059</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2010</td>
+            <td class=numero align=right>77,57408340</td>
+            <td class=numero align=right>2,97622254</td>
+            <td class=numero align=right>4,74694689</td>
+            <td class=numero align=right>6,11180307</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2010</td>
+            <td class=numero align=right>75,97898125</td>
+            <td class=numero align=right>-2,05623074</td>
+            <td class=numero align=right>4,33523248</td>
+            <td class=numero align=right>3,11701742</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2010</td>
+            <td class=numero align=right>76,94510554</td>
+            <td class=numero align=right>1,27156784</td>
+            <td class=numero align=right>4,44927423</td>
+            <td class=numero align=right>4,90280405</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2010</td>
+            <td class=numero align=right>76,92977691</td>
+            <td class=numero align=right>-0,01992151</td>
+            <td class=numero align=right>4,40239335</td>
+            <td class=numero align=right>4,17065530</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2010</td>
+            <td class=numero align=right>77,74520503</td>
+            <td class=numero align=right>1,05996423</td>
+            <td class=numero align=right>4,51474298</td>
+            <td class=numero align=right>5,18186120</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2010</td>
+            <td class=numero align=right>77,78544665</td>
+            <td class=numero align=right>0,05176090</td>
+            <td class=numero align=right>4,48995763</td>
+            <td class=numero align=right>4,31949806</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2010</td>
+            <td class=numero align=right>78,05809959</td>
+            <td class=numero align=right>0,35051922</td>
+            <td class=numero align=right>4,47656531</td>
+            <td class=numero align=right>4,37138436</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2010</td>
+            <td class=numero align=right>78,13512820</td>
+            <td class=numero align=right>0,09868112</td>
+            <td class=numero align=right>4,48657549</td>
+            <td class=numero align=right>4,57528945</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2010</td>
+            <td class=numero align=right>78,13696655</td>
+            <td class=numero align=right>0,00235278</td>
+            <td class=numero align=right>4,46544487</td>
+            <td class=numero align=right>4,25768456</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2010</td>
+            <td class=numero align=right>77,76048200</td>
+            <td class=numero align=right>-0,48182642</td>
+            <td class=numero align=right>4,36814572</td>
+            <td class=numero align=right>3,31861907</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2011</td>
+            <td class=numero align=right>78,92488586</td>
+            <td class=numero align=right>1,49742367</td>
+            <td class=numero align=right>4,59116004</td>
+            <td class=numero align=right>4,59116004</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2011</td>
+            <td class=numero align=right>78,45848727</td>
+            <td class=numero align=right>-0,59093983</td>
+            <td class=numero align=right>4,37088277</td>
+            <td class=numero align=right>4,15023022</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2011</td>
+            <td class=numero align=right>78,61685446</td>
+            <td class=numero align=right>0,20184839</td>
+            <td class=numero align=right>3,34275421</td>
+            <td class=numero align=right>1,34422608</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2011</td>
+            <td class=numero align=right>80,43697462</td>
+            <td class=numero align=right>2,31517805</td>
+            <td class=numero align=right>3,97302570</td>
+            <td class=numero align=right>5,86740345</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2011</td>
+            <td class=numero align=right>80,05120809</td>
+            <td class=numero align=right>-0,47958856</td>
+            <td class=numero align=right>3,98589088</td>
+            <td class=numero align=right>4,03677729</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2011</td>
+            <td class=numero align=right>80,24439241</td>
+            <td class=numero align=right>0,24132593</td>
+            <td class=numero align=right>4,04007410</td>
+            <td class=numero align=right>4,30862487</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2011</td>
+            <td class=numero align=right>80,35402460</td>
+            <td class=numero align=right>0,13662287</td>
+            <td class=numero align=right>3,94078706</td>
+            <td class=numero align=right>3,35560189</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2011</td>
+            <td class=numero align=right>79,71994876</td>
+            <td class=numero align=right>-0,78910278</td>
+            <td class=numero align=right>3,75653373</td>
+            <td class=numero align=right>2,48697178</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2011</td>
+            <td class=numero align=right>80,76497780</td>
+            <td class=numero align=right>1,31087520</td>
+            <td class=numero align=right>3,72395240</td>
+            <td class=numero align=right>3,46777365</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2011</td>
+            <td class=numero align=right>81,96905036</td>
+            <td class=numero align=right>1,49083500</td>
+            <td class=numero align=right>3,84398799</td>
+            <td class=numero align=right>4,90678424</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2011</td>
+            <td class=numero align=right>81,57737664</td>
+            <td class=numero align=right>-0,47783123</td>
+            <td class=numero align=right>3,89549656</td>
+            <td class=numero align=right>4,40305049</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2011</td>
+            <td class=numero align=right>81,49830963</td>
+            <td class=numero align=right>-0,09692272</td>
+            <td class=numero align=right>3,97203996</td>
+            <td class=numero align=right>4,80684730</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2012</td>
+            <td class=numero align=right>82,83732249</td>
+            <td class=numero align=right>1,64299464</td>
+            <td class=numero align=right>4,95716476</td>
+            <td class=numero align=right>4,95716476</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2012</td>
+            <td class=numero align=right>83,57311041</td>
+            <td class=numero align=right>0,88823238</td>
+            <td class=numero align=right>5,73571375</td>
+            <td class=numero align=right>6,51889084</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2012</td>
+            <td class=numero align=right>83,04855387</td>
+            <td class=numero align=right>-0,62766186</td>
+            <td class=numero align=right>5,70285856</td>
+            <td class=numero align=right>5,63708564</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2012</td>
+            <td class=numero align=right>83,26554295</td>
+            <td class=numero align=right>0,26127978</td>
+            <td class=numero align=right>5,14709630</td>
+            <td class=numero align=right>3,51650263</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2012</td>
+            <td class=numero align=right>82,69898358</td>
+            <td class=numero align=right>-0,68042476</td>
+            <td class=numero align=right>4,77570151</td>
+            <td class=numero align=right>3,30760216</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2012</td>
+            <td class=numero align=right>83,10329298</td>
+            <td class=numero align=right>0,48889283</td>
+            <td class=numero align=right>4,57153430</td>
+            <td class=numero align=right>3,56274187</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2012</td>
+            <td class=numero align=right>82,61245722</td>
+            <td class=numero align=right>-0,59063335</td>
+            <td class=numero align=right>4,31753813</td>
+            <td class=numero align=right>2,81060299</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2012</td>
+            <td class=numero align=right>83,54218627</td>
+            <td class=numero align=right>1,12541024</td>
+            <td class=numero align=right>4,37725771</td>
+            <td class=numero align=right>4,79458099</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2012</td>
+            <td class=numero align=right>84,34258975</td>
+            <td class=numero align=right>0,95808299</td>
+            <td class=numero align=right>4,38315548</td>
+            <td class=numero align=right>4,42965757</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2012</td>
+            <td class=numero align=right>83,08013672</td>
+            <td class=numero align=right>-1,49681559</td>
+            <td class=numero align=right>4,07275925</td>
+            <td class=numero align=right>1,35549498</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2012</td>
+            <td class=numero align=right>84,58729677</td>
+            <td class=numero align=right>1,81410396</td>
+            <td class=numero align=right>4,03728954</td>
+            <td class=numero align=right>3,68965056</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2012</td>
+            <td class=numero align=right>85,51421436</td>
+            <td class=numero align=right>1,09581181</td>
+            <td class=numero align=right>4,11266556</td>
+            <td class=numero align=right>4,92759267</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2013</td>
+            <td class=numero align=right>83,44163430</td>
+            <td class=numero align=right>-2,42366731</td>
+            <td class=numero align=right>0,72951636</td>
+            <td class=numero align=right>0,72951635</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2013</td>
+            <td class=numero align=right>84,10731160</td>
+            <td class=numero align=right>0,79777596</td>
+            <td class=numero align=right>0,68415963</td>
+            <td class=numero align=right>0,63920224</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2013</td>
+            <td class=numero align=right>85,58521877</td>
+            <td class=numero align=right>1,75716848</td>
+            <td class=numero align=right>1,47325937</td>
+            <td class=numero align=right>3,05443597</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2013</td>
+            <td class=numero align=right>83,36776193</td>
+            <td class=numero align=right>-2,59093436</td>
+            <td class=numero align=right>1,13529257</td>
+            <td class=numero align=right>0,12276264</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2013</td>
+            <td class=numero align=right>84,69416567</td>
+            <td class=numero align=right>1,59102717</td>
+            <td class=numero align=right>1,38956481</td>
+            <td class=numero align=right>2,41258357</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2013</td>
+            <td class=numero align=right>85,70169555</td>
+            <td class=numero align=right>1,18960955</td>
+            <td class=numero align=right>1,67914372</td>
+            <td class=numero align=right>3,12671433</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2013</td>
+            <td class=numero align=right>85,33788475</td>
+            <td class=numero align=right>-0,42450829</td>
+            <td class=numero align=right>1,90942340</td>
+            <td class=numero align=right>3,29905153</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2013</td>
+            <td class=numero align=right>86,17200640</td>
+            <td class=numero align=right>0,97743418</td>
+            <td class=numero align=right>2,06508384</td>
+            <td class=numero align=right>3,14789479</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2013</td>
+            <td class=numero align=right>86,95761170</td>
+            <td class=numero align=right>0,91167112</td>
+            <td class=numero align=right>2,18167245</td>
+            <td class=numero align=right>3,10047623</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2013</td>
+            <td class=numero align=right>85,84946238</td>
+            <td class=numero align=right>-1,27435574</td>
+            <td class=numero align=right>2,29665676</td>
+            <td class=numero align=right>3,33331861</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2013</td>
+            <td class=numero align=right>86,56398815</td>
+            <td class=numero align=right>0,83230081</td>
+            <td class=numero align=right>2,30036701</td>
+            <td class=numero align=right>2,33686553</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2013</td>
+            <td class=numero align=right>86,90758045</td>
+            <td class=numero align=right>0,39692291</td>
+            <td class=numero align=right>2,24311582</td>
+            <td class=numero align=right>1,62939705</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2014</td>
+            <td class=numero align=right>87,04024650</td>
+            <td class=numero align=right>0,15265187</td>
+            <td class=numero align=right>4,31272976</td>
+            <td class=numero align=right>4,31272977</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2014</td>
+            <td class=numero align=right>88,27002883</td>
+            <td class=numero align=right>1,41288930</td>
+            <td class=numero align=right>4,63227589</td>
+            <td class=numero align=right>4,94929293</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2014</td>
+            <td class=numero align=right>87,00638648</td>
+            <td class=numero align=right>-1,43156445</td>
+            <td class=numero align=right>3,62752186</td>
+            <td class=numero align=right>1,66052939</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2014</td>
+            <td class=numero align=right>87,62088425</td>
+            <td class=numero align=right>0,70626743</td>
+            <td class=numero align=right>3,99273181</td>
+            <td class=numero align=right>5,10163908</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2014</td>
+            <td class=numero align=right>87,13318367</td>
+            <td class=numero align=right>-0,55660313</td>
+            <td class=numero align=right>3,76894225</td>
+            <td class=numero align=right>2,87979459</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2014</td>
+            <td class=numero align=right>86,83688238</td>
+            <td class=numero align=right>-0,34005562</td>
+            <td class=numero align=right>3,35567144</td>
+            <td class=numero align=right>1,32457920</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2014</td>
+            <td class=numero align=right>87,98806760</td>
+            <td class=numero align=right>1,32568695</td>
+            <td class=numero align=right>3,31962563</td>
+            <td class=numero align=right>3,10551739</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2014</td>
+            <td class=numero align=right>88,92436621</td>
+            <td class=numero align=right>1,06411998</td>
+            <td class=numero align=right>3,30367236</td>
+            <td class=numero align=right>3,19403009</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2014</td>
+            <td class=numero align=right>88,53134869</td>
+            <td class=numero align=right>-0,44196831</td>
+            <td class=numero align=right>3,13394195</td>
+            <td class=numero align=right>1,80977485</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2014</td>
+            <td class=numero align=right>89,65514230</td>
+            <td class=numero align=right>1,26937365</td>
+            <td class=numero align=right>3,26495561</td>
+            <td class=numero align=right>4,43296884</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2014</td>
+            <td class=numero align=right>90,25135176</td>
+            <td class=numero align=right>0,66500308</td>
+            <td class=numero align=right>3,35677768</td>
+            <td class=numero align=right>4,25969700</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2014</td>
+            <td class=numero align=right>90,54220069</td>
+            <td class=numero align=right>0,32226546</td>
+            <td class=numero align=right>3,42678213</td>
+            <td class=numero align=right>4,18216710</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2015</td>
+            <td class=numero align=right>89,81407463</td>
+            <td class=numero align=right>-0,80418419</td>
+            <td class=numero align=right>3,18683396</td>
+            <td class=numero align=right>3,18683396</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2015</td>
+            <td class=numero align=right>91,40020718</td>
+            <td class=numero align=right>1,76601781</td>
+            <td class=numero align=right>3,36774697</td>
+            <td class=numero align=right>3,54613949</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2015</td>
+            <td class=numero align=right>91,10986140</td>
+            <td class=numero align=right>-0,31766425</td>
+            <td class=numero align=right>3,81503840</td>
+            <td class=numero align=right>4,71629163</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2015</td>
+            <td class=numero align=right>92,31200087</td>
+            <td class=numero align=right>1,31943947</td>
+            <td class=numero align=right>4,20034894</td>
+            <td class=numero align=right>5,35387957</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2015</td>
+            <td class=numero align=right>93,68842404</td>
+            <td class=numero align=right>1,49105550</td>
+            <td class=numero align=right>4,86279152</td>
+            <td class=numero align=right>7,52324212</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2015</td>
+            <td class=numero align=right>93,29753798</td>
+            <td class=numero align=right>-0,41721916</td>
+            <td class=numero align=right>5,28995825</td>
+            <td class=numero align=right>7,43999027</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2015</td>
+            <td class=numero align=right>95,07945003</td>
+            <td class=numero align=right>1,90992398</td>
+            <td class=numero align=right>5,68820431</td>
+            <td class=numero align=right>8,05948195</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2015</td>
+            <td class=numero align=right>95,71609693</td>
+            <td class=numero align=right>0,66959464</td>
+            <td class=numero align=right>5,93556183</td>
+            <td class=numero align=right>7,63764872</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2015</td>
+            <td class=numero align=right>94,17318501</td>
+            <td class=numero align=right>-1,61196702</td>
+            <td class=numero align=right>5,98458985</td>
+            <td class=numero align=right>6,37269894</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2015</td>
+            <td class=numero align=right>94,17333972</td>
+            <td class=numero align=right>0,00016428</td>
+            <td class=numero align=right>5,88819749</td>
+            <td class=numero align=right>5,03952958</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2015</td>
+            <td class=numero align=right>93,97409467</td>
+            <td class=numero align=right>-0,21157267</td>
+            <td class=numero align=right>5,72400642</td>
+            <td class=numero align=right>4,12486111</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2015</td>
+            <td class=numero align=right>92,99606771</td>
+            <td class=numero align=right>-1,04074103</td>
+            <td class=numero align=right>5,46652631</td>
+            <td class=numero align=right>2,71019149</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2016</td>
+            <td class=numero align=right>96,97010120</td>
+            <td class=numero align=right>4,27333498</td>
+            <td class=numero align=right>7,96760040</td>
+            <td class=numero align=right>7,96760040</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2016</td>
+            <td class=numero align=right>96,21868259</td>
+            <td class=numero align=right>-0,77489721</td>
+            <td class=numero align=right>6,60792398</td>
+            <td class=numero align=right>5,27184298</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2016</td>
+            <td class=numero align=right>95,70106603</td>
+            <td class=numero align=right>-0,53795848</td>
+            <td class=numero align=right>6,08308408</td>
+            <td class=numero align=right>5,03919615</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2016</td>
+            <td class=numero align=right>95,92437672</td>
+            <td class=numero align=right>0,23334190</td>
+            <td class=numero align=right>5,53375818</td>
+            <td class=numero align=right>3,91322452</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2016</td>
+            <td class=numero align=right>96,37287136</td>
+            <td class=numero align=right>0,46755023</td>
+            <td class=numero align=right>4,98828371</td>
+            <td class=numero align=right>2,86529243</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2016</td>
+            <td class=numero align=right>96,26997716</td>
+            <td class=numero align=right>-0,10676677</td>
+            <td class=numero align=right>4,68345425</td>
+            <td class=numero align=right>3,18597816</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2016</td>
+            <td class=numero align=right>97,64087198</td>
+            <td class=numero align=right>1,42401075</td>
+            <td class=numero align=right>4,39095757</td>
+            <td class=numero align=right>2,69398061</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2016</td>
+            <td class=numero align=right>96,96897705</td>
+            <td class=numero align=right>-0,68812877</td>
+            <td class=numero align=right>3,99361073</td>
+            <td class=numero align=right>1,30895446</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2016</td>
+            <td class=numero align=right>98,51408949</td>
+            <td class=numero align=right>1,59340903</td>
+            <td class=numero align=right>4,06293901</td>
+            <td class=numero align=right>4,60949099</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2016</td>
+            <td class=numero align=right>99,14881020</td>
+            <td class=numero align=right>0,64429435</td>
+            <td class=numero align=right>4,18641445</td>
+            <td class=numero align=right>5,28331107</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2016</td>
+            <td class=numero align=right>98,38332819</td>
+            <td class=numero align=right>-0,77205365</td>
+            <td class=numero align=right>4,23277638</td>
+            <td class=numero align=right>4,69196701</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2016</td>
+            <td class=numero align=right>98,79192766</td>
+            <td class=numero align=right>0,41531373</td>
+            <td class=numero align=right>4,39914367</td>
+            <td class=numero align=right>6,23237099</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2017</td>
+            <td class=numero align=right>98,91055518</td>
+            <td class=numero align=right>0,12007815</td>
+            <td class=numero align=right>2,00108482</td>
+            <td class=numero align=right>2,00108483</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2017</td>
+            <td class=numero align=right>98,85569820</td>
+            <td class=numero align=right>-0,05546120</td>
+            <td class=numero align=right>2,36942823</td>
+            <td class=numero align=right>2,74064822</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2017</td>
+            <td class=numero align=right>97,42683053</td>
+            <td class=numero align=right>-1,44540749</td>
+            <td class=numero align=right>2,18188146</td>
+            <td class=numero align=right>1,80328660</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2017</td>
+            <td class=numero align=right>100,80626544</td>
+            <td class=numero align=right>3,46869019</td>
+            <td class=numero align=right>2,90662923</td>
+            <td class=numero align=right>5,08930982</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2017</td>
+            <td class=numero align=right>99,31611534</td>
+            <td class=numero align=right>-1,47823163</td>
+            <td class=numero align=right>2,93614830</td>
+            <td class=numero align=right>3,05401711</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2017</td>
+            <td class=numero align=right>100,22399882</td>
+            <td class=numero align=right>0,91413511</td>
+            <td class=numero align=right>3,13138227</td>
+            <td class=numero align=right>4,10722198</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2017</td>
+            <td class=numero align=right>99,23434817</td>
+            <td class=numero align=right>-0,98743880</td>
+            <td class=numero align=right>2,91451999</td>
+            <td class=numero align=right>1,63197661</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2017</td>
+            <td class=numero align=right>99,16598665</td>
+            <td class=numero align=right>-0,06888897</td>
+            <td class=numero align=right>2,83302827</td>
+            <td class=numero align=right>2,26568297</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2017</td>
+            <td class=numero align=right>100,17284071</td>
+            <td class=numero align=right>1,01532198</td>
+            <td class=numero align=right>2,70297940</td>
+            <td class=numero align=right>1,68377054</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2017</td>
+            <td class=numero align=right>101,22548006</td>
+            <td class=numero align=right>1,05082310</td>
+            <td class=numero align=right>2,64076598</td>
+            <td class=numero align=right>2,09449801</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2017</td>
+            <td class=numero align=right>101,89385145</td>
+            <td class=numero align=right>0,66027979</td>
+            <td class=numero align=right>2,72619231</td>
+            <td class=numero align=right>3,56820950</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2017</td>
+            <td class=numero align=right>103,12928491</td>
+            <td class=numero align=right>1,21247106</td>
+            <td class=numero align=right>2,86708631</td>
+            <td class=numero align=right>4,39039641</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2018</td>
+            <td class=numero align=right>101,29409498</td>
+            <td class=numero align=right>-1,77950417</td>
+            <td class=numero align=right>2,40979317</td>
+            <td class=numero align=right>2,40979317</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2018</td>
+            <td class=numero align=right>101,15880572</td>
+            <td class=numero align=right>-0,13356086</td>
+            <td class=numero align=right>2,36979123</td>
+            <td class=numero align=right>2,32976709</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2018</td>
+            <td class=numero align=right>103,01920779</td>
+            <td class=numero align=right>1,83909058</td>
+            <td class=numero align=right>3,48213598</td>
+            <td class=numero align=right>5,74007923</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2018</td>
+            <td class=numero align=right>102,41529170</td>
+            <td class=numero align=right>-0,58621698</td>
+            <td class=numero align=right>3,00203797</td>
+            <td class=numero align=right>1,59615700</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2018</td>
+            <td class=numero align=right>104,82337078</td>
+            <td class=numero align=right>2,35128860</td>
+            <td class=numero align=right>3,51196511</td>
+            <td class=numero align=right>5,54517806</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2018</td>
+            <td class=numero align=right>104,19955919</td>
+            <td class=numero align=right>-0,59510736</td>
+            <td class=numero align=right>3,58848875</td>
+            <td class=numero align=right>3,96667506</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2018</td>
+            <td class=numero align=right>103,99862514</td>
+            <td class=numero align=right>-0,19283580</td>
+            <td class=numero align=right>3,76167656</td>
+            <td class=numero align=right>4,80103619</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2018</td>
+            <td class=numero align=right>103,79754427</td>
+            <td class=numero align=right>-0,19334955</td>
+            <td class=numero align=right>3,87519322</td>
+            <td class=numero align=right>4,67051030</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2018</td>
+            <td class=numero align=right>103,60830958</td>
+            <td class=numero align=right>-0,18231134</td>
+            <td class=numero align=right>3,82526414</td>
+            <td class=numero align=right>3,42954123</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2018</td>
+            <td class=numero align=right>102,76213784</td>
+            <td class=numero align=right>-0,81670258</td>
+            <td class=numero align=right>3,59062184</td>
+            <td class=numero align=right>1,51805433</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2018</td>
+            <td class=numero align=right>103,00172547</td>
+            <td class=numero align=right>0,23314777</td>
+            <td class=numero align=right>3,35815059</td>
+            <td class=numero align=right>1,08728250</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2018</td>
+            <td class=numero align=right>102,71973326</td>
+            <td class=numero align=right>-0,27377426</td>
+            <td class=numero align=right>3,03551536</td>
+            <td class=numero align=right>-0,39712449</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2019</td>
+            <td class=numero align=right>103,78775806</td>
+            <td class=numero align=right>1,03974647</td>
+            <td class=numero align=right>2,46180499</td>
+            <td class=numero align=right>2,46180499</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2019</td>
+            <td class=numero align=right>103,95181719</td>
+            <td class=numero align=right>0,15807175</td>
+            <td class=numero align=right>2,61131085</td>
+            <td class=numero align=right>2,76101665</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2019</td>
+            <td class=numero align=right>102,62238034</td>
+            <td class=numero align=right>-1,27889717</td>
+            <td class=numero align=right>1,60075076</td>
+            <td class=numero align=right>-0,38519754</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2019</td>
+            <td class=numero align=right>104,78333354</td>
+            <td class=numero align=right>2,10573288</td>
+            <td class=numero align=right>1,77938543</td>
+            <td class=numero align=right>2,31219557</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2019</td>
+            <td class=numero align=right>104,17591688</td>
+            <td class=numero align=right>-0,57968824</td>
+            <td class=numero align=right>1,28931074</td>
+            <td class=numero align=right>-0,61766178</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2019</td>
+            <td class=numero align=right>104,99215772</td>
+            <td class=numero align=right>0,78352163</td>
+            <td class=numero align=right>1,20001777</td>
+            <td class=numero align=right>0,76065440</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2019</td>
+            <td class=numero align=right>104,45023979</td>
+            <td class=numero align=right>-0,51615086</td>
+            <td class=numero align=right>1,08954788</td>
+            <td class=numero align=right>0,43425060</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2019</td>
+            <td class=numero align=right>104,93748138</td>
+            <td class=numero align=right>0,46648202</td>
+            <td class=numero align=right>1,09064077</td>
+            <td class=numero align=right>1,09823129</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2019</td>
+            <td class=numero align=right>104,91362418</td>
+            <td class=numero align=right>-0,02273468</td>
+            <td class=numero align=right>1,10952662</td>
+            <td class=numero align=right>1,25985513</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2019</td>
+            <td class=numero align=right>105,73273799</td>
+            <td class=numero align=right>0,78075066</td>
+            <td class=numero align=right>1,28705235</td>
+            <td class=numero align=right>2,89075355</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2019</td>
+            <td class=numero align=right>106,26120824</td>
+            <td class=numero align=right>0,49981705</td>
+            <td class=numero align=right>1,45756933</td>
+            <td class=numero align=right>3,16449337</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2019</td>
+            <td class=numero align=right>104,85389992</td>
+            <td class=numero align=right>-1,32438577</td>
+            <td class=numero align=right>1,50906966</td>
+            <td class=numero align=right>2,07765985</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2020</td>
+            <td class=numero align=right>105,56077339</td>
+            <td class=numero align=right>0,67415086</td>
+            <td class=numero align=right>1,70830873</td>
+            <td class=numero align=right>1,70830873</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2020</td>
+            <td class=numero align=right>106,60718682</td>
+            <td class=numero align=right>0,99129004</td>
+            <td class=numero align=right>2,13170021</td>
+            <td class=numero align=right>2,55442348</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2020</td>
+            <td class=numero align=right>98,84027849</td>
+            <td class=numero align=right>-7,28553915</td>
+            <td class=numero align=right>0,20823528</td>
+            <td class=numero align=right>-3,68545520</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2020</td>
+            <td class=numero align=right>95,09998074</td>
+            <td class=numero align=right>-3,78418374</td>
+            <td class=numero align=right>-2,17684506</td>
+            <td class=numero align=right>-9,24131011</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2020</td>
+            <td class=numero align=right>94,77296585</td>
+            <td class=numero align=right>-0,34386431</td>
+            <td class=numero align=right>-3,55079294</td>
+            <td class=numero align=right>-9,02603146</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2020</td>
+            <td class=numero align=right>97,18183382</td>
+            <td class=numero align=right>2,54172479</td>
+            <td class=numero align=right>-4,20467447</td>
+            <td class=numero align=right>-7,43895932</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2020</td>
+            <td class=numero align=right>94,56610934</td>
+            <td class=numero align=right>-2,69157761</td>
+            <td class=numero align=right>-4,95832598</td>
+            <td class=numero align=right>-9,46300408</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2020</td>
+            <td class=numero align=right>97,01904187</td>
+            <td class=numero align=right>2,59388120</td>
+            <td class=numero align=right>-5,28401790</td>
+            <td class=numero align=right>-7,54586389</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2020</td>
+            <td class=numero align=right>98,57075177</td>
+            <td class=numero align=right>1,59938696</td>
+            <td class=numero align=right>-5,36916655</td>
+            <td class=numero align=right>-6,04580431</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2020</td>
+            <td class=numero align=right>99,72417523</td>
+            <td class=numero align=right>1,17014778</td>
+            <td class=numero align=right>-5,40091805</td>
+            <td class=numero align=right>-5,68278366</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2020</td>
+            <td class=numero align=right>100,51484724</td>
+            <td class=numero align=right>0,79285891</td>
+            <td class=numero align=right>-5,40155078</td>
+            <td class=numero align=right>-5,40776930</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2020</td>
+            <td class=numero align=right>103,48190383</td>
+            <td class=numero align=right>2,95185903</td>
+            <td class=numero align=right>-5,05970541</td>
+            <td class=numero align=right>-1,30848361</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2021</td>
+            <td class=numero align=right>101,54377787</td>
+            <td class=numero align=right>-1,87291293</td>
+            <td class=numero align=right>-3,80538660</td>
+            <td class=numero align=right>-3,80538659</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2021</td>
+            <td class=numero align=right>103,10730351</td>
+            <td class=numero align=right>1,53975524</td>
+            <td class=numero align=right>-3,54289066</td>
+            <td class=numero align=right>-3,28297127</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2021</td>
+            <td class=numero align=right>104,48822759</td>
+            <td class=numero align=right>1,33930772</td>
+            <td class=numero align=right>-0,60092612</td>
+            <td class=numero align=right>5,71421812</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2021</td>
+            <td class=numero align=right>106,23212295</td>
+            <td class=numero align=right>1,66898741</td>
+            <td class=numero align=right>2,28097143</td>
+            <td class=numero align=right>11,70572499</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2021</td>
+            <td class=numero align=right>107,46106859</td>
+            <td class=numero align=right>1,15684937</td>
+            <td class=numero align=right>4,38253938</td>
+            <td class=numero align=right>13,38789245</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2021</td>
+            <td class=numero align=right>106,81230219</td>
+            <td class=numero align=right>-0,60372227</td>
+            <td class=numero align=right>5,28067822</td>
+            <td class=numero align=right>9,90974135</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2021</td>
+            <td class=numero align=right>111,12690457</td>
+            <td class=numero align=right>4,03942457</td>
+            <td class=numero align=right>6,95070086</td>
+            <td class=numero align=right>17,51239989</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2021</td>
+            <td class=numero align=right>109,98218377</td>
+            <td class=numero align=right>-1,03010230</td>
+            <td class=numero align=right>7,73834766</td>
+            <td class=numero align=right>13,36144086</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2021</td>
+            <td class=numero align=right>110,25879123</td>
+            <td class=numero align=right>0,25150206</td>
+            <td class=numero align=right>8,19547505</td>
+            <td class=numero align=right>11,85751275</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2021</td>
+            <td class=numero align=right>110,17382300</td>
+            <td class=numero align=right>-0,07706254</td>
+            <td class=numero align=right>8,42593143</td>
+            <td class=numero align=right>10,47855021</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2021</td>
+            <td class=numero align=right>110,91304824</td>
+            <td class=numero align=right>0,67096268</td>
+            <td class=numero align=right>8,60314442</td>
+            <td class=numero align=right>10,34494036</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2021</td>
+            <td class=numero align=right>111,97796162</td>
+            <td class=numero align=right>0,96013354</td>
+            <td class=numero align=right>8,56902862</td>
+            <td class=numero align=right>8,21018698</td>
+        </tr>
+    </table>
+</HTML>

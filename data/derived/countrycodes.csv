@@ -1,0 +1,292 @@
+countrycode,imf,countryflag,country,continent
+AFG,512,🇦🇫,Afghanistan,Asia
+ALB,914,🇦🇱,Albania,Europe
+DZA,612,🇩🇿,Algeria,Africa
+ASM,859,🇦🇸,American Samoa,Oceania
+AND,NA,🇦🇩,Andorra,Europe
+AGO,614,🇦🇴,Angola,Africa
+AIA,312,🇦🇮,Anguilla,Americas
+ATA,NA,🇦🇶,Antarctica,Antarctica
+ATG,311,🇦🇬,Antigua & Barbuda,Americas
+ARG,213,🇦🇷,Argentina,Americas
+ARM,911,🇦🇲,Armenia,Asia
+ABW,314,🇦🇼,Aruba,Americas
+AUS,193,🇦🇺,Australia,Oceania
+AUT,122,🇦🇹,Austria,Europe
+NA,NA,NA,NA,NA
+AZE,912,🇦🇿,Azerbaijan,Asia
+NA,NA,NA,NA,NA
+BHS,313,🇧🇸,Bahamas,Americas
+BHR,419,🇧🇭,Bahrain,Asia
+BGD,513,🇧🇩,Bangladesh,Asia
+BRB,316,🇧🇧,Barbados,Americas
+NA,NA,NA,NA,NA
+BLR,913,🇧🇾,Belarus,Europe
+BEL,124,🇧🇪,Belgium,Europe
+BLZ,339,🇧🇿,Belize,Americas
+BEN,638,🇧🇯,Benin,Africa
+BMU,319,🇧🇲,Bermuda,Americas
+BTN,514,🇧🇹,Bhutan,Asia
+BOL,218,🇧🇴,Bolivia,Americas
+BIH,963,🇧🇦,Bosnia & Herzegovina,Europe
+BWA,616,🇧🇼,Botswana,Africa
+BVT,NA,🇧🇻,Bouvet Island,NA
+BRA,223,🇧🇷,Brazil,Americas
+IOT,NA,🇮🇴,British Indian Ocean Territory,NA
+VGB,NA,🇻🇬,British Virgin Islands,Americas
+BRN,516,🇧🇳,Brunei,Asia
+NA,NA,NA,NA,NA
+BGR,918,🇧🇬,Bulgaria,Europe
+BFA,748,🇧🇫,Burkina Faso,Africa
+BDI,618,🇧🇮,Burundi,Africa
+KHM,522,🇰🇭,Cambodia,Asia
+CMR,622,🇨🇲,Cameroon,Africa
+CAN,156,🇨🇦,Canada,Americas
+CPV,624,🇨🇻,Cape Verde,Africa
+BES,NA,🇧🇶,Caribbean Netherlands,Americas
+CYM,377,🇰🇾,Cayman Islands,Americas
+CAF,626,🇨🇫,Central African Republic,Africa
+TCD,628,🇹🇩,Chad,Africa
+NA,NA,NA,NA,NA
+CHL,228,🇨🇱,Chile,Americas
+CHN,924,🇨🇳,China,Asia
+CXR,NA,🇨🇽,Christmas Island,Oceania
+CCK,NA,🇨🇨,Cocos (Keeling) Islands,NA
+COL,233,🇨🇴,Colombia,Americas
+COM,632,🇰🇲,Comoros,Africa
+COG,634,🇨🇬,Congo - Brazzaville,Africa
+COD,636,🇨🇩,Congo - Kinshasa,Africa
+COK,815,🇨🇰,Cook Islands,Oceania
+CRI,238,🇨🇷,Costa Rica,Americas
+HRV,960,🇭🇷,Croatia,Europe
+CUB,928,🇨🇺,Cuba,Americas
+CUW,354,🇨🇼,Curaçao,Americas
+CYP,423,🇨🇾,Cyprus,Asia
+CZE,935,🇨🇿,Czechia,Europe
+NA,934,NA,NA,NA
+CIV,662,🇨🇮,Côte d’Ivoire,Africa
+DNK,128,🇩🇰,Denmark,Europe
+DJI,611,🇩🇯,Djibouti,Africa
+DMA,321,🇩🇲,Dominica,Americas
+DOM,243,🇩🇴,Dominican Republic,Americas
+ECU,248,🇪🇨,Ecuador,Americas
+EGY,469,🇪🇬,Egypt,Africa
+SLV,253,🇸🇻,El Salvador,Americas
+GNQ,642,🇬🇶,Equatorial Guinea,Africa
+ERI,643,🇪🇷,Eritrea,Africa
+EST,939,🇪🇪,Estonia,Europe
+SWZ,734,🇸🇿,Eswatini,Africa
+ETH,644,🇪🇹,Ethiopia,Africa
+FLK,323,🇫🇰,Falkland Islands,Americas
+FRO,816,🇫🇴,Faroe Islands,Europe
+FJI,819,🇫🇯,Fiji,Oceania
+FIN,172,🇫🇮,Finland,Europe
+FRA,132,🇫🇷,France,Europe
+GUF,333,🇬🇫,French Guiana,Americas
+PYF,887,🇵🇫,French Polynesia,Oceania
+ATF,NA,🇹🇫,French Southern Territories,NA
+GAB,646,🇬🇦,Gabon,Africa
+GMB,648,🇬🇲,Gambia,Africa
+GEO,915,🇬🇪,Georgia,Asia
+NA,NA,NA,NA,NA
+DEU,134,🇩🇪,Germany,Europe
+GHA,652,🇬🇭,Ghana,Africa
+GIB,823,🇬🇮,Gibraltar,Europe
+GRC,174,🇬🇷,Greece,Europe
+GRL,326,🇬🇱,Greenland,Americas
+GRD,328,🇬🇩,Grenada,Americas
+GLP,329,🇬🇵,Guadeloupe,Americas
+GUM,829,🇬🇺,Guam,Oceania
+GTM,258,🇬🇹,Guatemala,Americas
+GGY,NA,🇬🇬,Guernsey,Europe
+GIN,656,🇬🇳,Guinea,Africa
+GNB,654,🇬🇼,Guinea-Bissau,Africa
+GUY,336,🇬🇾,Guyana,Americas
+HTI,263,🇭🇹,Haiti,Americas
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+HMD,NA,🇭🇲,Heard & McDonald Islands,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+HND,268,🇭🇳,Honduras,Americas
+HKG,532,🇭🇰,Hong Kong SAR China,Asia
+HUN,944,🇭🇺,Hungary,Europe
+ISL,176,🇮🇸,Iceland,Europe
+IND,534,🇮🇳,India,Asia
+IDN,536,🇮🇩,Indonesia,Asia
+IRN,429,🇮🇷,Iran,Asia
+IRQ,433,🇮🇶,Iraq,Asia
+IRL,178,🇮🇪,Ireland,Europe
+IMN,NA,🇮🇲,Isle of Man,Europe
+ISR,436,🇮🇱,Israel,Asia
+ITA,136,🇮🇹,Italy,Europe
+JAM,343,🇯🇲,Jamaica,Americas
+JPN,158,🇯🇵,Japan,Asia
+JEY,NA,🇯🇪,Jersey,Europe
+JOR,439,🇯🇴,Jordan,Asia
+KAZ,916,🇰🇿,Kazakhstan,Asia
+KEN,664,🇰🇪,Kenya,Africa
+KIR,826,🇰🇮,Kiribati,Oceania
+NA,967,🇽🇰,Kosovo,NA
+KWT,443,🇰🇼,Kuwait,Asia
+KGZ,917,🇰🇬,Kyrgyzstan,Asia
+LAO,544,🇱🇦,Laos,Asia
+LVA,941,🇱🇻,Latvia,Europe
+LBN,446,🇱🇧,Lebanon,Asia
+LSO,666,🇱🇸,Lesotho,Africa
+LBR,668,🇱🇷,Liberia,Africa
+LBY,672,🇱🇾,Libya,Africa
+LIE,NA,🇱🇮,Liechtenstein,Europe
+LTU,946,🇱🇹,Lithuania,Europe
+LUX,137,🇱🇺,Luxembourg,Europe
+MAC,546,🇲🇴,Macao SAR China,Asia
+MDG,674,🇲🇬,Madagascar,Africa
+MWI,676,🇲🇼,Malawi,Africa
+MYS,548,🇲🇾,Malaysia,Asia
+MDV,556,🇲🇻,Maldives,Asia
+MLI,678,🇲🇱,Mali,Africa
+MLT,181,🇲🇹,Malta,Europe
+MHL,867,🇲🇭,Marshall Islands,Oceania
+MTQ,349,🇲🇶,Martinique,Americas
+MRT,682,🇲🇷,Mauritania,Africa
+MUS,684,🇲🇺,Mauritius,Africa
+MYT,NA,🇾🇹,Mayotte,Africa
+NA,NA,NA,NA,NA
+MEX,273,🇲🇽,Mexico,Americas
+FSM,868,🇫🇲,NA,Oceania
+NA,NA,NA,NA,NA
+MDA,921,🇲🇩,Moldova,Europe
+MCO,NA,🇲🇨,Monaco,Europe
+MNG,948,🇲🇳,Mongolia,Asia
+MNE,943,🇲🇪,Montenegro,Europe
+MSR,351,🇲🇸,Montserrat,Americas
+MAR,686,🇲🇦,Morocco,Africa
+MOZ,688,🇲🇿,Mozambique,Africa
+MMR,518,🇲🇲,Myanmar (Burma),Asia
+NAM,728,🇳🇦,Namibia,Africa
+NA,NA,NA,NA,NA
+NRU,836,🇳🇷,Nauru,Oceania
+NPL,558,🇳🇵,Nepal,Asia
+NLD,138,🇳🇱,Netherlands,Europe
+NA,353,NA,NA,Americas
+NCL,839,🇳🇨,New Caledonia,Oceania
+NZL,196,🇳🇿,New Zealand,Oceania
+NIC,278,🇳🇮,Nicaragua,Americas
+NER,692,🇳🇪,Niger,Africa
+NGA,694,🇳🇬,Nigeria,Africa
+NIU,NA,🇳🇺,Niue,Oceania
+NFK,NA,🇳🇫,Norfolk Island,Oceania
+PRK,NA,🇰🇵,North Korea,Asia
+MKD,962,🇲🇰,North Macedonia,Europe
+MNP,NA,🇲🇵,Northern Mariana Islands,Oceania
+NOR,142,🇳🇴,Norway,Europe
+NA,NA,NA,NA,NA
+OMN,449,🇴🇲,Oman,Asia
+NA,NA,NA,NA,NA
+PAK,564,🇵🇰,Pakistan,Asia
+PLW,565,🇵🇼,Palau,Oceania
+PSE,487,🇵🇸,Palestinian Territories,Asia
+PAN,283,🇵🇦,Panama,Americas
+PNG,853,🇵🇬,Papua New Guinea,Oceania
+PRY,288,🇵🇾,Paraguay,Americas
+NA,NA,NA,NA,NA
+PER,293,🇵🇪,Peru,Americas
+PHL,566,🇵🇭,Philippines,Asia
+NA,NA,NA,NA,NA
+PCN,NA,🇵🇳,Pitcairn Islands,Oceania
+POL,964,🇵🇱,Poland,Europe
+PRT,182,🇵🇹,Portugal,Europe
+NA,NA,NA,NA,NA
+PRI,NA,🇵🇷,Puerto Rico,Americas
+QAT,453,🇶🇦,Qatar,Asia
+NA,NA,NA,NA,Asia
+ROU,968,🇷🇴,Romania,Europe
+RUS,922,🇷🇺,Russia,Europe
+RWA,714,🇷🇼,Rwanda,Africa
+REU,696,🇷🇪,Réunion,Africa
+MAF,352,🇲🇫,NA,Americas
+WSM,862,🇼🇸,Samoa,Oceania
+SMR,135,🇸🇲,San Marino,Europe
+NA,NA,NA,NA,NA
+SAU,456,🇸🇦,Saudi Arabia,Asia
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+SEN,722,🇸🇳,Senegal,Africa
+SRB,942,🇷🇸,Serbia,Europe
+NA,NA,NA,NA,NA
+SYC,718,🇸🇨,Seychelles,Africa
+SLE,724,🇸🇱,Sierra Leone,Africa
+SGP,576,🇸🇬,Singapore,Asia
+SXM,NA,🇸🇽,Sint Maarten,Americas
+SVK,936,🇸🇰,Slovakia,Europe
+SVN,961,🇸🇮,Slovenia,Europe
+SLB,813,🇸🇧,Solomon Islands,Oceania
+SOM,726,🇸🇴,Somalia,Africa
+NA,NA,NA,NA,Africa
+ZAF,199,🇿🇦,South Africa,Africa
+SGS,NA,🇬🇸,South Georgia & South Sandwich Islands,NA
+KOR,542,🇰🇷,South Korea,Asia
+SSD,733,🇸🇸,South Sudan,Africa
+ESP,184,🇪🇸,Spain,Europe
+LKA,524,🇱🇰,Sri Lanka,Asia
+BLM,NA,🇧🇱,St. Barthélemy,Americas
+SHN,856,🇸🇭,St. Helena,Africa
+KNA,361,🇰🇳,St. Kitts & Nevis,Americas
+LCA,362,🇱🇨,St. Lucia,Americas
+SPM,363,🇵🇲,St. Pierre & Miquelon,Americas
+VCT,364,🇻🇨,St. Vincent & Grenadines,Americas
+NA,NA,NA,NA,NA
+SDN,732,🇸🇩,Sudan,Africa
+SUR,366,🇸🇷,Suriname,Americas
+SJM,NA,🇸🇯,Svalbard & Jan Mayen,Europe
+SWE,144,🇸🇪,Sweden,Europe
+CHE,146,🇨🇭,Switzerland,Europe
+SYR,463,🇸🇾,Syria,Asia
+STP,716,🇸🇹,São Tomé & Príncipe,Africa
+TWN,528,🇹🇼,Taiwan,Asia
+TJK,923,🇹🇯,Tajikistan,Asia
+TZA,738,🇹🇿,Tanzania,Africa
+THA,578,🇹🇭,Thailand,Asia
+NA,NA,NA,NA,NA
+TLS,537,🇹🇱,Timor-Leste,Asia
+TGO,742,🇹🇬,Togo,Africa
+TKL,NA,🇹🇰,Tokelau,Oceania
+TON,866,🇹🇴,Tonga,Oceania
+TTO,369,🇹🇹,Trinidad & Tobago,Americas
+TUN,744,🇹🇳,Tunisia,Africa
+TUR,186,🇹🇷,Turkey,Asia
+TKM,925,🇹🇲,Turkmenistan,Asia
+TCA,NA,🇹🇨,Turks & Caicos Islands,Americas
+NA,NA,NA,NA,NA
+TUV,NA,🇹🇻,Tuvalu,Oceania
+NA,NA,NA,NA,NA
+VIR,NA,🇻🇮,U.S. Virgin Islands,Americas
+UGA,746,🇺🇬,Uganda,Africa
+UKR,926,🇺🇦,Ukraine,Europe
+ARE,466,🇦🇪,United Arab Emirates,Asia
+NA,NA,NA,NA,Asia
+GBR,112,🇬🇧,United Kingdom,Europe
+NA,NA,NA,NA,NA
+USA,111,🇺🇸,United States,Americas
+UMI,NA,🇺🇲,NA,NA
+NA,NA,NA,NA,NA
+URY,298,🇺🇾,Uruguay,Americas
+UZB,927,🇺🇿,Uzbekistan,Asia
+VUT,846,🇻🇺,Vanuatu,Oceania
+VAT,NA,🇻🇦,Vatican City,Europe
+VEN,299,🇻🇪,Venezuela,Americas
+VNM,582,🇻🇳,Vietnam,Asia
+WLF,NA,🇼🇫,Wallis & Futuna,Oceania
+ESH,NA,🇪🇭,Western Sahara,Africa
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+YEM,474,🇾🇪,Yemen,Asia
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,188,NA,NA,NA
+ZMB,754,🇿🇲,Zambia,Africa
+NA,NA,NA,NA,NA
+ZWE,698,🇿🇼,Zimbabwe,Africa
+ALA,NA,🇦🇽,Åland Islands,Europe
