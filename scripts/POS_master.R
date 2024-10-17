@@ -87,3 +87,95 @@ source("scripts/POS_functions.R")
 source("scripts/POS_data.R")
 
 # ------------------------------------------------------------------------------
+# ---- Exhibits ----
+# ------------------------------------------------------------------------------
+# Figure 1: Synthetic DID on exchange rate around NAIM’s cancellation ----
+source("scripts/exhibits/POS_Fig1.R")
+# ------------------------------------------------------------------------------
+# Figure 2: NAIM cancellation as a macroeconomic natural experiment — SDID Falsification ----
+source("scripts/exhibits/POS_Fig2.R")
+# ------------------------------------------------------------------------------
+# Figure 3: Descriptive Evidence — Monthly Economic Activity Indicators ----
+source("scripts/exhibits/POS_Fig3.R")
+
+# ------------------------------------------------------------------------------
+# Figure 4: NAIM’s Referendum and Cancellation Economic Consequences — SCM Monthly ----
+source("scripts/exhibits/POS_Fig4.R")
+# ------------------------------------------------------------------------------
+# Figure 5: NAIM’s Referendum and Cancellation Economic Consequences — Quarterly GDP SCM ----
+source("scripts/exhibits/POS_Fig5.R")
+
+# ------------------------------------------------------------------------------
+# Figure 6: Economic Uncertainty Indexes ----
+source("scripts/exhibits/POS_Fig6.R")
+# ------------------------------------------------------------------------------
+# Figure 7: Quarterly Investment — ATT ----
+source("scripts/exhibits/POS_Fig7.R")
+# ------------------------------------------------------------------------------
+# Figure 8: Quarterly Construction Index by Region ----
+source("scripts/exhibits/POS_Fig8.R")
+# ------------------------------------------------------------------------------
+# Figure 9: Medium-run Economic ATT on Quarterly GDP — SCM Analysis ----
+source("scripts/exhibits/POS_Fig9.R")
+# ------------------------------------------------------------------------------
+# ---- Appendix ----
+# ------------------------------------------------------------------------------
+# Figure A.1: V-Dem Indexes — Democracy Trends in Mexico ----
+source("scripts/exhibits/POS_FigA1.R")
+# ------------------------------------------------------------------------------
+# Figure B.1: Quarterly GDP SCM - controlling for imports and exports ----
+source("scripts/exhibits/POS_FigB1.R")
+# ------------------------------------------------------------------------------
+# Figure B.2: Quarterly GDP SCM - controlling for government expenditure share ----
+source("scripts/exhibits/POS_FigB2.R")
+# ------------------------------------------------------------------------------
+# Figure B.3: Robustness Check — Backdating Treatment 9 Months Prior to NAIM Cancellation ----
+source("scripts/exhibits/POS_FigB3.R")
+# ------------------------------------------------------------------------------
+# Figure B.4: Leave-One-Out (LOO) Analysis and Plot for Monthly Economic Activity Index ----
+source("scripts/exhibits/POS_FigB4.R")
+# ------------------------------------------------------------------------------
+# Figure B.5: LOO — Quarterly GDP SCM ----
+source("scripts/exhibits/POS_FigB5.R")
+# ------------------------------------------------------------------------------
+# Figure B.6: Robustness Check — Alternative Donor Pool ----
+source("scripts/exhibits/POS_FigB6.R")
+# ------------------------------------------------------------------------------
+# Figure B.7: Falsification (Placebo Test) in Other Countries ----
+source("scripts/exhibits/POS_FigB7.R")
+# ------------------------------------------------------------------------------
+# Figure B.8: Sensitivity Analysis for Different Dates ----
+source("scripts/exhibits/POS_FigB8.R")
+# ------------------------------------------------------------------------------
+# Figure B.9: Robustness: Local Projections IRF ----
+source("scripts/exhibits/POS_FigB9.R")
+# ------------------------------------------------------------------------------
+# Figure B.10: Regions Map ----
+source("scripts/exhibits/POS_FigB10.R")
+# ------------------------------------------------------------------------------
+# Figure B.11: Heterogeneity: Within-Mexico Regions ----
+source("scripts/exhibits/POS_FigB11.R")
+# ------------------------------------------------------------------------------
+# Figure B.12: Robustness: Different weighting schemes ----
+source("scripts/exhibits/POS_FigB12.R")
+# ------------------------------------------------------------------------------
+# Table B1: Balance on Pre-Treatment Observables: Components shares ----
+source("scripts/exhibits/POS_TabB1.R")
+# ------------------------------------------------------------------------------
+# Table B.2: SCM Weights across specifications ----
+source("scripts/exhibits/POS_TabB2.R")
+
+# ------------------------------------------------------------------------------
+# Figure C.1: Mexican Financial Uncertainty and Exchange Rate Volatility ----
+source("scripts/exhibits/POS_FigC1.R")
+# ------------------------------------------------------------------------------
+# Figure C.2: GDP Components — ATT----
+source("scripts/exhibits/POS_FigC2.R")
+# ------------------------------------------------------------------------------
+# Figure C.3: National Quarterly Activity Indexes by Sector ----
+source("scripts/exhibits/POS_FigC3.R")
+# ------------------------------------------------------------------------------
+# Figure C.4: Yearly GDP per capita — SCM ----
+source("scripts/exhibits/POS_FigC4.R")
+
+

@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------------
-# Figure B.2: Quarterly GDP SCM - controlling for goverment expenditure share
+# Figure B.2: Quarterly GDP SCM - controlling for government expenditure share
 # ------------------------------------------------------------------------------
 # This section of code runs the Synthetic Control Method (SCM) analysis and only executes 
 # if the results files do not already exist.

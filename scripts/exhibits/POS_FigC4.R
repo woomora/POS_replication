@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------------
-# Figure C.4: Yearly GDP per capita — SCM
+# Figure C.4: Yearly GDP per capita — SCM ----
 # ------------------------------------------------------------------------------
 # This section of code runs the Synthetic Control Method (SCM) analysis and only executes 
 # if the results files do not already exist.
