@@ -1,7 +1,7 @@
-# Replication of "Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps"
+# Replication package: "Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps"
 
 ## Overview
-This repository contains the replication materials for the paper _Populism's Original Sin: Short-Term Populist Penalties and Uncertainty Traps_. The paper investigates the short-term economic consequences of populist policies, focusing on the cancellation of Mexico City’s New International Airport (NAIM) in 2018 as a macroeconomic natural experiment. 
+This repository contains the replication materials for the paper [_Populism's Original Sin: Short-Term Populist Penalties and Uncertainty Traps_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646).
 
 ## Scripts
 
