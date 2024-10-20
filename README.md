@@ -42,28 +42,38 @@ R version 4.4.1 (2024-06-14)
 Platform: aarch64-apple-darwin20 (macOS Sonoma 14.2.1)
 
 Attached packages:
-- tidyverse 2.0.0
-- readr 2.1.5
-- janitor 2.2.0
-- lubridate 1.9.3
-- panelView 1.1.18
-- fixest 0.12.1
-- countrycode 1.6.0
-- scpi 2.2.5
-- imputeTS 3.3
-- modelsummary 2.1.1
-- readxl 1.4.3
-- ggnewscale 0.4.10
-- ggthemes 5.1.0
-- pracma 2.4.4
-- tsibble 1.1.4
+- httr 1.4.7
+- knitr 1.48
+- binsreg 1.0
+- zoo 1.8-12
+- lpirfs 0.2.3
 - feasts 0.3.2
 - fabletools 0.4.2
-- lpirfs 0.2.3
-- zoo 1.8-12
-- binsreg 1.0
-- knitr 1.48
-- httr 1.4.7
+- tsibble 1.1.4
+- pracma 2.4.4
+- ggthemes 5.1.0
+- ggnewscale 0.4.10
+- readxl 1.4.3
+- modelsummary 2.1.1
+- imputeTS 3.3
+- scpi 2.2.5
+- countrycode 1.6.0
+- fixest 0.12.1
+- panelView 1.1.18
+- janitor 2.2.0
+- lubridate 1.9.3
+- forcats 1.0.0
+- stringr 1.5.1
+- dplyr 1.1.4
+- purrr 1.0.2
+- readr 2.1.5
+- tidyr 1.3.1
+- tibble 3.2.1
+- ggplot2 3.5.1
+- tidyverse 2.0.0
+- vdemdata 14.0
+- synthdid 0.0.9
+- pacman 0.5.1
 ```
 
 ## Citation
