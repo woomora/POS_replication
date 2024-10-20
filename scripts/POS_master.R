@@ -18,7 +18,6 @@ p_load(
   countrycode,    # Country code conversion
   scpi,           # Synthetic control methods
   imputeTS,       # Time series imputation
-  synthdid,       # Difference-in-differences with synthetic control
   modelsummary,   # Model summaries and visualizations
   readxl,         # Excel file reading
   ggnewscale,     # Add multiple scales to ggplot2
@@ -28,12 +27,17 @@ p_load(
   feasts,         # Time series decomposition
   fabletools,     # Time series forecasting tools
   lpirfs,         # Local projection impulse response functions
-  vdemdata,       # Loads the V-Dem dataset, providing data on democracy indicators across the world
   zoo,            # Time series objects
   binsreg,        # Binned scatterplots for regression analysis
   knitr,          # Dynamic report generation in R
   httr,           # Tools for working with HTTP, useful for API calls and web requests
   readxl          # Read Excel files into R
+)
+
+# Packages in GitHub
+pacman::p_load_gh(
+  "synth-inference/synthdid",     # Difference-in-differences with synthetic control
+  "vdeminstitute/vdemdata"        # Loads the V-Dem dataset, providing data on democracy indicators across the world
 )
 
 # Set working directory to the appropriate project path
