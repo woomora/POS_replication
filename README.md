@@ -1,7 +1,7 @@
-# Replication of "Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps"
+# Replication package: "Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps"
 
 ## Overview
-This repository contains the replication materials for the paper _Populism's Original Sin: Short-Term Populist Penalties and Uncertainty Traps_. The paper investigates the short-term economic consequences of populist policies, focusing on the cancellation of Mexico City’s New International Airport (NAIM) in 2018 as a macroeconomic natural experiment. 
+This repository contains the replication materials for the paper [_Populism's Original Sin: Short-Term Populist Penalties and Uncertainty Traps_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646).
 
 ## Scripts
 
@@ -26,13 +26,55 @@ This script includes reusable functions used throughout the replication for esti
 ### 4. `POS_monetary_costs.R`
 This script focuses on estimating the monetary costs associated with the NAIM cancellation. It compares these costs with both baseline GDP estimates and independent estimates from the Superior Audit Office (ASF).
 
-## Reproduction Instructions
+## Replication Instructions
 
-1. Clone this repository.
-2. Install the required R packages listed in `requirements.txt`.
-3. Run the `POS_master.R` script to replicate the results of the paper.
+1. Clone or download this repository.
+2. Run the `POS_master.R` script to replicate the results of the paper.
    - This script will automatically call the necessary data and function scripts.
    - Outputs will be saved in the `results/` directory, including plots and synthetic control estimates.
+
+### R Session Info
+
+To replicate the analysis, the following packages are installed and loaded using the `pacman` package. `pacman::p_load()` installs from CRAN, while `pacman::p_load_gh()` installs packages from GitHub if they are not already installed.
+
+```r
+R version 4.4.1 (2024-06-14)
+Platform: aarch64-apple-darwin20 (macOS Sonoma 14.2.1)
+
+Attached packages:
+- httr 1.4.7
+- knitr 1.48
+- binsreg 1.0
+- zoo 1.8-12
+- lpirfs 0.2.3
+- feasts 0.3.2
+- fabletools 0.4.2
+- tsibble 1.1.4
+- pracma 2.4.4
+- ggthemes 5.1.0
+- ggnewscale 0.4.10
+- readxl 1.4.3
+- modelsummary 2.1.1
+- imputeTS 3.3
+- scpi 2.2.5
+- countrycode 1.6.0
+- fixest 0.12.1
+- panelView 1.1.18
+- janitor 2.2.0
+- lubridate 1.9.3
+- forcats 1.0.0
+- stringr 1.5.1
+- dplyr 1.1.4
+- purrr 1.0.2
+- readr 2.1.5
+- tidyr 1.3.1
+- tibble 3.2.1
+- ggplot2 3.5.1
+- tidyverse 2.0.0
+- vdemdata 14.0
+- synthdid 0.0.9
+- pacman 0.5.1
+```
 
 ## Citation
 To cite the paper in your work, you can use the following BibTeX entry:
