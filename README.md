@@ -1,79 +1,110 @@
-# Replication package: "Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps"
+# Replication Package: "Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps"
 
 ## Overview
+
 This repository contains the replication materials for the paper [_Populism's Original Sin: Short-Term Populist Penalties and Uncertainty Traps_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646).
+
+The scripts, data, and instructions provided here allow for the replication of all analyses and results. Follow the steps below to ensure smooth execution.
+
+---
 
 ## Scripts
 
 ### 1. `POS_master.R`
-This script contains the workspace and settings required to run the other scripts. The core analysis uses the synthetic control method to estimate the counterfactual economic outcomes had the NAIM project not been canceled. All results, including synthetic control estimates and cost calculations, are saved as output files for further review.
+This script sets up the workspace and runs all other scripts. It implements the synthetic control method to estimate counterfactual economic outcomes had the NAIM project not been canceled. Outputs, including synthetic control estimates, figures, and tables, are saved in the `results/` directory.
 
 ### 2. `POS_data.R`
-This script handles all data-related operations, including importing and transforming raw economic data such as GDP differences.
+This script handles data preparation, including importing and transforming economic data such as GDP differences.
 
-**Data Sources:**
+**Key Data Sources:**
 - Quarterly GDP data from [IMF's International Financial Statistics (IFS)](https://data.imf.org/?sk=4c514d48-b6ba-49ed-8ab9-52b0c1a0179b).
 - Monthly economic activity indicators for ten countries in the Americas.
 - Exchange rate and interest rate data from [BIS](https://data.bis.org/topics/EER).
-- Quarterly economic activity in Mexican regions from [INEGI](https://www.inegi.org.mx/temas/itaee/).
+- Regional economic activity data from [INEGI](https://www.inegi.org.mx/temas/itaee/).
 
 ### 3. `POS_functions.R`
-This script includes reusable functions used throughout the replication for estimation, sensitivity analysis, and visualization. These functions take as input an `scpi` object and generate the estimates and inference as a `tibble`.
-
-- `sc_estimate`: Function for obtaining the synthetic control method estimates.
-- `sc_inference`: Function for obtaining the synthetic control method inference.
+Reusable functions for estimation, sensitivity analysis, and visualization, including:
+- `sc_estimate`: Obtains synthetic control estimates.
+- `sc_inference`: Performs inference for synthetic control estimates.
 
 ### 4. `POS_monetary_costs.R`
-This script focuses on estimating the monetary costs associated with the NAIM cancellation. It compares these costs with both baseline GDP estimates and independent estimates from the Superior Audit Office (ASF).
+This script estimates monetary costs related to the NAIM cancellation, comparing baseline GDP estimates with external benchmarks (e.g., Superior Audit Office).
+
+---
 
 ## Replication Instructions
 
-1. Clone or download this repository.
-2. Run the `POS_master.R` script to replicate the results of the paper.
-   - This script will automatically call the necessary data and function scripts.
-   - Outputs will be saved in the `results/` directory, including plots and synthetic control estimates.
+### 1. System Requirements
 
-### R Session Info
+- **R version**: 4.4.1 or higher
+- **Operating System**: macOS (Sonoma 14.2.1 or later), Linux, or Windows 10+
+- **Additional Software**:
+  - macOS: Xcode Command Line Tools
+  - Windows: Rtools
+  - Linux: Development libraries (`libssl-dev`, `libcurl4-openssl-dev`, etc.)
 
-To replicate the analysis, the following packages are installed and loaded using the `pacman` package. `pacman::p_load()` installs from CRAN, while `pacman::p_load_gh()` installs packages from GitHub if they are not already installed.
+### 2. Setup
+
+#### a. Clone the Repository
+Download or clone the repository:
+```bash
+git clone https://github.com/billywoom/POS_replication.git
+cd POS_replication
+```
+
+#### b. Install R Packages
+This project uses the `pacman` package to simplify package management.
+
+1. Install `pacman` if it's not already installed:
+```r
+install.packages("pacman")
+```
+    
+2. Load and install all required packages:
+```r
+library(pacman)
+p_load(tidyverse, readr, janitor, lubridate, panelView, fixest, countrycode, scpi, imputeTS,
+      modelsummary, readxl, ggnewscale, ggthemes, pracma, tsibble, feasts, fabletools,
+       lpirfs, zoo, binsreg, knitr, httr, synthdid, vdemdata)        
+```
+
+#### c. Install GitHub Packages
+For packages not available on CRAN:
+```r
+devtools::install_github("synth-inference/synthdid")
+devtools::install_github("vdeminstitute/vdemdata")
+```
+
+#### d. Address Known Installation Issues
+
+- On macOS, install system dependencies if package installation fails:
+```bash
+xcode-select --install
+brew install openssl libgit2
+```
+- On Windows, ensure Rtools is installed.
+
+### 3. Run the Scripts
+
+Set your working directory to the project folder and run the master script:
+```r
+setwd("/path/to/project")
+source("POS_master.R")
+```
+
+### Session Information
+
+To replicate the analysis, ensure your R session matches the following configuration:
 
 ```r
 R version 4.4.1 (2024-06-14)
 Platform: aarch64-apple-darwin20 (macOS Sonoma 14.2.1)
 
 Attached packages:
-- httr 1.4.7
-- knitr 1.48
-- binsreg 1.0
-- zoo 1.8-12
-- lpirfs 0.2.3
-- feasts 0.3.2
-- fabletools 0.4.2
-- tsibble 1.1.4
-- pracma 2.4.4
-- ggthemes 5.1.0
-- ggnewscale 0.4.10
-- readxl 1.4.3
-- modelsummary 2.1.1
-- imputeTS 3.3
-- scpi 2.2.5
-- countrycode 1.6.0
-- fixest 0.12.1
-- panelView 1.1.18
-- janitor 2.2.0
-- lubridate 1.9.3
-- forcats 1.0.0
-- stringr 1.5.1
-- dplyr 1.1.4
-- purrr 1.0.2
-- readr 2.1.5
-- tidyr 1.3.1
-- tibble 3.2.1
-- ggplot2 3.5.1
-- tidyverse 2.0.0
-- vdemdata 14.0
-- synthdid 0.0.9
-- pacman 0.5.1
+- httr, knitr, binsreg, zoo, lpirfs, feasts, fabletools, tsibble, pracma, ggthemes,
+  ggnewscale, readxl, modelsummary, imputeTS, scpi, countrycode, fixest, panelView,
+  janitor, lubridate, forcats, stringr, dplyr, purrr, readr, tidyr, tibble, ggplot2,
+  tidyverse, vdemdata, synthdid, pacman
 ```
 
 ## Citation
