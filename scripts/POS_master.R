@@ -5,8 +5,10 @@
 # Clear existing workspace
 rm(list = ls())
 
-# 'pacman' simplifies loading and managing R packages. The p_load function
-# installs the packages if they are not already installed and then loads them.
+# Ensure pacman is installed
+if (!requireNamespace("pacman", quietly = TRUE)) install.packages("pacman")
+
+# Load pacman and required packages
 library(pacman)
 p_load(
   tidyverse,      # Core packages for data manipulation and visualization
@@ -34,11 +36,17 @@ p_load(
   readxl          # Read Excel files into R
 )
 
-# Packages in GitHub
-pacman::p_load_gh(
-  "synth-inference/synthdid",     # Difference-in-differences with synthetic control
-  "vdeminstitute/vdemdata"        # Loads the V-Dem dataset, providing data on democracy indicators across the world
-)
+# Install and load GitHub packages
+if (!requireNamespace("synthdid", quietly = TRUE)) {
+  devtools::install_github("synth-inference/synthdid")
+}
+if (!requireNamespace("vdemdata", quietly = TRUE)) {
+  devtools::install_github("vdeminstitute/vdemdata")
+}
+
+# Load GitHub packages explicitly
+library(synthdid)
+library(vdemdata)
 
 # Set working directory to the appropriate project path
 path <- getwd()
