@@ -82,7 +82,7 @@ devtools::install_github("vdeminstitute/vdemdata")
 xcode-select --install
 brew install openssl libgit2
 ```
-- On Windows, ensure Rtools is installed.
+- On Windows, ensure [Rtools](https://cran.r-project.org/bin/windows/Rtools/) is installed.
 
 ### 3. Run the Scripts
 
