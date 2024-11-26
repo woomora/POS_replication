@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/FigB5"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure B.5: LOO — Quarterly GDP SCM
 # ------------------------------------------------------------------------------
 # This section of code runs the Synthetic Control Method (SCM) analysis and only executes 

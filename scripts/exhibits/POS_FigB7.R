@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/FigB7"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure B.7: Falsification (Placebo Test) in Other Countries
 # ------------------------------------------------------------------------------
 # This script performs a falsification test by applying the SCM to other countries 

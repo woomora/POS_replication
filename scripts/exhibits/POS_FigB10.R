@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/FigB10"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure B.10: Regions Map
 # ------------------------------------------------------------------------------
 # This script creates a map of Mexico showing regions based on the classification

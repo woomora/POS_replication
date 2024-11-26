@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/Fig2"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure 2: NAIM cancellation as a macroeconomic natural experiment — SDID Falsification
 # ------------------------------------------------------------------------------
 # This code performs a falsification test for the Synthetic DID analysis around the NAIM cancellation.
@@ -45,8 +53,8 @@ if (!file.exists("results/Fig2/falsification_synthdid.csv")) {
         lexr = log(exr),
         # Time to treatment, measured in days from the treatment date
         time_to_treat = lubridate::interval(ymd(time.tr.date), date) %/% days(1),
-        # Define treatment variable (1 if MXN on/after treatment date, else 0)
-        treatment = if_else(mxn == 1 & date >= time.tr.date, 1, 0)
+        # Define treatment variable (1 if mxn_mexican_peso on/after treatment date, else 0)
+        treatment = if_else(currency == "mxn_mexican_peso" & date >= time.tr.date, 1, 0)
       )
     
     # Prepare data for Synthetic DID analysis

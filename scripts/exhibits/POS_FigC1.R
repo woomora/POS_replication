@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/FigC1"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure C.1: Mexican Financial Uncertainty and Exchange Rate Volatility ----
 # ------------------------------------------------------------------------------
 # Data Loading and Preparation

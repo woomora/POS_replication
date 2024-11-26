@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/FigB4"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure B.4: Leave-One-Out (LOO) Analysis and Plot for Monthly Economic Activity Index
 # ------------------------------------------------------------------------------
 # This script performs a robustness check using SCM with Leave-One-Out (LOO) analysis

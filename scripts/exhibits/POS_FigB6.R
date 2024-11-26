@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/FigB6"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure B.6: Robustness Check — Alternative Donor Pool
 # ------------------------------------------------------------------------------
 # This script conducts a Synthetic Control Method (SCM) analysis using an alternative 

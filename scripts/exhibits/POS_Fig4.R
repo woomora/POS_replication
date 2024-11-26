@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/Fig4"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure 4: NAIM’s Referendum and Cancellation Economic Consequences — SCM Monthly
 # ------------------------------------------------------------------------------
 # This section of code only runs if the result files do not exist in the specified directory.

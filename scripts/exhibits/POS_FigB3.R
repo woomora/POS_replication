@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/FigB3"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure B.3: Robustness Check — Backdating Treatment 9 Months Prior to NAIM Cancellation
 # ------------------------------------------------------------------------------
 # This script performs a robustness check by backdating the treatment (NAIM cancellation)

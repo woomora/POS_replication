@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/FigC2"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure C.2: GDP Components — ATT----
 # ------------------------------------------------------------------------------
 # Function to run SCM analysis for GDP components
@@ -141,7 +149,7 @@ run_scm_analysis <- function(component, log_transform = TRUE, output_name) {
     theme(plot.margin = unit(c(1.25, 1, 1, 1), "lines"))
   
   # Save the plot as a PNG file
-  ggsave(paste0("results/FigC2/", output_name, ".png"), dpi = 300, width = 7.4, height = 4.8)
+  ggsave(paste0("results/FigC2/FigC2_", output_name, ".png"), dpi = 300, width = 7.4, height = 4.8)
 }
 
 # ------------------------------------------------------------------------------

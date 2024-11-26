@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/Fig3"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure 3: Descriptive Evidence — Monthly Economic Activity Indicators
 # ------------------------------------------------------------------------------
 # Load the Monthly Economic Activity Index dataset

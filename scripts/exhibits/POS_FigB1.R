@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/FigB1"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure B.1: Quarterly GDP SCM - controlling for imports and exports
 # ------------------------------------------------------------------------------
 # This section of code runs the Synthetic Control Method (SCM) analysis and only executes 

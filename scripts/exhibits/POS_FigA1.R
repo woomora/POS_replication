@@ -1,4 +1,12 @@
 # ------------------------------------------------------------------------------
+# Ensure the output directory exists
+# ------------------------------------------------------------------------------
+output_dir <- "results/FigA1"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# ------------------------------------------------------------------------------
 # Figure A.1: V-Dem Indexes — Democracy Trends in Mexico
 # ------------------------------------------------------------------------------
 # This code generates a plot for V-Dem democracy indexes in Mexico from 1981 to 2020,
