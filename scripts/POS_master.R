@@ -34,7 +34,10 @@ p_load(
   knitr,          # Dynamic report generation in R
   httr,           # Tools for working with HTTP, useful for API calls and web requests
   readxl,         # Read Excel files into R
-  parallel        # Parallel computing support for faster processing
+  parallel,       # Parallel computing support for faster processing
+  viridis,        # Viridis color schemes
+  sf,             # Simple feature (spatial) objects
+  kableExtra      # Extra features for kable functions
 )
 
 # Install and load GitHub packages

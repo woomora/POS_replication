@@ -218,7 +218,7 @@ ggsave("results/Fig4/Fig4a.png", dpi = 300, width = 7.4, height = 4.8)
 # ------------------------------------------------------------------------------
 inference_2 <- scpi_inference |> 
   filter(time_to_treat != -1) |> 
-  # select(-value) |> 
+  select(-value) |> 
   left_join(
     scpi_estimates |> 
       filter(name == "obs") |> 

@@ -344,6 +344,9 @@ for (r in regions) {
     ) +
     coord_cartesian(clip = "off") 
   
-  ggsave(str_c("results/FigB11/FigB11_", region, ".png"), dpi = 300)
+  ggsave(
+    str_c("results/FigB11/FigB11_", region, ".png"), 
+    dpi = 300, width = 8.85, height = 4.85
+  )
 }
 
